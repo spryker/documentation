@@ -1,0 +1,1 @@
+The Spryker Commerce OS automatically registers the store's currency your customer selects and manages orders accordingly. Prices, Payment and Shipping costs are all converted automatically.
