@@ -1,0 +1,1 @@
+A high performance and fast site speed is essential to guarantee customer satisfaction. The Spryker Commerce OS ensures this by integrating images from separate hosting servers.
