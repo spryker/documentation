@@ -1,0 +1,1 @@
+Create SEO friendly URLs per page to increase your online shop's credibility and search engine ranking.
