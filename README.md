@@ -17,3 +17,7 @@ That’s it! Your pull request has been created. Our Documentation team will rev
 
 ## Versions and articles
 To edit a specific article, in the list below, select the Product version where the article resides. You will be taken to the complete list of articles in this version:
+- [201811.0](https://github.com/spryker/documentation/blob/master/201811.0/README.md)
+- [201903.0](https://github.com/spryker/documentation/blob/master/201903.0/README.md)
+- [201907.0](https://github.com/spryker/documentation/blob/master/201907.0/README.md)
+- [202001.0](https://github.com/spryker/documentation/blob/master/202001.0/README.md)
