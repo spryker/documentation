@@ -748,6 +748,8 @@
         9. [Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/81294be3-fe2f-4687-b79e-e853d7553bb8.md)
         10. B2B Demo Shop Installation Guides
             1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/202001.0/d33a50c7-19c6-46da-9caa-96650c2df142.md)
+            2. [B2B Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/202001.0/31d5932f-a103-467f-8225-97adaea7a883.md)
+            3. [B2B Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/202001.0/8fbc6462-b29c-4eec-bcde-16c116503a78.md)
         11. B2C Demo Shop Installation Guides
             1. [B2C Demo Shop Installation Guide](https://github.com/spryker/documentation/blob/master/202001.0/6472e23c-3d20-444b-8bd6-fda49dd2d94d.md)
         12. Spryker in Docker
