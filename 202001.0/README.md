@@ -1405,7 +1405,7 @@
                 1. [Migration Guide - ErrorHandler](https://github.com/spryker/documentation/blob/master/202001.0/519c0b22-a195-4a99-8ef7-de2f7d6ad66c.md)
                 2. [Migration Guide - EventDispatcher ](https://github.com/spryker/documentation/blob/master/202001.0/a8678812-bea8-43ff-87ab-7a20bf91ce7d.md)
                 3. [Migration Guide - Form](https://github.com/spryker/documentation/blob/master/202001.0/6a788a7b-13bd-42e7-b267-d1825c3f5b65.md)
-                4. [Migration Guide - Http](https://github.com/spryker/documentation/blob/master/202001.0/409dfdc4-878f-4550-8acd-256340f0aea2.md)
+                4. [Migration Guide - HTTP](https://github.com/spryker/documentation/blob/master/202001.0/409dfdc4-878f-4550-8acd-256340f0aea2.md)
                 5. [Migration Guide - Locale](https://github.com/spryker/documentation/blob/master/202001.0/c910e1a3-b0aa-4813-ae61-9c89d10559f4.md)
                 6. [Migration Guide - Propel](https://github.com/spryker/documentation/blob/master/202001.0/17c9d823-6427-4e7c-91d5-24dd0e01873f.md)
                 7. [Migration Guide - Messenger](https://github.com/spryker/documentation/blob/master/202001.0/7e5ae8d0-4f97-4308-bceb-859f94bc6720.md)
