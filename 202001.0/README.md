@@ -741,13 +741,15 @@
         2. [System Requirements](https://github.com/spryker/documentation/blob/master/202001.0/b3391f0e-eebb-42b6-9323-5010863dde8a.md)
         3. [Composer](https://github.com/spryker/documentation/blob/master/202001.0/540b1ad2-03bb-4608-a602-62591def6ad3.md)
         4. [Configuring the Database Server](https://github.com/spryker/documentation/blob/master/202001.0/fef27977-c807-428d-86d9-2b6dbcc5557e.md)
-        5. [B2B Demo Shop Installation Guide](https://github.com/spryker/documentation/blob/master/202001.0/d33a50c7-19c6-46da-9caa-96650c2df142.md)
-        6. [B2C Demo Shop Installation Guide](https://github.com/spryker/documentation/blob/master/202001.0/6472e23c-3d20-444b-8bd6-fda49dd2d94d.md)
-        7. [Installing Spryker with Custom Set of Modules](https://github.com/spryker/documentation/blob/master/202001.0/32504ab9-d5d9-4f8d-b8bf-fe080f33f09a.md)
-        8. [Post-Installation Steps and Additional Info](https://github.com/spryker/documentation/blob/master/202001.0/a50c3107-4870-46e3-877a-28b26832481c.md)
-        9. [Virtual Machine Cleanup](https://github.com/spryker/documentation/blob/master/202001.0/5d4b3ff5-6c31-42ce-8519-aaf40c0ea71a.md)
-        10. [Redis Configuration](https://github.com/spryker/documentation/blob/master/202001.0/17bef84b-0e4c-4541-9553-800744c82d5c.md)
-        11. [Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/81294be3-fe2f-4687-b79e-e853d7553bb8.md)
+        5. [Installing Spryker with Custom Set of Modules](https://github.com/spryker/documentation/blob/master/202001.0/32504ab9-d5d9-4f8d-b8bf-fe080f33f09a.md)
+        6. [Post-Installation Steps and Additional Info](https://github.com/spryker/documentation/blob/master/202001.0/a50c3107-4870-46e3-877a-28b26832481c.md)
+        7. [Virtual Machine Cleanup](https://github.com/spryker/documentation/blob/master/202001.0/5d4b3ff5-6c31-42ce-8519-aaf40c0ea71a.md)
+        8. [Redis Configuration](https://github.com/spryker/documentation/blob/master/202001.0/17bef84b-0e4c-4541-9553-800744c82d5c.md)
+        9. [Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/81294be3-fe2f-4687-b79e-e853d7553bb8.md)
+        10. B2B Demo Shop Installation Guides
+            1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/202001.0/d33a50c7-19c6-46da-9caa-96650c2df142.md)
+        11. B2C Demo Shop Installation Guides
+            1. [B2C Demo Shop Installation Guide](https://github.com/spryker/documentation/blob/master/202001.0/6472e23c-3d20-444b-8bd6-fda49dd2d94d.md)
         12. Spryker in Docker
             1. [ Spryker in Docker](https://github.com/spryker/documentation/blob/master/202001.0/146f099b-87a7-455f-92aa-6995eb90d2ba.md)
             2. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
