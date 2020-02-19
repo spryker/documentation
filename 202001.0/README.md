@@ -752,6 +752,7 @@
             3. [B2B Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/202001.0/8fbc6462-b29c-4eec-bcde-16c116503a78.md)
         11. B2C Demo Shop Installation Guides
             1. [B2C Demo Shop Installation Guide](https://github.com/spryker/documentation/blob/master/202001.0/6472e23c-3d20-444b-8bd6-fda49dd2d94d.md)
+            2. [B2C Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/202001.0/6c121d1e-edbd-4763-9e7c-0f160b1a78b3.md)
         12. Spryker in Docker
             1. [ Spryker in Docker](https://github.com/spryker/documentation/blob/master/202001.0/146f099b-87a7-455f-92aa-6995eb90d2ba.md)
             2. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
