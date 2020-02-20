@@ -1381,7 +1381,7 @@
             6. [Glue API: Checkout Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/d91dd4ce-1029-4f1f-82e4-0ec95d3bd4ab.md)
             7. [Glue API: Content Items API Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/be895e9a-8c1b-412a-98fe-688abefc4741.md)
             8. [Glue API: Company Account Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/bc3d1e6d-c991-49a3-b1a5-c93c67409c48.md)
-            9. [GLUE: Customer Access Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/a2a5d787-e23a-43c4-aee3-ca875ab76280.md)
+            9. [Glue API: Customer Access Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/a2a5d787-e23a-43c4-aee3-ca875ab76280.md)
             10. [Glue API: Promotions & Discounts Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/69134899-8851-4d05-8c98-96ec45f42c7b.md)
             11. [Glue API: Spryker Core Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/1274ba9d-7dc3-4df9-902c-1193b1c6b74a.md)
             12. [Glue API: Product Availability Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/c4217638-1b4b-4fa2-b92b-0cbdc28a0961.md)
