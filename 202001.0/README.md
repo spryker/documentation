@@ -111,22 +111,22 @@
         3. [Page Versions](https://github.com/spryker/documentation/blob/master/202001.0/e5355b38-77b0-4423-947f-3ab570ae395a.md)
         4. [Publish to Live](https://github.com/spryker/documentation/blob/master/202001.0/99b33c6d-d2b2-474b-a76b-ff94c2dd80a1.md)
         5. [Time Restricted Content Page Publishing](https://github.com/spryker/documentation/blob/master/202001.0/c77bca38-a268-4756-aadb-753adc67bad6.md)
-        6. CMS Page
+        6. Templates & Slots
+            1. [Templates & Slots](https://github.com/spryker/documentation/blob/master/202001.0/4ece0531-6de2-47d9-b407-f7e551f03c09.md)
+            2. [Templates & Slots Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/9695e3a5-ee25-405d-9dc9-1d5229332af4.md)
+        7. CMS Page
             1. [CMS Page](https://github.com/spryker/documentation/blob/master/202001.0/bc2df0e0-8e84-485f-8e16-588a9a6662af.md)
             2. [CMS Extension Points](https://github.com/spryker/documentation/blob/master/202001.0/50c717c3-4f0d-4da4-94fe-374c7290757b.md)
             3. [Multi-store CMS Pages](https://github.com/spryker/documentation/blob/master/202001.0/89a3b4b9-8768-4c7c-a5ca-8043fb56912c.md)
-        7. CMS Block
+        8. CMS Block
             1. [CMS Block](https://github.com/spryker/documentation/blob/master/202001.0/e03c56fa-eb63-44cd-ae6c-cdcbd685f309.md)
-        8. Content Items
+        9. Content Items
             1. [Content Items Overview](https://github.com/spryker/documentation/blob/master/202001.0/76dc6e17-882e-4237-b312-19f902739bc3.md)
             2. [Content Items](https://github.com/spryker/documentation/blob/master/202001.0/eba5b41e-0a6c-4127-8987-168e4199de33.md)
             3. [Content Items Types: Module Relations](https://github.com/spryker/documentation/blob/master/202001.0/009ad7da-7319-4363-8f7e-a5cdb0dba24d.md)
-        9. Content Item Widgets
+        10. Content Item Widgets
             1. [Content Items Widgets](https://github.com/spryker/documentation/blob/master/202001.0/f54c39b0-ddfe-495c-ac55-94d10bad3857.md)
             2. [Content Items Widgets Overview](https://github.com/spryker/documentation/blob/master/202001.0/1adf1afe-f1e4-40c5-b95d-499e6f027f76.md)
-        10. Templates & Slots
-            1. [Templates & Slots](https://github.com/spryker/documentation/blob/master/202001.0/4ece0531-6de2-47d9-b407-f7e551f03c09.md)
-            2. [Templates & Slots Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/9695e3a5-ee25-405d-9dc9-1d5229332af4.md)
     6. Company Account Management
         1. [Company Account Management](https://github.com/spryker/documentation/blob/master/202001.0/74e4b9a2-cc28-4da2-a84c-9751cb8c22af.md)
         2. Agent Assist
