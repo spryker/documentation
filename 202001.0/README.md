@@ -844,7 +844,8 @@
                     2. Data Importers
                         1. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/202001.0/858dabc0-e43a-44ff-9f45-86d3c8a0205c.md)
                         2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/202001.0/ec808a2b-648d-4622-97f6-99d1154198fd.md)
-                        3. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/202001.0/78359e3d-7364-4636-9721-75eeb75789d0.md)
+                        3. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/202001.0/c3e7912b-72ff-4fd3-bf84-d687e337c4d2.md)
+                        4. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/202001.0/78359e3d-7364-4636-9721-75eeb75789d0.md)
                     3. Structural Preparations
                         1. [Extending the Database Schema](https://github.com/spryker/documentation/blob/master/202001.0/39d43635-7c79-49ee-a855-95924f57fb2c.md)
                         2. [Creating, Using and Extending the Transfer Objects](https://github.com/spryker/documentation/blob/master/202001.0/4e656278-c662-40a8-b012-10a25310f466.md)
