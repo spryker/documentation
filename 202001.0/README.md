@@ -775,7 +775,7 @@
             1. [Debugging Setup](https://github.com/spryker/documentation/blob/master/202001.0/7c3df641-25f5-4237-a89f-98ef0236f38c.md)
             2. [Debugging Setup for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/202001.0/b1091f74-8b82-4863-ac3b-d0eca18dd2ac.md)
     4. Spryker in Docker
-        1. [Spryker in Docker Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
+        1. [Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
     5. Architecture Guide
         1. [About the Architecture Guide](https://github.com/spryker/documentation/blob/master/202001.0/190c53af-5e79-454c-bbf8-21d6ad3f77e8.md)
         2. [Technology Stack](https://github.com/spryker/documentation/blob/master/202001.0/6ad881c2-a47b-4d65-a9a3-091480868edf.md)
