@@ -123,7 +123,7 @@
         9. Content Items
             1. [Content Items Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/76dc6e17-882e-4237-b312-19f902739bc3.md)
             2. [Content Items](https://github.com/spryker/documentation/blob/master/202001.0/eba5b41e-0a6c-4127-8987-168e4199de33.md)
-            3. [Content Items Types: Module Relations](https://github.com/spryker/documentation/blob/master/202001.0/009ad7da-7319-4363-8f7e-a5cdb0dba24d.md)
+            3. [Content Item Types: Module Relations](https://github.com/spryker/documentation/blob/master/202001.0/009ad7da-7319-4363-8f7e-a5cdb0dba24d.md)
     6. Company Account Management
         1. [Company Account Management](https://github.com/spryker/documentation/blob/master/202001.0/74e4b9a2-cc28-4da2-a84c-9751cb8c22af.md)
         2. Agent Assist
