@@ -215,11 +215,11 @@ Templates are `.twig` files containing a structure of a page or widget. It defin
 
 The main templates in *ShopUi* are:
 
-* **page-blank** - defines a blank page. It does not contain any html in the &lt;body&gt; tag. This template defines all basic assets for the frontend, such as the &lt;head&gt; content (meta info, styles, high priority scripts and page title), as well as the bottom part of the &lt;body&gt; content (vendor and application scripts).
+* **page-blank** - defines a blank page. It does not contain any html in the <body> tag. This template defines all basic assets for the frontend, such as the <head> content (meta info, styles, high priority scripts and page title), as well as the bottom part of the <body> content (vendor and application scripts).
 * **page-layout-main**: extends the page-blank template and defines the main layout for every single page in Spryker Suite. This template contains the header, footer, sidebars etc, but does not predefine the content of the page. This part is left blank to be defined by specific views.
 
 ## Components
-Every component is a self-contained entity that implements a certain functional purpose. It does not have parts that are executed in other components, nor it executes parts of code for them. However, a part of a component is executed on the server side (Twig), and the other part is run on the client side (SCSS         and Typescript). For this reason, data required for a component should be retrieved via Twig, and then rendered into HTML code. As the data source, it is possible to use controller code or output of another component.
+Every component is a self-contained entity that implements a certain functional purpose. It does not have parts that are executed in other components, nor it executes parts of code for them. However, a part of a component is executed on the server side (Twig), and the other part is run on the client side (SCSS and Typescript). For this reason, data required for a component should be retrieved via Twig, and then rendered into HTML code. As the data source, it is possible to use controller code or output of another component.
         
 The following conventions are applied to components:
 
@@ -250,20 +250,17 @@ The above structure contains a fully featured component, with styles and Typescr
 When defining a component template with Twig, you need to use the following default entities:
 
 * `config` variable: specifies the following base information about a component:
-    <details open>
-    <summary>Example:</summary>
+
+**Example:**
     
-    ```php
+```php
     % define config = {
         name: 'new-component-counter',
         tag: 'new-component-counter'
     } %}
-    ```
+```
 
-    </br>
-    </details>
-
-    *Attributes*:
+*Attributes*:
 
     * **name**: component name (required)
     Specifies the component name. This name is also used as the main class name for the component,  therefore the HTML element and modifiers will have this name as the base.
@@ -279,8 +276,7 @@ This variable is used the data contract for the component. The contract consists
 
 Whenever possible, use primitive types (e. g. strings, numbers etc). Avoid complex objects as a change in the object might lead to a broken component outside the contract itself.
 
-<details open>
-<summary>Example:</summary>
+**Example:**
     
 ```php
 % define data = {
@@ -289,23 +285,16 @@ Whenever possible, use primitive types (e. g. strings, numbers etc). Avoid compl
 } %}
 ```
 
-</br>
-</details>
-
 * `attributes` variable: defines HTML5 attributes for the component
 If not **null** or **false**, the specified attributes will be rendered in the component's HTML5 tag. The same as data attributes, an HTML5 attribute can be required or optional with a default value.
 
-<details open>
-<summary>Example:</summary>
+**Example:**
     
 ```php
 % define attributes = {
     'element-selector': required
 } %}
 ```
-
-</br>
-</details>
 
 * `class` variable: defines external class names that a component might receive from the context.
 * `modifiers` array: defines a list of modifiers received from the context that can be applied to the main block.
@@ -384,8 +373,7 @@ This function can be used for the following purposes:
 * create a default object that can be changed from the incoming context;
 * define tags used to pass properties and contract for a specific component.
 
-<details open>
-<summary>Typical implementation:</summary>
+**Typical implementation:**
 
 ```php
 {% extends model('component') %}
@@ -403,9 +391,6 @@ This function can be used for the following purposes:
     ...
 {% endblock %}
 ```
-    
-</br>
-</details>
 
 ## SCSS
 A typical `component-name.scss` file looks as follows:
@@ -443,8 +428,7 @@ The component class must element a DOM callback. You can use any callback define
 
 In your code, you can use keyword this to access the public API of the HTML element associated with the component.
 
-<details open>
-<summary>Typical implementation:</summary>
+**Typical implementation:**
     
 ```php
 import Component from 'ShopUi/models/component';
@@ -455,9 +439,6 @@ export default class ComponentName extends Component {
     }
 } 
 ```
-    
-</br>
-</details>
 
 The above example extend the default Component model defined in the ShopUi application. However, you can extend from any component both on the global and on the project level. In this case, your new component will inherit the logic and behavior of the component it is derived from. The following example shows a component inherited from the default side-drawer component of Spryker Shop:
 
@@ -482,8 +463,7 @@ To register the component in the DOM, you need to use the **register** function 
 
 * **importer** - must be a call of Webpack's import function to import Typescript code for the component. The call must include a Webpack magic comment that specifies which type of import you want for the component, 'lazy' or 'eager'. For details, see [Dynamic Imports](https://webpack.js.org/guides/code-splitting/#dynamic-imports).
 
-<details open>
-<summary>Typical implementation:</summary>
+**Typical implementation:**
     
 ```php
 import './component-name.scss';
@@ -497,9 +477,6 @@ export default register(
     () => import(/* webpackMode: "lazy" */'./component-name')
 );
 ```
-    
-</br>
-</details>
 
 See [Modules to Components Mapping](https://cdn.document360.io/9fafa0d5-d76f-40c5-8b02-ab9515d3e879/Images/Documentation/modules_to_components_mapping.pdf)  for description of modules and their components.
 
