@@ -124,9 +124,6 @@
             1. [Content Items Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/76dc6e17-882e-4237-b312-19f902739bc3.md)
             2. [Content Items](https://github.com/spryker/documentation/blob/master/202001.0/eba5b41e-0a6c-4127-8987-168e4199de33.md)
             3. [Content Items Types: Module Relations](https://github.com/spryker/documentation/blob/master/202001.0/009ad7da-7319-4363-8f7e-a5cdb0dba24d.md)
-        10. Content Item Widgets
-            1. [Content Items Widgets](https://github.com/spryker/documentation/blob/master/202001.0/f54c39b0-ddfe-495c-ac55-94d10bad3857.md)
-            2. [Content Items Widgets Overview](https://github.com/spryker/documentation/blob/master/202001.0/1adf1afe-f1e4-40c5-b95d-499e6f027f76.md)
     6. Company Account Management
         1. [Company Account Management](https://github.com/spryker/documentation/blob/master/202001.0/74e4b9a2-cc28-4da2-a84c-9751cb8c22af.md)
         2. Agent Assist
@@ -301,31 +298,30 @@
         10. [Product Set](https://github.com/spryker/documentation/blob/master/202001.0/62308ccc-8e49-4d0b-ab6a-578de492bb51.md)
         11. [Product Reviews](https://github.com/spryker/documentation/blob/master/202001.0/938e7035-2b60-4ac9-9122-889a1b6284ef.md)
         12. [Dynamic Product Labels](https://github.com/spryker/documentation/blob/master/202001.0/763d6ef2-e7da-4d63-9e58-d2c727393a36.md)
-        13. [Product Recommendations](https://github.com/spryker/documentation/blob/master/202001.0/0c29da5c-954d-42cf-abb5-0ce20bc1ac66.md)
-        14. Configurable Bundle
+        13. Configurable Bundle
             1. [Configurable Bundle](https://github.com/spryker/documentation/blob/master/202001.0/fd5683e1-bbea-44c9-9cc7-e4bb11a2dfb7.md)
             2. [Configurable Bundle Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/6428af77-a92a-421e-86b6-0c19f14f1169.md)
             3. [Configurable Bundle: Module Relations](https://github.com/spryker/documentation/blob/master/202001.0/5be8b5ed-d58b-4b8b-8389-fe06f3734a35.md)
-        15. Product Relations
+        14. Product Relations
             1. [Product Relations](https://github.com/spryker/documentation/blob/master/202001.0/c64130b4-55cd-45be-9b94-a0df9876634a.md)
             2. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/d688ea20-2e4a-437b-bba1-2c4b6878d827.md)
             3. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/54cd3ea8-b586-40cd-aa72-8c8ae6eab788.md)
-        16. Product Options
+        15. Product Options
             1. [Product Options](https://github.com/spryker/documentation/blob/master/202001.0/e5be9bf6-4e04-4a1d-aae8-5f33238f568d.md)
             2. [Product Options Overview](https://github.com/spryker/documentation/blob/master/202001.0/25b836c5-c32b-4e94-ad11-88ecd40dbcae.md)
-        17. Alternative Products
+        16. Alternative Products
             1. [Alternative Products](https://github.com/spryker/documentation/blob/master/202001.0/7084a778-dd76-43f4-8667-c8f77e4aec3e.md)
             2. [Alternative Products Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/77d37828-af8c-439c-bcbf-a6850f0c1e59.md)
-        18. Discontinued Products
+        17. Discontinued Products
             1. [Discontinued Products](https://github.com/spryker/documentation/blob/master/202001.0/b3cc4c7e-25ad-4868-b7a5-f6f612df6d11.md)
             2. [Discontinued Products Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/af292911-5ff6-4eff-8914-fe14ff521a72.md)
-        19. Barcode Generator
+        18. Barcode Generator
             1. [Barcode Generator](https://github.com/spryker/documentation/blob/master/202001.0/1ba17509-c7ee-4128-9938-7bcb44413792.md)
             2. [Barcode Generator Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/81a48e7c-d1b6-4ecf-b339-98218c95b6ca.md)
-        20. Product Quantity Restrictions
+        19. Product Quantity Restrictions
             1. [Product Quantity Restrictions](https://github.com/spryker/documentation/blob/master/202001.0/198f3281-6843-4309-a1e8-d065b4d9ef3a.md)
             2. [Product Quantity Restrictions Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/6f2e053b-789a-40e9-ac8d-4fa08cc5fba8.md)
-        21. Timed Product Availability Feature Overview
+        20. Timed Product Availability Feature Overview
             1. [Timed Product Availability](https://github.com/spryker/documentation/blob/master/202001.0/5639beb6-0fc0-4cd9-b13a-81a58cf423e2.md)
             2. [Timed Product Availability Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/6b567601-6944-4386-be2b-5e15ee589f85.md)
     22. Promotions and Discounts
