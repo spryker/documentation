@@ -761,7 +761,7 @@
             6. Docker Installation Prerequisites
                 1. [Docker Installation Prerequisites](https://github.com/spryker/documentation/blob/master/202001.0/b38c4863-3ef8-4fa4-beb3-6ea521d54833.md)
                 2. [Docker Installation Prerequisites - Linux](https://github.com/spryker/documentation/blob/master/202001.0/bcc1e223-c805-4f6e-b38a-f65d409759f6.md)
-                3. [Docker Install Prerequisites - MacOS](https://github.com/spryker/documentation/blob/master/202001.0/c626b426-96ff-48c6-87dc-d4aff05f2c61.md)
+                3. [Docker Installation Prerequisites - MacOS](https://github.com/spryker/documentation/blob/master/202001.0/c626b426-96ff-48c6-87dc-d4aff05f2c61.md)
                 4. [Docker Installation Prerequisites - Windows](https://github.com/spryker/documentation/blob/master/202001.0/73e1b764-573d-485a-bbdd-4509c68b8bb8.md)
             7. Installation Guides
                 1. [Integrating Docker into an Existing Project](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
