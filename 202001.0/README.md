@@ -755,7 +755,7 @@
             2. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
             3. [Integrating Docker into an Existing Project](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
             4. [Development Mode](https://github.com/spryker/documentation/blob/master/202001.0/2e8e41e2-ec13-4fbe-81c8-c2e7d6930faf.md)
-            5. [Spryker in Docker - Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/cdb25905-5cc7-4bb3-b501-4b7c7b614f02.md)
+            5. [Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/cdb25905-5cc7-4bb3-b501-4b7c7b614f02.md)
             6. [Debugging Setup in Docker](https://github.com/spryker/documentation/blob/master/202001.0/604dfef8-d365-4dd0-8e27-ac20a1b2ff6b.md)
             7. Docker Install Prerequisites
                 1. [Docker Install Prerequisites](https://github.com/spryker/documentation/blob/master/202001.0/b38c4863-3ef8-4fa4-beb3-6ea521d54833.md)
