@@ -25,7 +25,7 @@ Adjust the schema definition so entity changes will trigger events.
 | `spy_company` | `Entity.spy_company.update`</br>`Entity.spy_company.delete` |
 | `spy_company_user` | `Entity.spy_company_user.`</br>`Entity.spy_company_user.update`</br>`Entity.spy_company_user.delete` |
 
-<details open>   <summary>src/Pyz/Zed/CompanyUser/Persistence/Propel/Schema/spy_company_user.schema.xml</summary>
+src/Pyz/Zed/CompanyUser/Persistence/Propel/Schema/spy_company_user.schema.xml
     
 ```html
 <?xml version="1.0"?>
@@ -41,10 +41,8 @@ Adjust the schema definition so entity changes will trigger events.
   
     </database>
 ```   
-<br>
-</details>
 
-<details open><summary>src/Pyz/Zed/Company/Persistence/Propel/Schema/spy_company.schema.xml</summary>
+src/Pyz/Zed/Company/Persistence/Propel/Schema/spy_company.schema.xml
     
 ```html
 <?xml version="1.0"?>
@@ -61,8 +59,6 @@ Adjust the schema definition so entity changes will trigger events.
   
     </database>
 ```
-<br>
-</details>
 
 Run the following commands to apply database changes and generate entity and transfer changes:
 
@@ -88,8 +84,7 @@ With this step, you will be able to publish tables on change (create, edit, dele
 | --- | --- | --- | --- |
 | `CompanyUserStorageEventSubscriber` | Registers listeners that are responsible for publishing company user storage entity changes when a related entity change event occurs. | None | `NoneSpryker\Zed\CompanyUserStorage\Communication\Plugin\Event\Subscriber` |
 
-<details open>
-<summary>src/Pyz/Zed/Event/EventDependencyProvider.php</summary>
+src/Pyz/Zed/Event/EventDependencyProvider.php
     
 ```php
 <?php
@@ -110,13 +105,10 @@ class EventDependencyProvider extends SprykerEventDependencyProvider
 	}
 }
 ```
-<br>
-</details>
 
 Set up synchronization queue pools so that non-multistore entities (not store-specific entities) are synchronized among stores:
 
-<details open>
-<summary>src/Pyz/Zed/CompanyUserStorage/CompanyUserStorageConfig.php</summary>
+src/Pyz/Zed/CompanyUserStorage/CompanyUserStorageConfig.php
 
 ```php
 <?php
@@ -134,8 +126,6 @@ class CompanyUserStorageConfig extends SprykerCompanyUserStorageConfig
 	}
 }
 ```
-<br>
-</details>
 
 #### Set up Re-Generate and Re-Sync Features
 
@@ -143,8 +133,7 @@ class CompanyUserStorageConfig extends SprykerCompanyUserStorageConfig
 | --- | --- | --- | --- |
 | `CompanyUserSynchronizationDataPlugin` | Allows synchronizing the whole storage table content into Storage. | None | `Spryker\Zed\CompanyUserStorage\Communication\Plugin\Synchronization` |
 
-<details open>
-<summary>src/Pyz/Zed/CompanyUserStorage/CompanyUserStorageConfig.php</summary>
+src/Pyz/Zed/CompanyUserStorage/CompanyUserStorageConfig.php
 
 ```php
 <?php
@@ -165,11 +154,8 @@ class CompanyUserStorageConfig extends SprykerCompanyUserStorageConfig
 	}
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>src/Pyz/Zed/Synchronization/SynchronizationDependencyProvider.php</summary>
+src/Pyz/Zed/Synchronization/SynchronizationDependencyProvider.php
 
 ```php
 <?php
@@ -192,13 +178,10 @@ class SynchronizationDependencyProvider extends SprykerSynchronizationDependency
 	}
 }
 ```
-<br>
-</details>
 
 @(Warning)(Verification)(Make sure that when a company user is created, updated or deleted, when company's status changes or company is activated/deactivated the corresponding company users' records are exported (or removed) to Redis.<table><thead><tr><th>Storage Type</th><th>Target Entity</th><th>Example Expected Data Identifier</th></tr></thead><tbody><tr><td>Redis</td><td>Company User</td><td>`kv:company_user:1`</td></tr></tbody></table>)
 
-<details open>
-<summary>Example Expected Data Fragment</summary>
+**Example Expected Data Fragment**
 
 ```yaml
 {
@@ -208,8 +191,6 @@ class SynchronizationDependencyProvider extends SprykerSynchronizationDependency
 	"uuid":"4c677a6b-2f65-5645-9bf8-0ef3532bead1"
 }
 ```
-<br>
-</details>
 
 ### 4) Import Data
 #### Import Business On Behalf
@@ -218,8 +199,7 @@ class SynchronizationDependencyProvider extends SprykerSynchronizationDependency
 
 Prepare your data according to your requirements using our demo data:
 
-<details open>
-<summary>vendor/spryker/spryker/Bundles/BusinessOnBehalfDataImport/data/import/company_user.csv</summary>
+vendor/spryker/spryker/Bundles/BusinessOnBehalfDataImport/data/import/company_user.csv
 
 ```yaml
 customer_reference,company_key,business_unit_key,default
@@ -231,8 +211,6 @@ DE--7,BoB-Hotel-Mitte,business-unit-mitte-1,0
 DE--7,BoB-Hotel-Kudamm,business-unit-kudamm-1,0
 DE--7,spryker_systems,spryker_systems_HQ,0
 ```
-<br>
-</details>
 
 | Column | Is Obligatory? | Data Type | Data Example | Data Explanation |
 | --- | --- | --- | --- | --- |
@@ -247,8 +225,7 @@ Register the following plugins to enable data import:
 | --- | --- | --- | --- |
 | `BusinessOnBehalfCompanyUserDataImportPlugin` | Imports Business on Behalf Company Users. | <ul><li>Assumes that the Customer keys exist in the database.</li><li>Assumes that the Company keys exist in the database</li><li>Assumes that the Company Business Unit keys exist in the database.</li></ul> | `Spryker\Zed\BusinessOnBehalfDataImport\Communication\Plugin\DataImport` |
 
-<details open>
-<summary>src/Pyz/Zed/DataImport/DataImportDependencyProvider.php</summary>
+src/Pyz/Zed/DataImport/DataImportDependencyProvider.php
 
 ```php
 <?php
@@ -268,8 +245,6 @@ class DataImportDependencyProvider extends SprykerDataImportDependencyProvider
 	}
 }
 ```
-<br>
-</details>
 
 Run the following console command to import data:
 
@@ -296,8 +271,7 @@ Enable the following behaviors by registering the plugins:
 | `IdCompanyUserOauthGrantTypeConfigurationProviderPlugin` | Provides new `IdCompanyUser` Oauth GrandType. | None | `Spryker\Zed\OauthCompanyUser\Communication\Plugin\Oauth` |
 | `CompanyBusinessUnitCompanyUserStorageExpanderPlugin` | Expands the `CompanyUserStorageTransfer` with the company business unit id. | None | `Spryker\Zed\CompanyBusinessUnitStorage\Communication\Plugin` |
 
-<details open>
-<summary>src/Pyz/Zed/Customer/CustomerDependencyProvider.php</summary>
+src/Pyz/Zed/Customer/CustomerDependencyProvider.php
 
 ```php
 <?php
@@ -322,11 +296,8 @@ class CustomerDependencyProvider extends SprykerCustomerDependencyProvider
 	}
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>Pyz\Client\Customer\CustomerDependencyProvider</summary>
+Pyz\Client\Customer\CustomerDependencyProvider
 
 ```php
 <?php
@@ -348,11 +319,8 @@ class CustomerDependencyProvider extends SprykerCustomerDependencyProvider
 	}
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>Pyz\Zed\Customer\CustomerDependencyProvider</summary>
+Pyz\Zed\Customer\CustomerDependencyProvider
 
 ```php
 <?php
@@ -375,11 +343,8 @@ class CustomerDependencyProvider extends SprykerCustomerDependencyProvider
 	}
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>Pyz\Zed\Oauth\OauthDependencyProvider</summary>
+Pyz\Zed\Oauth\OauthDependencyProvider
 
 ```php
 <?php
@@ -427,11 +392,8 @@ class OauthDependencyProvider extends SprykerOauthDependencyProvider
 	}
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>src/Pyz/Zed/CompanyUserStorage/CompanyUserStorageDependencyProvider.php</summary>
+src/Pyz/Zed/CompanyUserStorage/CompanyUserStorageDependencyProvider.php
 
 ```php
 <?php
@@ -454,11 +416,8 @@ class CompanyUserStorageDependencyProvider extends SprykerCompanyUserStorageDepe
 	}
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>src/Pyz/Zed/Installer/InstallerDependencyProvider.php</summary>
+src/Pyz/Zed/Installer/InstallerDependencyProvider.php
 
 ```php
 <?php
@@ -480,8 +439,6 @@ class InstallerDependencyProvider extends SprykerInstallerDependencyProvider
 	}
 }
 ```
-<br>
-</details>
 
 @(Warning)(Verification)(Log in with a customer who has multiple Company Users and a default one. Check in the session if the default Company User was assigned to the Customer. Check in the session if the `IsOnBehalf` property is set correctly for the Customer.)
 
@@ -511,8 +468,7 @@ composer require spryker-feature/company-account: "^201907.0" --update-with-depe
 ### 2) Add Translations
 Append glossary according to your configuration:
 
-<details open>
-<summary>src/data/import/glossary.csv</summary>
+src/data/import/glossary.csv
 
 ```bash
 business_on_behalf_widget.no_selected_company,No selected company,en_US
@@ -528,8 +484,6 @@ customer_page.error.customer_already_logged_in,Der Kunde ist bereits eingeloggt.
 customer_page.error.invalid_access_token,Invalid access token.,en_US
 customer_page.error.invalid_access_token,Ungültiges Zugriffstoken.,de_DE
 ```
-<br>
-</details>
 
 Run the following console command to import data:
 
@@ -546,8 +500,7 @@ Register the following plugins to enable widgets:
 | --- | --- | --- | --- |
 | `BusinessOnBehalfStatusWidget` | Displays the selected Company Users and allows for Business on Behalf customers to change it through a link. | None | `SprykerShop\Yves\BusinessOnBehalfWidget\Widget` |
 
-<details open>
-<summary>src/Pyz/Yves/ShopApplication/ShopApplicationDependencyProvider.php</summary>
+src/Pyz/Yves/ShopApplication/ShopApplicationDependencyProvider.php
 
 ```php
 <?php
@@ -570,8 +523,6 @@ class ShopApplicationDependencyProvider extends SprykerShopApplicationDependency
 	}
 }
 ```
-<br>
-</details>
 
 Run the following command to enable Javascript and CSS changes:
 
@@ -580,6 +531,3 @@ console frontend:yves:build
 ```
 
 @(Warning)(Verification)(Log in with a Business on Behalf customer and see the selected Company User status widget in the top menu.)
-
-<!-- See also:
-Integrate Glue Company Account feature into your project -->
