@@ -46,8 +46,8 @@ by adding a line `require('js/econda/econda');`
 Tracking is highly customizable and it depends on your setup. Please refer to [econda official documentation](https://support.econda.de/display/INDE).
 
 Here is a sample `econda-tracking.js` you can use as a help to integrate tracking to your website:
-<details open>
-<summary>Sample econda-tracking.js</summary>
+
+**Sample econda-tracking.js**
 
 ```js
 'use strict';
@@ -143,8 +143,7 @@ module.exports = {
    }
 };
 ```
-<br>
-</details>
+
 Now you need to register your tracking module in econda.js by adding 
 
 ``` php
@@ -156,8 +155,7 @@ to `econda.js`.
 ### Adding a Tracking Code to Twig
 The econda module comes with a partial twig template `econda_tracker.twig` that you can use as an example in your project.
 
-<details open>
-<summary>Twig Template</summary>
+**Twig Template**
 
 ```php
 <input type="hidden" name="econda_tracking_content" value="{{ content }}">
@@ -219,8 +217,6 @@ The econda module comes with a partial twig template `econda_tracker.twig` that 
    <input type="hidden" name="econda_newsletter_subscription_result" value="{{ econda_newsletter_subscription_result }}">
 {% endfor %}
 ```
-<br>
-</details>
 
 List of the accepted template variables:
 
