@@ -761,12 +761,12 @@
                 1. [Docker SDK](https://github.com/spryker/documentation/blob/master/202001.0/a92eb836-a764-4178-a9fa-6005bd36ae7f.md)
                 2. [Deploy File Reference - 1.0](https://github.com/spryker/documentation/blob/master/202001.0/759044a2-1e3c-4c1c-8aa9-42854822f11a.md)
             8. Installation Guides
-            9. Docker Install Prerequisites
-                1. [Docker Install Prerequisites](https://github.com/spryker/documentation/blob/master/202001.0/b38c4863-3ef8-4fa4-beb3-6ea521d54833.md)
-                2. [Docker Install Prerequisites - Linux](https://github.com/spryker/documentation/blob/master/202001.0/bcc1e223-c805-4f6e-b38a-f65d409759f6.md)
-                3. [Docker Install Prerequisites - MacOS](https://github.com/spryker/documentation/blob/master/202001.0/c626b426-96ff-48c6-87dc-d4aff05f2c61.md)
-                4. [Docker Install Prerequisites - Windows](https://github.com/spryker/documentation/blob/master/202001.0/73e1b764-573d-485a-bbdd-4509c68b8bb8.md)
-            10. Maintenance
+                1. Docker Installation Prerequisites
+                    1. [Docker Installation Prerequisites](https://github.com/spryker/documentation/blob/master/202001.0/b38c4863-3ef8-4fa4-beb3-6ea521d54833.md)
+                    2. [Docker Install Prerequisites - Linux](https://github.com/spryker/documentation/blob/master/202001.0/bcc1e223-c805-4f6e-b38a-f65d409759f6.md)
+                    3. [Docker Install Prerequisites - MacOS](https://github.com/spryker/documentation/blob/master/202001.0/c626b426-96ff-48c6-87dc-d4aff05f2c61.md)
+                    4. [Docker Install Prerequisites - Windows](https://github.com/spryker/documentation/blob/master/202001.0/73e1b764-573d-485a-bbdd-4509c68b8bb8.md)
+            9. Maintenance
                 1. [Additional DevOPS Information](https://github.com/spryker/documentation/blob/master/202001.0/a2489620-edac-4941-8fb8-dccef351a51c.md)
                 2. [Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
         13. Debugging
