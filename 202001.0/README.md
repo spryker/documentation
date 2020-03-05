@@ -757,22 +757,22 @@
             4. [Development Mode](https://github.com/spryker/documentation/blob/master/202001.0/2e8e41e2-ec13-4fbe-81c8-c2e7d6930faf.md)
             5. [Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/cdb25905-5cc7-4bb3-b501-4b7c7b614f02.md)
             6. [Debugging Setup in Docker](https://github.com/spryker/documentation/blob/master/202001.0/604dfef8-d365-4dd0-8e27-ac20a1b2ff6b.md)
-            7. Docker Install Prerequisites
+            7. Docker SDK
+                1. [Docker SDK](https://github.com/spryker/documentation/blob/master/202001.0/a92eb836-a764-4178-a9fa-6005bd36ae7f.md)
+                2. [Deploy File Reference - 1.0](https://github.com/spryker/documentation/blob/master/202001.0/759044a2-1e3c-4c1c-8aa9-42854822f11a.md)
+            8. Installation Guides
+            9. Docker Install Prerequisites
                 1. [Docker Install Prerequisites](https://github.com/spryker/documentation/blob/master/202001.0/b38c4863-3ef8-4fa4-beb3-6ea521d54833.md)
                 2. [Docker Install Prerequisites - Linux](https://github.com/spryker/documentation/blob/master/202001.0/bcc1e223-c805-4f6e-b38a-f65d409759f6.md)
                 3. [Docker Install Prerequisites - MacOS](https://github.com/spryker/documentation/blob/master/202001.0/c626b426-96ff-48c6-87dc-d4aff05f2c61.md)
                 4. [Docker Install Prerequisites - Windows](https://github.com/spryker/documentation/blob/master/202001.0/73e1b764-573d-485a-bbdd-4509c68b8bb8.md)
-            8. Docker SDK
-                1. [Docker SDK](https://github.com/spryker/documentation/blob/master/202001.0/a92eb836-a764-4178-a9fa-6005bd36ae7f.md)
-                2. [Deploy File Reference - 1.0](https://github.com/spryker/documentation/blob/master/202001.0/759044a2-1e3c-4c1c-8aa9-42854822f11a.md)
-            9. Maintenance
+            10. Maintenance
                 1. [Additional DevOPS Information](https://github.com/spryker/documentation/blob/master/202001.0/a2489620-edac-4941-8fb8-dccef351a51c.md)
+                2. [Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
         13. Debugging
             1. [Debugging Setup](https://github.com/spryker/documentation/blob/master/202001.0/7c3df641-25f5-4237-a89f-98ef0236f38c.md)
             2. [Debugging Setup for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/202001.0/b1091f74-8b82-4863-ac3b-d0eca18dd2ac.md)
-    4. Spryker in Docker
-        1. [Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
-    5. Architecture Guide
+    4. Architecture Guide
         1. [About the Architecture Guide](https://github.com/spryker/documentation/blob/master/202001.0/190c53af-5e79-454c-bbf8-21d6ad3f77e8.md)
         2. [Technology Stack](https://github.com/spryker/documentation/blob/master/202001.0/6ad881c2-a47b-4d65-a9a3-091480868edf.md)
         3. [Commerce OS and Frontend Apps](https://github.com/spryker/documentation/blob/master/202001.0/4f0966e2-1dd8-45c2-a40d-12f632789f71.md)
@@ -784,7 +784,7 @@
             2. [Semantic Versioning: Major vs. Minor vs. Patch Release](https://github.com/spryker/documentation/blob/master/202001.0/61b375cd-be76-4a1d-b2c0-d3bf5c79ac3f.md)
             3. [Using ~ Composer Constraint for Customized Modules](https://github.com/spryker/documentation/blob/master/202001.0/42f49ba3-9e1f-4b03-a86c-0f3396021316.md)
             4. [Performance and Scalability](https://github.com/spryker/documentation/blob/master/202001.0/dfb38cbc-32e8-4397-91f6-8235760620ca.md)
-    6. Development Guide
+    5. Development Guide
         1. [About the Development Guide](https://github.com/spryker/documentation/blob/master/202001.0/84ab12ce-3f0e-4382-9569-356e20280e5c.md)
         2. [Session Management](https://github.com/spryker/documentation/blob/master/202001.0/df3a5598-acdd-43b6-afb0-f4e67f9aeb1c.md)
         3. Back-End
