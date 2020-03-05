@@ -752,21 +752,21 @@
             3. [B2C Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/202001.0/ad838872-fc9a-487b-9f06-646172fd9caa.md)
         12. Spryker in Docker
             1. [ Spryker in Docker](https://github.com/spryker/documentation/blob/master/202001.0/146f099b-87a7-455f-92aa-6995eb90d2ba.md)
-            2. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
-            3. [Integrating Docker into an Existing Project](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
-            4. [Development Mode](https://github.com/spryker/documentation/blob/master/202001.0/2e8e41e2-ec13-4fbe-81c8-c2e7d6930faf.md)
-            5. [Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/cdb25905-5cc7-4bb3-b501-4b7c7b614f02.md)
-            6. [Debugging Setup in Docker](https://github.com/spryker/documentation/blob/master/202001.0/604dfef8-d365-4dd0-8e27-ac20a1b2ff6b.md)
-            7. Docker SDK
+            2. [Development Mode](https://github.com/spryker/documentation/blob/master/202001.0/2e8e41e2-ec13-4fbe-81c8-c2e7d6930faf.md)
+            3. [Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/cdb25905-5cc7-4bb3-b501-4b7c7b614f02.md)
+            4. [Debugging Setup in Docker](https://github.com/spryker/documentation/blob/master/202001.0/604dfef8-d365-4dd0-8e27-ac20a1b2ff6b.md)
+            5. Docker SDK
                 1. [Docker SDK](https://github.com/spryker/documentation/blob/master/202001.0/a92eb836-a764-4178-a9fa-6005bd36ae7f.md)
                 2. [Deploy File Reference - 1.0](https://github.com/spryker/documentation/blob/master/202001.0/759044a2-1e3c-4c1c-8aa9-42854822f11a.md)
-            8. Docker Installation Prerequisites
+            6. Docker Installation Prerequisites
                 1. [Docker Installation Prerequisites](https://github.com/spryker/documentation/blob/master/202001.0/b38c4863-3ef8-4fa4-beb3-6ea521d54833.md)
                 2. [Docker Installation Prerequisites - Linux](https://github.com/spryker/documentation/blob/master/202001.0/bcc1e223-c805-4f6e-b38a-f65d409759f6.md)
                 3. [Docker Install Prerequisites - MacOS](https://github.com/spryker/documentation/blob/master/202001.0/c626b426-96ff-48c6-87dc-d4aff05f2c61.md)
                 4. [Docker Installation Prerequisites - Windows](https://github.com/spryker/documentation/blob/master/202001.0/73e1b764-573d-485a-bbdd-4509c68b8bb8.md)
-            9. Installation Guides
-            10. Maintenance
+            7. Installation Guides
+                1. [Integrating Docker into an Existing Project](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
+                2. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
+            8. Maintenance
                 1. [Additional DevOPS Information](https://github.com/spryker/documentation/blob/master/202001.0/a2489620-edac-4941-8fb8-dccef351a51c.md)
                 2. [Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
         13. Debugging
