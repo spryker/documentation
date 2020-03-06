@@ -23,8 +23,7 @@ composer require spryker-feature/packaging-units:"^201903.0" --update-with-depen
 ### 2) Set up Configuration
 Adjust synchronization queue pools:
 
-<details open>
-<summary>src/Pyz/Zed/ProductPackagingUnitStorage/ProductPackagingUnitStorageConfig.php</summary>
+src/Pyz/Zed/ProductPackagingUnitStorage/ProductPackagingUnitStorageConfig.php
 
 ```php
 <?php
@@ -45,8 +44,6 @@ class ProductPackagingUnitStorageConfig extends SprykerProductPackagingUnitStora
     }
 }
 ```
-<br>
-</details>
 
 ### 3) Set up the Database Schema and Transfer Objects
 
@@ -58,9 +55,7 @@ Adjust the schema definition, so entity changes can trigger events.
 | `spy_product_packaging_unit_type` | <ul><li>`Entity.spy_product_packaging_unit_type.create`</li><li>`Entity.spy_product_packaging_unit_type.update`</li><li>`Entity.spy_product_packaging_unit_type.delete`</li></ul> |
 | `spy_product_packaging_unit_amount` | <ul><li>`Entity.spy_product_packaging_unit_amount.create`</li><li>`Entity.spy_product_packaging_unit_amount.update`</li><li>`Entity.spy_product_packaging_unit_amount.delete`</li></ul> |
 
-
-<details open>
-<summary>src/Pyz/Zed/ProductPackagingUnit/Persistence/Propel/Schema/spy_product_packaging_unit.schema.xml<summary>
+src/Pyz/Zed/ProductPackagingUnit/Persistence/Propel/Schema/spy_product_packaging_unit.schema.xml
 
 ```xml
 <?xml version="1.0"?>
@@ -79,13 +74,10 @@ Adjust the schema definition, so entity changes can trigger events.
     </table>
 </database>
 ```
-<br>
-</details>
 
 Set up synchronization queue pools, so non-multistore entities (not store-specific entities) can be synchronized among stores:
 
-<details open>
-<summary>src/Pyz/Zed/ProductPackagingUnitStorage/Persistence/Propel/Schema/spy_product_packaging_unit_storage.schema.xml</summary>
+src/Pyz/Zed/ProductPackagingUnitStorage/Persistence/Propel/Schema/spy_product_packaging_unit_storage.schema.xml
 
 ```xml
 <?xml version="1.0"?>
@@ -103,8 +95,6 @@ Set up synchronization queue pools, so non-multistore entities (not store-specif
  
 </database>
 ```
-<br>
-</details>
 
 Run the following commands to apply the database changes and generate entity and transfer changes:
 
@@ -123,8 +113,8 @@ console transfer:generate
 ### 4) Add Translations
 
 Append glossary according to your language configuration:
-<details open>
-<summary>src/data/import/glossary.csv</summary>
+
+src/data/import/glossary.csv
 
 ```yaml
 cart.pre.check.availability.failed.lead.product,Products inside the item 'sku' are not available at the moment.,en_US
@@ -140,25 +130,21 @@ cart.pre.check.amount.interval.failed,Amount interval requirements for product S
 cart.pre.check.amount.is_not_variable.failed,Standardbetrag für Produkt SKU '%sku%' ist überschritten.,de_DE
 cart.pre.check.amount.is_not_variable.failed,Default amount requirements for product SKU '%sku%' are not fulfilled.,en_US
 ```
-<br>
-</details>
 
 @(Info)(Info)(All packaging unit types need to have glossary entities for the configured locales)
 
 Infrastructural record's glossary keys:
-<details open>
-<summary>src/data/import/glossary.csv</summary>
+
+src/data/import/glossary.csv
 
 ```yaml
 packaging_unit_type.item.name,Item,en_US
 packaging_unit_type.item.name,Stück,de_DE
 ```
-<br>
-</details>
 
 Demo data glossary keys:
-<details open>
-<summary>src/data/import/glossary.csv</summary>
+
+src/data/import/glossary.csv
 
 ```yaml
 packaging_unit_type.ring_500.name,"Ring (500m)",en_US
@@ -180,8 +166,6 @@ packaging_unit_type.pack_100.name,Pack 100,de_DE
 packaging_unit_type.pack_mixed.name,Mixed Screws boxes,en_US
 packaging_unit_type.pack_mixed.name,Gemischte Schraubenkästen,de_DE
 ```
-<br>
-</details>
 
 Run the following console command to import data:
 
@@ -201,8 +185,7 @@ This step will publish tables on change (create, edit, delete) to `spy_product_p
 | --- | --- | --- | --- |
 |  `ProductPackagingUnitStorageEventSubscriber`| Registers listeners that are responsible for publishing product abstract packaging unit storage entity changes when a related entity change event occurs. | None |  `Spryker\Zed\ProductPackagingUnitStorage\Communication\Plugin\Event\Subscriber`|
 
-<details open>
-<summary>src/Pyz/Zed/Event/EventDependencyProvider.php</summary>
+src/Pyz/Zed/Event/EventDependencyProvider.php
 
 ```php
 <?php
@@ -223,8 +206,6 @@ class EventDependencyProvider extends SprykerEventDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
 #### Set up Publish Feature
 
@@ -232,8 +213,7 @@ class EventDependencyProvider extends SprykerEventDependencyProvider
 | --- | --- | --- | --- |
 | `ProductPackagingUnitSynchronizationDataPlugin` | Registers a publisher for manually triggering the publish command. | None | `Spryker\Zed\ProductPackagingUnitStorage\Communication\Plugin\Event` |
 
-<details open>
-<summary>src/Pyz/Zed/Event/EventBehaviorDependencyProvider.php</summary>
+src/Pyz/Zed/Event/EventBehaviorDependencyProvider.php
 
 ```php
 <?php
@@ -254,17 +234,13 @@ class EventBehaviorDependencyProvider extends SprykerEventBehaviorDependencyProv
 }
 ```
 
-</br>
-</details>
-
 #### Set up Sync Feature
 
 | Plugin |Specification  |  Prerequisites| Namespace |
 | --- | --- | --- | --- |
 | `ProductPackagingUnitSynchronizationDataPlugin` | Allows synchronizing the whole storage table content into Storage. | None | `Spryker\Zed\ProductPackagingUnitStorage\Communication\Plugin\Synchronization` |
 
-<details open>
-<summary>src/Pyz/Zed/Synchronization/SynchronizationDependencyProvider.php</summary>
+src/Pyz/Zed/Synchronization/SynchronizationDependencyProvider.php
 
 ```php
 <?php
@@ -287,8 +263,6 @@ class SynchronizationDependencyProvider extends SprykerSynchronizationDependency
     }
 }
 ```
-<br>
-</details>
 
 ### 6) Import Data
 
@@ -298,8 +272,7 @@ class SynchronizationDependencyProvider extends SprykerSynchronizationDependency
 | --- | --- | --- | --- |
 |`ProductPackagingUnitTypeInstallerPlugin`|Installs the configured infrastructural packaging unit types.|None|`Spryker\Zed\ProductPackagingUnit\Communication\Plugin\Installer`|
 
-<details open>
-<summary>src/Pyz/Zed/Installer/InstallerDependencyProvider.php</summary>
+src/Pyz/Zed/Installer/InstallerDependencyProvider.php
 
 ```php
 <?php
@@ -322,8 +295,6 @@ class InstallerDependencyProvider extends SprykerInstallerDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
 Run the following console command to execute registered installer plugins and install infrastructural data:
 
@@ -336,8 +307,8 @@ console setup:init-db
 #### Import Product Packaging Unit Types
 
 Prepare your data according to your requirements using our demo data:
-<details open>
-<summary>vendor/spryker/spryker/Bundles/ProductPackagingUnitDataImport/data/import/product_packaging_unit_type.csv</summary>
+
+vendor/spryker/spryker/Bundles/ProductPackagingUnitDataImport/data/import/product_packaging_unit_type.csv
 
 ```yaml
 name
@@ -351,8 +322,6 @@ packaging_unit_type.pack_20.name
 packaging_unit_type.pack_100.name
 packaging_unit_type.pack_500.name
 ```
-<br>
-</details>
 
 | Column | Is Obligatory? |Data Type  |Data Example  |Data Explanation  |
 | --- | --- | --- | --- | --- |
@@ -364,8 +333,7 @@ Register the following plugin to enable data import:
 | --- | --- | --- | --- |
 |`ProductPackagingUnitTypeDataImportPlugin`  | Imports packaging unit type data into the database. | None | `Spryker\Zed\ProductPackagingUnitDataImport\Communication\Plugin\DataImport` |		
 
-<details open>
-<summary>src/Pyz/Zed/DataImport/DataImportDependencyProvider.php</summary>
+src/Pyz/Zed/DataImport/DataImportDependencyProvider.php
 
 ```php
 <?php
@@ -385,8 +353,6 @@ class DataImportDependencyProvider extends SprykerDataImportDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
 Run the following console command to import data:
 
@@ -400,8 +366,7 @@ console data:import product-packaging-unit-type
 
 Prepare your data according to your requirements using our demo data:
 
-<details open>
-<summary>vendor/spryker/spryker/Bundles/ProductPackagingUnitDataImport/data/import/product_packaging_unit.csv</summary>
+vendor/spryker/spryker/Bundles/ProductPackagingUnitDataImport/data/import/product_packaging_unit.csv
 
 ```yaml
 concrete_sku,lead_product_sku,packaging_unit_type_name,default_amount,is_amount_variable,amount_min,amount_max,amount_interval
@@ -413,8 +378,6 @@ concrete_sku,lead_product_sku,packaging_unit_type_name,default_amount,is_amount_
 217_1231,217_123,packaging_unit_type.ring_500.name,1,0,,,
 215_124,215_123,packaging_unit_type.ring_500.name,1,0,,,
 ```
-<br>
-</details>
 
 | Column | Is Obligatory? | Data Type | Data Example | Data Explanation |
 | --- | --- | --- | --- | --- |
@@ -433,8 +396,7 @@ Register the following plugin to enable data import:
 | --- | --- | --- | --- |
 | `ProductPackagingUnitDataImportPlugin` | Imports packaging unit type data into the database. | <ul><li>Requires related product concretes and product abstract to be present in the database already.</li><li>Requires related packaging unit types to be present in the database already.</li></ul> | `Spryker\Zed\ProductPackagingUnitDataImport\Communication\Plugin\DataImport` |
 
-<details open>
-<summary>src/Pyz/Zed/DataImport/DataImportDependencyProvider.php</summary>
+src/Pyz/Zed/DataImport/DataImportDependencyProvider.php
 
 ```php
 <?php
@@ -455,8 +417,6 @@ class DataImportDependencyProvider extends SprykerDataImportDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
 Run the following console command to import data:
 
@@ -493,8 +453,7 @@ Enable the following behaviors by registering the plugins:
 | `ProductPackagingUnitAmountPersistentCartChangeExpanderPlugin` | Sets the `amount` and `amountSalesUnit.IdProductMeasurementSalesUnit` fields in `ItemTransfers` with packaging units for persistent cart change. | Expects a request to contain the to-be-used information. | `Spryker\Client\ProductPackagingUnit\Plugin\PersistentCartExtension` |
 | `ProductPackagingUnitReservationAggregationStrategyPlugin` | Aggregates the product reservation for packaging untis and lead product of packaging untis. | None | `Spryker\Zed\ProductPackagingUnit\Communication\Plugin\Oms`|
 
-<details open>
-<summary>src/Pyz/Client/Cart/CartDependencyProvider.php</summary>
+src/Pyz/Client/Cart/CartDependencyProvider.php
 
 ```php
 <?php
@@ -580,11 +539,8 @@ class CartDependencyProvider extends SprykerCartDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>src/Pyz/Zed/Checkout/CheckoutDependencyProvider.php</summary>
+src/Pyz/Zed/Checkout/CheckoutDependencyProvider.php
 
 ```php
 <?php
@@ -610,11 +566,8 @@ class CheckoutDependencyProvider extends SprykerCheckoutDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>src/Pyz/Zed/PersistentCart/PersistentCartDependencyProvider.php</summary>
+src/Pyz/Zed/PersistentCart/PersistentCartDependencyProvider.php
 
 ```php
 <?php
@@ -640,11 +593,8 @@ class PersistentCartDependencyProvider extends SprykerPersistentCartDependencyPr
     }
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>src/Pyz/Zed/Oms/OmsDependencyProvider.php</summary>
+src/Pyz/Zed/Oms/OmsDependencyProvider.php
 
 ```php
 <?php
@@ -681,12 +631,8 @@ class OmsDependencyProvider extends SprykerOmsDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
-
-<details open>
-<summary>src/Pyz/Zed/Sales/SalesDependencyProvider.php</summary>
+src/Pyz/Zed/Sales/SalesDependencyProvider.php
 
 ```php
 <?php
@@ -724,11 +670,8 @@ class SalesDependencyProvider extends SprykerSalesDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>src/Pyz/Zed/Stock/StockDependencyProvider.php</summary>
+src/Pyz/Zed/Stock/StockDependencyProvider.php
 
 ```php
 <?php
@@ -754,11 +697,8 @@ class StockDependencyProvider extends SprykerStockDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>src/Pyz/Client/Cart/CartDependencyProvider.php</summary>
+src/Pyz/Client/Cart/CartDependencyProvider.php
 
 ```php
 <?php
@@ -781,11 +721,8 @@ class CartDependencyProvider extends SprykerCartDependencyProvider
     }
 }
 ```
-<br>
-</details>
 
-<details open>
-<summary>src/Pyz/Client/PersistentCart/PersistentCartDependencyProvider.php</summary>
+src/Pyz/Client/PersistentCart/PersistentCartDependencyProvider.php
 
 ```php
 <?php
@@ -808,8 +745,6 @@ class PersistentCartDependencyProvider extends SprykerPersistentCartDependencyPr
     }
 }
 ```
-<br>
-</details>
 
 @(Warning)(Verification)(Add an item with packaging units to the cart.<br><ul><li>Check if the `amount`, `amountSalesUnit`, `amountLeadProduct`, and `productPackagingUnit` fields in `ItemTransfer` get fully populated.</li><li>Check if amount restriction works as expected.</li><li>Check if availability is validated respectfully according to your lead product's and packaging unit's configuration.</li><li>Check if item grouping in the cart works as expected.</li><li>Check if variable amount changes affect unit prices in `ItemTransfer`.</li><li>Check if quantity and amount are merged correctly when a group key matches.</li></ul>)
 
@@ -837,8 +772,8 @@ composer require spryker-feature/packaging-units: "^202001.0" --update-with-depe
 
 ### 2) Add Translations
 Append glossary according to your configuration:
-<details open>
-<summary>src/data/import/glossary.csv</summary>
+
+src/data/import/glossary.csv
 
 ```yaml
 packaging-units.recommendation.amount-min-violation,Minimum amount requirements for product are not fulfilled,en_US
@@ -874,8 +809,6 @@ measurement_units.recommendation.max-violation,Maximale Mengenanforderungen für
 measurement_units.recommendation.suggestion,Would you like to add,en_US
 measurement_units.recommendation.suggestion,Was würden Sie gerne hinzufügen? ,de_DE
 ```
-<br>
-</details>
 
 Run the following console command to import data:
 
@@ -891,8 +824,7 @@ Enable the following global widget(s):
 | --- | --- | --- |
 | `ProductPackagingUnitWidget` | Displays product packaging options for quantity and amount. | `SprykerShop\Yves\ProductPackagingUnitWidget\Widget` |
 
-<details open>
-<summary>src/Pyz/Yves/ShopApplication/ShopApplicationDependencyProvider.php</summary>
+src/Pyz/Yves/ShopApplication/ShopApplicationDependencyProvider.php
 
 ```php
 <?php
@@ -915,8 +847,6 @@ class ShopApplicationDependencyProvider extends SprykerShopApplicationDependency
     }
 }
 ```
-<br>
-</details>
 
 @(Info)(Info)(`ProductPackagingUnitWidget` uses Javascript for some functionality:<br><table><th>Functionality</th><th>Path</th><tr><td><ul><li>Controls base unit =&gt; sales unit calculations</li><li>Applies product quantity and amount restrictions on sales unit level</li><li>Offers recommendation when invalid quantity or amount is selected</li><li>Maintains stock-based quantity, amount and sales unit information for posting</li></ul></td><td>`vendor/spryker-shop/product-packaging-unit-widget/src/SprykerShop/Yves/ProductPackagingUnitWidget/Theme/default/components/molecules/packaging-unit-quantity-selector/packaging-unit-quantity-selector.ts`</td></tr></table>)
 
