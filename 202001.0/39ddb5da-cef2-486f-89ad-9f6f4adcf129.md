@@ -43,8 +43,7 @@ Also, keep in mind that a doc block with non-existing methods was removed from `
 3. Update Database Schema.
 The event behavior needs to be applied to all `SpyCmsPageStore columns`.
 
-<details open>
-<summary>src/Pyz/Zed/Cms/Persistence/Propel/Schema/spy_cms.schema.xml</summary>
+src/Pyz/Zed/Cms/Persistence/Propel/Schema/spy_cms.schema.xml
     
 ```xml
 <?xml version="1.0"?>
@@ -57,8 +56,6 @@ The event behavior needs to be applied to all `SpyCmsPageStore columns`.
     </table>
     </database>
 ```
-</br>
-</details>
 
 4. Perform database schema migration.
 
@@ -83,8 +80,7 @@ For quick and smooth migration, we have prepared an example migration script. Th
 
 This script will only migrate pages to stores where persistence is shared.
 
-<details>
-<summary>Pyz\Zed\Cms\Communication\Console\CmsStoreToPageDataMigration.php</summary>
+Pyz\Zed\Cms\Communication\Console\CmsStoreToPageDataMigration.php
   
 ```php
 <?php
@@ -173,9 +169,6 @@ class CmsStoreToPageDataMigration extends Console
 }
 ```
 
-</br>
-</details>
-
 @(Warning)()(Don't forget to register your migration console command in `Pyz\Zed\Console\ConsoleDependencyProvider`.)
 
 Your command should be executable with `$ console cms-store-cms-page:migrate`.
@@ -224,7 +217,7 @@ Move CMS Block templates to the `src/Pyz/Shared/CmsBlock/Theme/default/template/
 For quick and smooth migration, we have prepared a migration script. You can find it below.
 
 <details>
-<summary>Click here to expand the code sample</summary>
+<summary>Code sample</summary>
 
 ```php
 <?php
@@ -476,8 +469,7 @@ You can find it here: `src/Pyz/Yves/Cms/Plugin/TwigCms.php`.
 ### CMS Collector
 To push new CMS version data to the frontend storage and search, add it to the `src/Pyz/Zed/Collector/CollectorDependencyProvider.php` plugin stack:
 
-<details>
-<summary>Code sample:</summary>
+**Code sample:**
 
 ```php
 <?php
@@ -509,17 +501,13 @@ To push new CMS version data to the frontend storage and search, add it to the `
     ...
     ?>
 ```
-    
-</br>
-</details>
 
 ### CMS User Interaction
 
 When a CMS page is published, we also store/show user information for this action. To store and show user information, register two new plugins from the new `CmsUserConnector` module.
 Add them here: `src/Pyz/Zed/Cms/CmsDependencyProvider.php`
 
-<details>
-<summary>Code sample:</summary>
+**Code sample:**
     
 ```php
 <?php
@@ -549,15 +537,11 @@ class CmsDependencyProvider extends SprykerCmsDependencyProvider
 }
 ?>
 ```
-    
-</br>
-</details>
 
 ### CMS Data Importer
 To publish pages after importing, add this to your CMS Importer class:
 
-<details>
-<summary>Code sample:</summary>
+**Code sample:**
     
 ```php
 <?php
@@ -593,9 +577,6 @@ To publish pages after importing, add this to your CMS Importer class:
     ?>
 ```
 
-</br>
-</details>
-
 ### Publishing Current Pages
 To publish current pages, create a console command that calls the following method:
 
@@ -611,9 +592,6 @@ To publish current pages, create a console command that calls the following meth
         }
     ?>
 ```
-
-</br>
-</details>
 
 ## Upgrading from Version 2.* to Version 3.*
 
