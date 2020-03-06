@@ -3,11 +3,11 @@ This migration guide is a part of the [Search migration effort](https://document
 :::
 To upgrade the module, do the following:
 1. Update the module with composer:
-```Bash
+```bash
 composer update spryker/cms-page-search
 ```
 2. Remove all deprecated query expander plugins coming from the Search module (if any) from `Pyz\Client\CmsPageSearch\CmsPageSearchDependencyProvider`:
-```PHP
+```php
 Spryker\Client\Search\Plugin\Elasticsearch\QueryExpander\IsActiveInDateRangeQueryExpanderPlugin
 Spryker\Client\Search\Plugin\Elasticsearch\QueryExpander\IsActiveQueryExpanderPlugin
 Spryker\Client\Search\Plugin\Elasticsearch\QueryExpander\LocalizedQueryExpanderPlugin
@@ -15,10 +15,9 @@ Spryker\Client\Search\Plugin\Elasticsearch\QueryExpander\StoreQueryExpanderPlugi
 ```
 3. Enable the replacement plugins:
 
-<details open>
-<summary>Pyz\Client\CmsPageSearch</summary>
+Pyz\Client\CmsPageSearch
    
-```PHP
+```php
 <?php
 
 namespace Pyz\Client\CmsPageSearch;
@@ -62,12 +61,8 @@ class CmsPageSearchDependencyProvider extends SprykerCmsPageSearchDependencyProv
     }
 }  
 ```
- <br>
-</details>
-
 
 4. Remove the deprecated plugin usages listed below from `Pyz\Zed\Search\SearchDependencyProvider`:
-```PHP
+```php
 Spryker\Zed\CmsPageSearch\Communication\Plugin\Search\CmsDataPageMapBuilder
 ```
-
