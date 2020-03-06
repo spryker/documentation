@@ -67,8 +67,7 @@ In the **OMS** module version 8, we have also added support for stock reservatio
 
 Run the database migrations:
 
-<details open>
-<summary>Code sample:</summary>
+**Code sample:**
     
 ```sql
 ALTER TABLE "spy_oms_product_reservation" 
@@ -121,8 +120,6 @@ CREATE TABLE "spy_oms_product_reservation_last_exported_version"
      "updated_at" TIMESTAMP 
   ); 
 ```
-</br>
-</details>
 
 ## Upgrading from Version 6.* to Version 7.*
 
