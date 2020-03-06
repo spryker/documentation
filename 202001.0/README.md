@@ -766,7 +766,7 @@
             7. Installation Guides
                 1. [Integrating Docker into an Existing Project](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
                 2. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
-            8. Maintenance
+            8. Configuration
                 1. [Additional DevOPS Information](https://github.com/spryker/documentation/blob/master/202001.0/a2489620-edac-4941-8fb8-dccef351a51c.md)
                 2. [Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
         13. Debugging
