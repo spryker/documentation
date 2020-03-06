@@ -393,12 +393,12 @@
             2. [Unique URL per Cart for Easy Sharing Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/2580cd53-fa7a-4448-a838-bb7d1fb860b7.md)
     29. Shopping List
         1. [Shopping List](https://github.com/spryker/documentation/blob/master/202001.0/39a370aa-30a5-4931-99e6-0c921d136fe1.md)
-        2. Shopping List Widget
-            1. [Shopping List Widget](https://github.com/spryker/documentation/blob/master/202001.0/4c698341-c418-4979-a8d0-46e734e65519.md)
-            2. [Shopping List Widget Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/5af41e92-8ffb-4159-9928-1ac14a520978.md)
-        3. Multiple and Shared Shopping Lists
+        2. Multiple and Shared Shopping Lists
             1. [Multiple and Shared Shopping Lists](https://github.com/spryker/documentation/blob/master/202001.0/ec20d6e5-301c-40e6-a596-d96dd459898d.md)
             2. [Multiple and Shared Shopping Lists Overview](https://github.com/spryker/documentation/blob/master/202001.0/6f285ce8-0da1-43d1-91a1-886d2e364d06.md)
+        3. Shopping List Widget
+            1. [Shopping List Widget](https://github.com/spryker/documentation/blob/master/202001.0/4c698341-c418-4979-a8d0-46e734e65519.md)
+            2. [Shopping List Widget Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/5af41e92-8ffb-4159-9928-1ac14a520978.md)
         4. Printing a Shopping List
             1. [Printing a Shopping List](https://github.com/spryker/documentation/blob/master/202001.0/924dc87c-aa14-4ed1-bf6f-3212b3469992.md)
             2. [Printing a Shopping List Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/26250c8a-b2e6-4ac6-94cc-228d67e7adf2.md)
