@@ -761,7 +761,7 @@
                 1. [Installation Guide - Docker Integration](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
                 2. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
             8. Configuration
-                1. [Additional DevOPS Information](https://github.com/spryker/documentation/blob/master/202001.0/a2489620-edac-4941-8fb8-dccef351a51c.md)
+                1. [Additional DevOPS Guidelines](https://github.com/spryker/documentation/blob/master/202001.0/a2489620-edac-4941-8fb8-dccef351a51c.md)
                 2. [Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
         12. B2B Demo Shop Installation Guides
             1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/202001.0/d33a50c7-19c6-46da-9caa-96650c2df142.md)
