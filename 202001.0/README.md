@@ -733,7 +733,8 @@
 4. Developer Guides
     1. [About the Developer Guides](https://github.com/spryker/documentation/blob/master/202001.0/12f503ab-6c57-4555-ac42-a43048a6e9ee.md)
     2. [Developer Getting Started Guide](https://github.com/spryker/documentation/blob/master/202001.0/284307e9-06ae-4388-a452-15ad1f85b622.md)
-    3. Installation
+    3. [Updating a Spryker-Based Project](https://github.com/spryker/documentation/blob/master/202001.0/e04a6b67-2d4b-46ed-9e74-3ee2b1f77291.md)
+    4. Installation
         1. [About the Installation Guides](https://github.com/spryker/documentation/blob/master/202001.0/dcc667a6-ff37-4d5d-8732-db4846488715.md)
         2. [Composer](https://github.com/spryker/documentation/blob/master/202001.0/540b1ad2-03bb-4608-a602-62591def6ad3.md)
         3. [Configuring the Database Server](https://github.com/spryker/documentation/blob/master/202001.0/fef27977-c807-428d-86d9-2b6dbcc5557e.md)
@@ -778,7 +779,7 @@
         14. Debugging
             1. [Debugging Setup](https://github.com/spryker/documentation/blob/master/202001.0/7c3df641-25f5-4237-a89f-98ef0236f38c.md)
             2. [Debugging Setup for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/202001.0/b1091f74-8b82-4863-ac3b-d0eca18dd2ac.md)
-    4. Architecture Guide
+    5. Architecture Guide
         1. [About the Architecture Guide](https://github.com/spryker/documentation/blob/master/202001.0/190c53af-5e79-454c-bbf8-21d6ad3f77e8.md)
         2. [Technology Stack](https://github.com/spryker/documentation/blob/master/202001.0/6ad881c2-a47b-4d65-a9a3-091480868edf.md)
         3. [Commerce OS and Frontend Apps](https://github.com/spryker/documentation/blob/master/202001.0/4f0966e2-1dd8-45c2-a40d-12f632789f71.md)
@@ -790,7 +791,7 @@
             2. [Semantic Versioning: Major vs. Minor vs. Patch Release](https://github.com/spryker/documentation/blob/master/202001.0/61b375cd-be76-4a1d-b2c0-d3bf5c79ac3f.md)
             3. [Using ~ Composer Constraint for Customized Modules](https://github.com/spryker/documentation/blob/master/202001.0/42f49ba3-9e1f-4b03-a86c-0f3396021316.md)
             4. [Performance and Scalability](https://github.com/spryker/documentation/blob/master/202001.0/dfb38cbc-32e8-4397-91f6-8235760620ca.md)
-    5. Development Guide
+    6. Development Guide
         1. [About the Development Guide](https://github.com/spryker/documentation/blob/master/202001.0/84ab12ce-3f0e-4382-9569-356e20280e5c.md)
         2. [Session Management](https://github.com/spryker/documentation/blob/master/202001.0/df3a5598-acdd-43b6-afb0-f4e67f9aeb1c.md)
         3. Back-End
