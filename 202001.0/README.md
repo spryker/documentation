@@ -759,8 +759,9 @@
                 4. [Docker Installation Prerequisites - Windows](https://github.com/spryker/documentation/blob/master/202001.0/73e1b764-573d-485a-bbdd-4509c68b8bb8.md)
             7. Installation Guides
                 1. [Modes Overview](https://github.com/spryker/documentation/blob/master/202001.0/02aff7c4-9fdd-4d9b-8b42-6f1757816b7e.md)
-                2. [Installation Guide - Docker Integration](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
-                3. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
+                2. [Installation Guide - Development Mode](https://github.com/spryker/documentation/blob/master/202001.0/2b4ead7b-5e86-40ca-b641-814f8355d0cc.md)
+                3. [Installation Guide - Docker Integration](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
+                4. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
             8. Configuration
                 1. [Additional DevOPS Guidelines](https://github.com/spryker/documentation/blob/master/202001.0/a2489620-edac-4941-8fb8-dccef351a51c.md)
                 2. [Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
