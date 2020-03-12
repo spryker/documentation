@@ -745,7 +745,7 @@
         9. [Redis Configuration](https://github.com/spryker/documentation/blob/master/202001.0/17bef84b-0e4c-4541-9553-800744c82d5c.md)
         10. [Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/81294be3-fe2f-4687-b79e-e853d7553bb8.md)
         11. Spryker in Docker
-            1. [ Spryker in Docker](https://github.com/spryker/documentation/blob/master/202001.0/146f099b-87a7-455f-92aa-6995eb90d2ba.md)
+            1. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/146f099b-87a7-455f-92aa-6995eb90d2ba.md)
             2. [Development Mode](https://github.com/spryker/documentation/blob/master/202001.0/2e8e41e2-ec13-4fbe-81c8-c2e7d6930faf.md)
             3. [Troubleshooting](https://github.com/spryker/documentation/blob/master/202001.0/cdb25905-5cc7-4bb3-b501-4b7c7b614f02.md)
             4. [Debugging Setup in Docker](https://github.com/spryker/documentation/blob/master/202001.0/604dfef8-d365-4dd0-8e27-ac20a1b2ff6b.md)
@@ -761,8 +761,9 @@
                 1. [Modes Overview](https://github.com/spryker/documentation/blob/master/202001.0/02aff7c4-9fdd-4d9b-8b42-6f1757816b7e.md)
                 2. [Installation Guide - Development Mode](https://github.com/spryker/documentation/blob/master/202001.0/2b4ead7b-5e86-40ca-b641-814f8355d0cc.md)
                 3. [Installation Guide - Demo Mode](https://github.com/spryker/documentation/blob/master/202001.0/822f5399-c0e8-4443-b224-97da0484d60f.md)
-                4. [Installation Guide - Docker Integration](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
-                5. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
+                4. [Integrating Docker into Existing Projects](https://github.com/spryker/documentation/blob/master/202001.0/4ab9d544-adb0-4c36-9aaf-48a5c06f68f0.md)
+                5. [Running Production](https://github.com/spryker/documentation/blob/master/202001.0/933665d6-44e2-457b-a0ca-8ba248010311.md)
+                6. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/202001.0/6e5cb422-2f28-4c01-bb61-fc6bcc1d57cd.md)
             8. Configuration
                 1. [Additional DevOPS Guidelines](https://github.com/spryker/documentation/blob/master/202001.0/a2489620-edac-4941-8fb8-dccef351a51c.md)
                 2. [Services](https://github.com/spryker/documentation/blob/master/202001.0/8d57ad63-f1fc-4ee9-85ee-2e19138374ca.md)
