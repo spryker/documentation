@@ -1,4 +1,5 @@
-Through the Back Office you can manage all Back Office tasks. Here you can manage user and administrator accounts, create products pages, extend your catalog and navigation, create content, maintain price, tax and currency options, check orders and many more.
+From the Back Office you can manage all Back Office tasks. Here you can manage user and administrator accounts, create products pages, extend your catalog and navigation, create content, maintain price, tax and currency options, check orders and many more. Furthermore, you can manage user and company accounts as well as stores, warehouses, shipment, and payment methods. By default, the Back Office is only available in
+German and English.
 
 ## If you are:
 
