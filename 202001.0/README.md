@@ -886,22 +886,22 @@
                         2. [Handling Internal Server Messages](https://github.com/spryker/documentation/blob/master/202001.0/fd54b1a3-7b9f-478a-8296-9a135503b777.md)
                         3. [Handling Errors with ErrorHandler ](https://github.com/spryker/documentation/blob/master/202001.0/afc6b5bf-8332-4ad3-a1d0-09897be55889.md)
                         4. [Registering a new Service](https://github.com/spryker/documentation/blob/master/202001.0/43b386ab-9655-425b-9905-e38e50262a3d.md)
-                6. Data Publishing
+                6. Event
+                    1. [Event](https://github.com/spryker/documentation/blob/master/202001.0/da17b9ac-863b-48ac-b60a-05b5c80bcecd.md)
+                    2. [Adding Events](https://github.com/spryker/documentation/blob/master/202001.0/3d97e92b-1e4d-43e1-9faf-681d105d4b22.md)
+                    3. [Configuring an Events Queue](https://github.com/spryker/documentation/blob/master/202001.0/05e133b5-64b9-4785-b5d2-56431c4b0cab.md)
+                    4. [Listening to Events](https://github.com/spryker/documentation/blob/master/202001.0/0e9ea4ac-9ddf-4c08-95a0-c53932961d14.md)
+                7. Queue
+                    1. [Queue](https://github.com/spryker/documentation/blob/master/202001.0/725f7719-d945-4039-8fba-f00c87fc0933.md)
+                    2. [Integrating RabbitMQ Headers in Queue Messages](https://github.com/spryker/documentation/blob/master/202001.0/d7035ade-3b58-4d32-aafd-2a4d13f09d6d.md)
+                    3. [Queue Pool](https://github.com/spryker/documentation/blob/master/202001.0/91f9ab7b-4cda-4003-b885-f8ffac51221b.md)
+                8. Data Publishing
                     1. [Publish and Synchronization](https://github.com/spryker/documentation/blob/master/202001.0/319f26cd-8911-41ae-b667-21e16c580357.md)
                     2. [Implementing Publish and Synchronization](https://github.com/spryker/documentation/blob/master/202001.0/5103a488-ce44-4381-9a3b-31c3f4a2cc4e.md)
                     3. [Publish and Synchronize Repeated Export](https://github.com/spryker/documentation/blob/master/202001.0/0d62a0f3-8138-497e-a2b5-4def5cc1083c.md)
                     4. [Publish and Synchronize and Multi-Store Shop Systems](https://github.com/spryker/documentation/blob/master/202001.0/5d8a6c19-bcf6-4d4c-87af-2dcd078ea2fa.md)
                     5. [Debugging Listeners](https://github.com/spryker/documentation/blob/master/202001.0/f99308ba-74af-4256-9816-47fa89ba2422.md)
-                    6. Event
-                        1. [Event](https://github.com/spryker/documentation/blob/master/202001.0/da17b9ac-863b-48ac-b60a-05b5c80bcecd.md)
-                        2. [Adding Events](https://github.com/spryker/documentation/blob/master/202001.0/3d97e92b-1e4d-43e1-9faf-681d105d4b22.md)
-                        3. [Configuring an Events Queue](https://github.com/spryker/documentation/blob/master/202001.0/05e133b5-64b9-4785-b5d2-56431c4b0cab.md)
-                        4. [Listening to Events](https://github.com/spryker/documentation/blob/master/202001.0/0e9ea4ac-9ddf-4c08-95a0-c53932961d14.md)
-                    7. Queue
-                        1. [Queue](https://github.com/spryker/documentation/blob/master/202001.0/725f7719-d945-4039-8fba-f00c87fc0933.md)
-                        2. [Integrating RabbitMQ Headers in Queue Messages](https://github.com/spryker/documentation/blob/master/202001.0/d7035ade-3b58-4d32-aafd-2a4d13f09d6d.md)
-                        3. [Queue Pool](https://github.com/spryker/documentation/blob/master/202001.0/91f9ab7b-4cda-4003-b885-f8ffac51221b.md)
-                7. Data Interaction
+                9. Data Interaction
                     1. [Transfering Data Between Yves and Zed](https://github.com/spryker/documentation/blob/master/202001.0/3cd57c0f-eab9-4a65-a423-58b9a8d0fbc7.md)
                     2. [Defining the Module Dependencies: Dependency Provider ](https://github.com/spryker/documentation/blob/master/202001.0/5e1ca2e9-b1c1-4afe-bfca-60910a90b2b7.md)
                     3. [Standard Filters Backend and Frontend Technical Details](https://github.com/spryker/documentation/blob/master/202001.0/39256711-da50-4055-b541-532bde4557de.md)
@@ -911,7 +911,7 @@
                         3. [Configuring the Search Features](https://github.com/spryker/documentation/blob/master/202001.0/d324a352-4eca-4fc3-836b-de63f646cae8.md)
                         4. [Configuring Search for Multi-Currency](https://github.com/spryker/documentation/blob/master/202001.0/e311433b-5066-41a9-9ef8-9255e13b6daf.md)
                         5. [Facet Filter Overview and Configuration](https://github.com/spryker/documentation/blob/master/202001.0/fe51226c-4599-41f6-8369-48cbbe9e361f.md)
-                8. Data/Payload Conversion 
+                10. Data/Payload Conversion 
                     1. Checkout
                         1. [Checkout Process Review and Implementation](https://github.com/spryker/documentation/blob/master/202001.0/766f19f3-651e-4034-9e4d-8884c3cd060f.md)
                         2. [Checkout Steps](https://github.com/spryker/documentation/blob/master/202001.0/913dcfc9-3e98-4d62-ac50-4446a133eeb1.md)
@@ -922,7 +922,7 @@
                     3. State Machine
                         1. [Order Process Modelling via State Machines](https://github.com/spryker/documentation/blob/master/202001.0/a37ea95a-14f3-41fc-bf27-ae55e5b29b6c.md)
                         2. [State Machine Console Commands](https://github.com/spryker/documentation/blob/master/202001.0/11a86dd3-6d13-4384-9dac-acadfa1b77a6.md)
-                9. Payment Methods
+                11. Payment Methods
                     1. [Implementing a New Dummy Payment Method](https://github.com/spryker/documentation/blob/master/202001.0/6a9a49e3-c054-4299-9919-c840ccda77df.md)
                     2. Direct Debit Example Implementation
                         1. [Implementing Direct Debit Payment](https://github.com/spryker/documentation/blob/master/202001.0/907fbad6-9fe0-4e6b-8790-17524f52279f.md)
