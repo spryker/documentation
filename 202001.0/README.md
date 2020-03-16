@@ -915,6 +915,7 @@
                 8. Data/Payload Conversion 
                     1. Checkout
                         1. [Checkout Process Review and Implementation](https://github.com/spryker/documentation/blob/master/202001.0/766f19f3-651e-4034-9e4d-8884c3cd060f.md)
+                        2. [Checkout Steps](https://github.com/spryker/documentation/blob/master/202001.0/913dcfc9-3e98-4d62-ac50-4446a133eeb1.md)
                     2. Step Engine
                         1. [Step Engine Workflow Overview](https://github.com/spryker/documentation/blob/master/202001.0/2593ae68-decf-492d-bd4e-54176def240d.md)
                         2. [Step Engine - Use Case Scenario ](https://github.com/spryker/documentation/blob/master/202001.0/ce9f2afa-0cbf-4a8b-843d-f57e7ec81e7d.md)
