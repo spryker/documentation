@@ -104,7 +104,6 @@
         2. [Define Payment & Shipment Methods](https://github.com/spryker/documentation/blob/master/202001.0/5a9f9828-923d-4a87-8cf9-f0a8dffb76eb.md)
         3. Multi-Step Checkout
             1. [Multi-Step Checkout](https://github.com/spryker/documentation/blob/master/202001.0/2317299d-3cf9-4832-93d4-f1278ca68553.md)
-            2. [Checkout Steps](https://github.com/spryker/documentation/blob/master/202001.0/1da71797-8744-47f1-a2d1-c40ab0166a65.md)
     5. CMS
         1. [CMS](https://github.com/spryker/documentation/blob/master/202001.0/17febacb-fe25-409d-b039-74a94f5a1868.md)
         2. [WYSIWYG Editor](https://github.com/spryker/documentation/blob/master/202001.0/abd054b0-38fd-4ab7-a210-2f1c104e3258.md)
