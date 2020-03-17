@@ -810,8 +810,7 @@
                     3. [Using and Configuring Redis as a Key-value Storage](https://github.com/spryker/documentation/blob/master/202001.0/abbee1ac-0b39-41e2-b7aa-ed31976f891d.md)
             3. Zed
                 1. [About Zed](https://github.com/spryker/documentation/blob/master/202001.0/1047b277-b4ae-4bdc-a70c-9390100abcc4.md)
-                2. [Back-End Zed](https://github.com/spryker/documentation/blob/master/202001.0/3568b50e-f076-421c-8554-3efedef385f7.md)
-                3. Business Layer
+                2. Business Layer
                     1. [About the Business Layer](https://github.com/spryker/documentation/blob/master/202001.0/cf9236f1-7cd3-4c3e-9faa-da4428671c65.md)
                     2. [Business Models](https://github.com/spryker/documentation/blob/master/202001.0/28d976e6-9280-4544-8d78-590f787224b0.md)
                     3. [Custom Exceptions](https://github.com/spryker/documentation/blob/master/202001.0/f52e4bbe-ba0c-43dc-b16f-8e8f972188fb.md)
@@ -820,7 +819,7 @@
                         2. [Design by Contract (DBC) - Facade](https://github.com/spryker/documentation/blob/master/202001.0/f43dc41c-872c-42c7-b14b-f4bf0b1d1501.md)
                         3. [Implementing a Facade](https://github.com/spryker/documentation/blob/master/202001.0/503aa342-94e1-4a24-b954-095c7d1bd268.md)
                         4. [Using a Facade](https://github.com/spryker/documentation/blob/master/202001.0/6a3a1eda-9198-45d2-be8e-3a9976161f23.md)
-                4. Persistence Layer
+                3. Persistence Layer
                     1. [About the Persistence Layer](https://github.com/spryker/documentation/blob/master/202001.0/4d29a503-4f15-4234-b707-6eddd3ca1666.md)
                     2. [Database Overview](https://github.com/spryker/documentation/blob/master/202001.0/dcbd2fe9-9d69-4a61-a2ff-c6bc26124bb8.md)
                     3. [Database Schema Definition](https://github.com/spryker/documentation/blob/master/202001.0/0dae477a-da0a-4705-8a76-95f26c76158d.md)
@@ -828,11 +827,12 @@
                     5. [Entity Manager](https://github.com/spryker/documentation/blob/master/202001.0/13f52ac1-fd5a-4ba1-b685-2a6cf79dba97.md)
                     6. [Query Objects: Creation and Usage](https://github.com/spryker/documentation/blob/master/202001.0/170b86dc-d430-46bf-a8f3-efb751c39023.md)
                     7. [Repository](https://github.com/spryker/documentation/blob/master/202001.0/be21e4f9-e66f-4f28-b9a4-fb31e726d694.md)
-                    8. Query Container
+                    8. [Back-End Zed](https://github.com/spryker/documentation/blob/master/202001.0/3568b50e-f076-421c-8554-3efedef385f7.md)
+                    9. Query Container
                         1. [About the Query Container](https://github.com/spryker/documentation/blob/master/202001.0/8cb091a7-f7db-409e-b30a-78b833ec9244.md)
                         2. [Using a Query Container](https://github.com/spryker/documentation/blob/master/202001.0/ad71c210-47d3-45f8-8065-8ed93b4c0ad9.md)
                         3. [Implementing a Query Container](https://github.com/spryker/documentation/blob/master/202001.0/211ee949-eb27-4790-a0a7-3a4ac15da948.md)
-                5. Communication Layer
+                4. Communication Layer
                     1. [Controllers and Actions](https://github.com/spryker/documentation/blob/master/202001.0/09ab28ae-5700-4c53-b74d-b51e829b87cb.md)
                     2. [Adding Indexes to Foreign Key Columns: Index Generator](https://github.com/spryker/documentation/blob/master/202001.0/465d635e-1eda-48d2-b9f9-8ba7ec095d96.md)
             4. Data Manipulation
@@ -912,14 +912,15 @@
                         4. [Configuring Search for Multi-Currency](https://github.com/spryker/documentation/blob/master/202001.0/e311433b-5066-41a9-9ef8-9255e13b6daf.md)
                         5. [Facet Filter Overview and Configuration](https://github.com/spryker/documentation/blob/master/202001.0/fe51226c-4599-41f6-8369-48cbbe9e361f.md)
                 10. Data/Payload Conversion 
-                    1. Checkout
+                    1. [Multiple Currencies per Store Configuration](https://github.com/spryker/documentation/blob/master/202001.0/62f387cf-9358-43ef-8def-2cb5380d13c4.md)
+                    2. Checkout
                         1. [Checkout Process Review and Implementation](https://github.com/spryker/documentation/blob/master/202001.0/766f19f3-651e-4034-9e4d-8884c3cd060f.md)
                         2. [Checkout Steps](https://github.com/spryker/documentation/blob/master/202001.0/913dcfc9-3e98-4d62-ac50-4446a133eeb1.md)
-                    2. Step Engine
+                    3. Step Engine
                         1. [Step Engine Workflow Overview](https://github.com/spryker/documentation/blob/master/202001.0/2593ae68-decf-492d-bd4e-54176def240d.md)
                         2. [Step Engine - Use Case Scenario ](https://github.com/spryker/documentation/blob/master/202001.0/ce9f2afa-0cbf-4a8b-843d-f57e7ec81e7d.md)
                         3. [Step Engine - Creating a Breadcrumb Navigation ](https://github.com/spryker/documentation/blob/master/202001.0/84163a1a-1b21-4724-b502-147c73568b81.md)
-                    3. State Machine
+                    4. State Machine
                         1. [Order Process Modelling via State Machines](https://github.com/spryker/documentation/blob/master/202001.0/a37ea95a-14f3-41fc-bf27-ae55e5b29b6c.md)
                         2. [State Machine Console Commands](https://github.com/spryker/documentation/blob/master/202001.0/11a86dd3-6d13-4384-9dac-acadfa1b77a6.md)
                 11. Payment Methods
