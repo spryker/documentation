@@ -1,4 +1,4 @@
-Spryk is a code generation tool for Spryker OS that ships as a part of the SDK product.
+The Spryk Code Generator is a tool developed to ease the process of generating pieces of code on core and project level. Furthermore, it links individual code generation definitions into specific scenarios you need on a daily basis.
 
 To follow the Spryker's clean and complex architecture, you may need to write a lot of repetitive, boilerplate code. To avoid that tedious work, you can use Spryk, which will automatically generate and modify the required files according to the specified definitions. The definitions are implemented as a set of templates with placeholders to fill out during the execution of the tool, and small pieces of code that are created or modified for each specific definition. The generated code is available for further modification by a developer.
 
@@ -70,5 +70,3 @@ After this is all done, run the integration tests with the following command and
 You will get a message that the definition was not found by the given name, so add the definition file for your new definition to `spryker/spryk/config/spryk/spryks`. After that, re-run the tests.
 
 What comes next depends on the chosen definition type. If you have selected the template definition, then most likely you will see an error indicating that the defined template cannot be found. In this case, add your template to `spryker/spryker/config/spryk/templates` and re-run the tests — now they have to be green.
-
-<!-- Last review date: Jan 22, 2019-- by Dmitry Beirak -->
