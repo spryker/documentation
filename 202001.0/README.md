@@ -913,35 +913,35 @@
                 10. Data/Payload Conversion 
                     1. [Multiple Currencies per Store Configuration](https://github.com/spryker/documentation/blob/master/202001.0/62f387cf-9358-43ef-8def-2cb5380d13c4.md)
                     2. [Multi-Language Setup](https://github.com/spryker/documentation/blob/master/202001.0/ec84b8b8-d598-4574-8616-197036be0803.md)
-                    3. Checkout
+                    3. [Refund Process Management](https://github.com/spryker/documentation/blob/master/202001.0/2aa80fb8-f525-469f-958a-996c5196022d.md)
+                    4. [Net & Gross Prices Management](https://github.com/spryker/documentation/blob/master/202001.0/c4b844aa-556b-42f5-9c35-06b5c0f37ac4.md)
+                    5. Checkout
                         1. [Checkout Process Review and Implementation](https://github.com/spryker/documentation/blob/master/202001.0/766f19f3-651e-4034-9e4d-8884c3cd060f.md)
                         2. [Checkout Steps](https://github.com/spryker/documentation/blob/master/202001.0/913dcfc9-3e98-4d62-ac50-4446a133eeb1.md)
-                    4. Step Engine
+                    6. Step Engine
                         1. [Step Engine Workflow Overview](https://github.com/spryker/documentation/blob/master/202001.0/2593ae68-decf-492d-bd4e-54176def240d.md)
                         2. [Step Engine - Use Case Scenario ](https://github.com/spryker/documentation/blob/master/202001.0/ce9f2afa-0cbf-4a8b-843d-f57e7ec81e7d.md)
                         3. [Step Engine - Creating a Breadcrumb Navigation ](https://github.com/spryker/documentation/blob/master/202001.0/84163a1a-1b21-4724-b502-147c73568b81.md)
-                    5. State Machine
+                    7. State Machine
                         1. [Order Process Modelling via State Machines](https://github.com/spryker/documentation/blob/master/202001.0/a37ea95a-14f3-41fc-bf27-ae55e5b29b6c.md)
                         2. [State Machine Console Commands](https://github.com/spryker/documentation/blob/master/202001.0/11a86dd3-6d13-4384-9dac-acadfa1b77a6.md)
                 11. Payment Methods
                     1. [Implementing a New Dummy Payment Method](https://github.com/spryker/documentation/blob/master/202001.0/6a9a49e3-c054-4299-9919-c840ccda77df.md)
-                    2. [Refund Process Management](https://github.com/spryker/documentation/blob/master/202001.0/2aa80fb8-f525-469f-958a-996c5196022d.md)
-                    3. [Net & Gross Prices Management](https://github.com/spryker/documentation/blob/master/202001.0/c4b844aa-556b-42f5-9c35-06b5c0f37ac4.md)
-                    4. Direct Debit Example Implementation
+                    2. Direct Debit Example Implementation
                         1. [Implementing Direct Debit Payment](https://github.com/spryker/documentation/blob/master/202001.0/907fbad6-9fe0-4e6b-8790-17524f52279f.md)
                         2. [Implementation of Direct Debit in Yves](https://github.com/spryker/documentation/blob/master/202001.0/811f0b3e-4bc8-4603-91e1-9192c8cfbb2d.md)
                         3. [Integrate Direct Debit into Checkout](https://github.com/spryker/documentation/blob/master/202001.0/8028c94c-4249-4542-850f-e741c4f79d3c.md)
                         4. [Implementation of Direct Debit in Zed](https://github.com/spryker/documentation/blob/master/202001.0/b604d7c5-c8a8-413d-b020-d25553f33d49.md)
                         5. [Implementation of Direct Debit in the Shared Layer](https://github.com/spryker/documentation/blob/master/202001.0/ee094b23-e871-45bd-94c5-82ee62e2ee77.md)
                         6. [Testing Your Direct Debit Implementation](https://github.com/spryker/documentation/blob/master/202001.0/197e14cd-dfb1-4d92-a62d-15ca0e4b51e7.md)
-                    5. Invoice 
+                    3. Invoice 
                         1. [Implementing Invoice Payment](https://github.com/spryker/documentation/blob/master/202001.0/25dface5-54a5-4427-94d9-3daafbf3de0e.md)
                         2. [Implementing Invoice Payment in Front End](https://github.com/spryker/documentation/blob/master/202001.0/bbb272bb-f742-414d-8d96-d985c1e766c9.md)
                         3. [Integrating Invoice Payment into Checkout](https://github.com/spryker/documentation/blob/master/202001.0/b9d3e21f-05fd-4efc-91c1-e0681fada627.md)
                         4. [Implementing Invoice Payment in Back End](https://github.com/spryker/documentation/blob/master/202001.0/39c7bbab-5842-40ee-a4ec-d12d7f03ad85.md)
                         5. [Implementing Invoice Payment in Shared Layer](https://github.com/spryker/documentation/blob/master/202001.0/370cf0d1-bab6-4ab5-8ea4-1c0f942cac70.md)
                         6. [Testing the Invoice Payment Implementation](https://github.com/spryker/documentation/blob/master/202001.0/cfcdfdb3-baf8-4aea-bb36-8aa9b9f457ae.md)
-                    6. Prepayment
+                    4. Prepayment
                         1. [Implementing Prepayment](https://github.com/spryker/documentation/blob/master/202001.0/7eb15830-b769-45c2-aeec-d0c76883acf6.md)
                         2. [Implement Prepayment in Front End](https://github.com/spryker/documentation/blob/master/202001.0/d8ab1542-95b3-4987-9fc8-7412547067cf.md)
                         3. [Integrating Prepayment into Checkout](https://github.com/spryker/documentation/blob/master/202001.0/37dd1f21-ba16-44ff-83ad-ae4958853145.md)
