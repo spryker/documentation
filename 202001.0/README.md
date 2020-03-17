@@ -913,14 +913,15 @@
                         5. [Facet Filter Overview and Configuration](https://github.com/spryker/documentation/blob/master/202001.0/fe51226c-4599-41f6-8369-48cbbe9e361f.md)
                 10. Data/Payload Conversion 
                     1. [Multiple Currencies per Store Configuration](https://github.com/spryker/documentation/blob/master/202001.0/62f387cf-9358-43ef-8def-2cb5380d13c4.md)
-                    2. Checkout
+                    2. [Multi-Language Setup](https://github.com/spryker/documentation/blob/master/202001.0/ec84b8b8-d598-4574-8616-197036be0803.md)
+                    3. Checkout
                         1. [Checkout Process Review and Implementation](https://github.com/spryker/documentation/blob/master/202001.0/766f19f3-651e-4034-9e4d-8884c3cd060f.md)
                         2. [Checkout Steps](https://github.com/spryker/documentation/blob/master/202001.0/913dcfc9-3e98-4d62-ac50-4446a133eeb1.md)
-                    3. Step Engine
+                    4. Step Engine
                         1. [Step Engine Workflow Overview](https://github.com/spryker/documentation/blob/master/202001.0/2593ae68-decf-492d-bd4e-54176def240d.md)
                         2. [Step Engine - Use Case Scenario ](https://github.com/spryker/documentation/blob/master/202001.0/ce9f2afa-0cbf-4a8b-843d-f57e7ec81e7d.md)
                         3. [Step Engine - Creating a Breadcrumb Navigation ](https://github.com/spryker/documentation/blob/master/202001.0/84163a1a-1b21-4724-b502-147c73568b81.md)
-                    4. State Machine
+                    5. State Machine
                         1. [Order Process Modelling via State Machines](https://github.com/spryker/documentation/blob/master/202001.0/a37ea95a-14f3-41fc-bf27-ae55e5b29b6c.md)
                         2. [State Machine Console Commands](https://github.com/spryker/documentation/blob/master/202001.0/11a86dd3-6d13-4384-9dac-acadfa1b77a6.md)
                 11. Payment Methods
