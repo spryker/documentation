@@ -267,8 +267,7 @@
         2. [Payment Methods Overview](https://github.com/spryker/documentation/blob/master/202001.0/73970707-86a5-4e19-a85a-54e20be9db9e.md)
         3. [Dummy Payment](https://github.com/spryker/documentation/blob/master/202001.0/c39d9394-f5e3-4413-b588-4c161b2811fa.md)
         4. [Payment Provider Integration](https://github.com/spryker/documentation/blob/master/202001.0/ca83756c-36db-407f-b276-b9b19adff826.md)
-        5. [Refund](https://github.com/spryker/documentation/blob/master/202001.0/aa3d77f0-512c-4d43-bf0c-6cecdd4dc44c.md)
-        6. [Refund Management](https://github.com/spryker/documentation/blob/master/202001.0/f046378d-dffd-4e1d-b88c-ae3f9d28ba71.md)
+        5. [Refund Management](https://github.com/spryker/documentation/blob/master/202001.0/f046378d-dffd-4e1d-b88c-ae3f9d28ba71.md)
     20. Price
         1. [Price](https://github.com/spryker/documentation/blob/master/202001.0/e5be478a-a5f7-422c-8557-6e8ab16ed878.md)
         2. [Auto-Detect of Currency](https://github.com/spryker/documentation/blob/master/202001.0/698f0baa-e5ce-4ae1-88d7-a2301eb400aa.md)
