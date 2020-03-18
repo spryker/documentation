@@ -1666,7 +1666,7 @@
         22. Feature HowTos
             1. [Feature HowTos](https://github.com/spryker/documentation/blob/master/202001.0/b99b325e-2044-412d-8026-1d2913361abe.md)
             2. [HowTo - Create a Discount Based on Shipment](https://github.com/spryker/documentation/blob/master/202001.0/de504987-6b9b-411e-a44d-0ec10ebd40b3.md)
-            3. [HowTo - Make a Product Searchable and Shown on Yves by URL](https://github.com/spryker/documentation/blob/master/202001.0/95b195c1-8110-4e7a-8984-a6419c55a2e5.md)
+            3. [HowTo - Make a Product Searchable and Shown on the Storefront](https://github.com/spryker/documentation/blob/master/202001.0/95b195c1-8110-4e7a-8984-a6419c55a2e5.md)
             4. [HowTo -  Render Configurable Bundle Templates in the Storefront](https://github.com/spryker/documentation/blob/master/202001.0/87d3e9ed-702e-43fa-b7c0-5a0c9d5b49ec.md)
             5. [HowTo - Schedule Cron Job for Scheduled Prices](https://github.com/spryker/documentation/blob/master/202001.0/f23a30d5-68aa-4100-ac14-454400bb24bc.md)
             6. [HowTo - Configure the Product Reviews](https://github.com/spryker/documentation/blob/master/202001.0/db5e5b44-c173-43bd-bc2b-5a9b6d3f2e7a.md)
