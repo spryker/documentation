@@ -1379,7 +1379,8 @@
         85. [Payment Provider Integration](https://github.com/spryker/documentation/blob/master/202001.0/b04aaae2-fc6d-4839-a34b-0f8966a336c0.md)
         86. [Payments Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/48389161-847e-49e1-9a96-711bb9edd23e.md)
         87. [Template](https://github.com/spryker/documentation/blob/master/202001.0/e11d1723-c661-4278-8539-bfd69602067b.md)
-        88. Glue API
+        88. [Custom Order Reference Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/64d37862-c8a9-4bef-85d6-f34fdc844a9d.md)
+        89. Glue API
             1. [Glue API Installation and Configuration](https://github.com/spryker/documentation/blob/master/202001.0/57894fbc-541f-4f9a-a5d5-947ccb867aa9.md)
             2. [Glue API: Alternative Products API Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/fba9f24d-9bdf-416c-84aa-7628a9b76d6a.md)
             3. [Glue API: Cart Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/61c4ca5a-12f2-42e3-ae96-272338b60e4e.md)
