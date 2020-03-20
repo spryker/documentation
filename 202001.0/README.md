@@ -702,28 +702,29 @@
         7. [Shop Guide - Searching within CMS Pages](https://github.com/spryker/documentation/blob/master/202001.0/48fcfa3b-7de1-4734-993e-8e8f7f778ca6.md)
         8. [Shop Guide - Quick Order](https://github.com/spryker/documentation/blob/master/202001.0/ab0d07ee-2ae6-43d6-8930-99633b39ec5f.md)
         9. [Shop Guide - Shopping Lists](https://github.com/spryker/documentation/blob/master/202001.0/595c0b2a-c9d6-4179-9a00-92ecd9424828.md)
-        10. Shop Guide - Agent Account
+        10. [Shop Guide - Wishlists](https://github.com/spryker/documentation/blob/master/202001.0/461b5855-c1fd-42a4-9415-41358ee51cd1.md)
+        11. Shop Guide - Agent Account
             1. [Shop Guide - Agent Account](https://github.com/spryker/documentation/blob/master/202001.0/5c00ffb7-1e39-489e-99f0-dfc0ce70a046.md)
             2. [Shop Guide - Managing Agent Account](https://github.com/spryker/documentation/blob/master/202001.0/39608dd2-5b3b-4682-a50f-258fba1d8dba.md)
-        11. Shop Guide - Checkout
+        12. Shop Guide - Checkout
             1. [Shop Guide - Checkout](https://github.com/spryker/documentation/blob/master/202001.0/c495d632-8536-4a9a-9a19-9ee27c913a80.md)
             2. [Shop Guide - Address Step](https://github.com/spryker/documentation/blob/master/202001.0/255a84e0-c2f9-452b-9e01-ccca621c1762.md)
             3. [Shop Guide - Shipment Step](https://github.com/spryker/documentation/blob/master/202001.0/1e92d908-eca1-409d-bec9-f777b18a5c31.md)
             4. [Shop Guide - Payment Step](https://github.com/spryker/documentation/blob/master/202001.0/662b79ab-f21d-4e7e-95f7-d90c7f8cf352.md)
             5. [Shop Guide - Summary Step](https://github.com/spryker/documentation/blob/master/202001.0/5d06bbae-ff44-4212-96f0-dcb6716622d5.md)
-        12. Shop Guide - Comments
+        13. Shop Guide - Comments
             1. [Shop Guide - Comments](https://github.com/spryker/documentation/blob/master/202001.0/635d3d4a-e15b-44dd-9173-052221f7e04f.md)
             2. [Shop Guide - Managing Comments](https://github.com/spryker/documentation/blob/master/202001.0/6da1694c-5b06-4419-9ef5-3378227350bb.md)
-        13. Shop Guide - Configurator
+        14. Shop Guide - Configurator
             1. [Shop Guide - Configurator](https://github.com/spryker/documentation/blob/master/202001.0/696ccc44-e5e7-49db-8df8-8f932bd7cb1f.md)
             2. [Shop Guide - Managing Configurable Bundles](https://github.com/spryker/documentation/blob/master/202001.0/217be775-78da-4363-af95-c1e65216d5a4.md)
-        14. Shop Guide -  Quotation Process & RFQ
+        15. Shop Guide -  Quotation Process & RFQ
             1. [Shop Guide - Request for Quote](https://github.com/spryker/documentation/blob/master/202001.0/d84fd46b-28cc-4b1d-9887-5453baa72e27.md)
             2. [Shop Guide - Creating a Request for Quote](https://github.com/spryker/documentation/blob/master/202001.0/9b5f13ab-57bd-48f9-b78d-43c4a2fba7ff.md)
             3. [Shop Guide - Managing Requests for Quotes for a Buyer](https://github.com/spryker/documentation/blob/master/202001.0/7212518b-95fa-4178-8675-7a7c7f975751.md)
             4. [Shop Guide - Managing Requests for Quotes for a Sales Representative](https://github.com/spryker/documentation/blob/master/202001.0/aef6eda9-ccf1-4eab-8115-9e7fcf65135c.md)
             5. [Shop Guide - Request for Quote: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/66f6d7df-5467-4e1c-b72b-16a65f5c0591.md)
-        15. Shop Guide - Shopping Carts
+        16. Shop Guide - Shopping Carts
             1. [Shopping Carts](https://github.com/spryker/documentation/blob/master/202001.0/3ab226ff-8b6b-44cd-862f-dee6e27d8290.md)
             2. [Shop Guide - Creating a Shopping Cart](https://github.com/spryker/documentation/blob/master/202001.0/a31ba835-d78b-4e4a-b0e5-c7f2f9e91b20.md)
             3. [Shop Guide - Managing Shopping Carts](https://github.com/spryker/documentation/blob/master/202001.0/10ddcbce-b7bb-4e9c-b714-c7f93227a2ca.md)
