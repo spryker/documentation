@@ -81,7 +81,7 @@
                 4. [Release Notes - March - 2018](https://github.com/spryker/documentation/blob/master/202001.0/ab256b48-f2ae-4bf6-90bf-f4994d630e83.md)
                 5. [Release Notes - April - 2018](https://github.com/spryker/documentation/blob/master/202001.0/564d3577-5e4d-4254-b46c-1462f16a09ad.md)
 2. Features
-    1. [Features](https://github.com/spryker/documentation/blob/master/202001.0/206d7de6-d600-40c8-abd0-3dd01ecd82ad.md)
+    1. [About Features](https://github.com/spryker/documentation/blob/master/202001.0/206d7de6-d600-40c8-abd0-3dd01ecd82ad.md)
     2. Back Office
         1. [Back Office](https://github.com/spryker/documentation/blob/master/202001.0/8d81c198-0006-4bba-b6b4-b50362f6e21e.md)
         2. [Back Office Management](https://github.com/spryker/documentation/blob/master/202001.0/5feeae21-aee5-4530-afd0-3faa47d46f8c.md)
