@@ -525,11 +525,12 @@
             2. [Managing Glossary](https://github.com/spryker/documentation/blob/master/202001.0/c9e0341a-91b7-42d7-a33e-f33f0f6a0929.md)
         10. Products
             1. [Products](https://github.com/spryker/documentation/blob/master/202001.0/00b4f5c0-9148-4214-927e-757904b0687a.md)
-            2. Availability
+            2. [Creating Service Offerings](https://github.com/spryker/documentation/blob/master/202001.0/e4aa386e-e05c-49eb-8b95-09e5099636f6.md)
+            3. Availability
                 1. [Managing Products Availability](https://github.com/spryker/documentation/blob/master/202001.0/9fbe4ad9-34d2-4d01-b8fb-c4876bc79793.md)
                 2. References
                     1. [Availability: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/8872cb3e-5bfd-4a39-8641-2d2438635688.md)
-            3. Products
+            4. Products
                 1. [Abstract and Concrete Products](https://github.com/spryker/documentation/blob/master/202001.0/2e472700-a972-49f4-8f13-09f2189dda0f.md)
                 2. Abstract Products
                     1. [Creating an Abstract Product](https://github.com/spryker/documentation/blob/master/202001.0/0ee25a3d-2035-475b-893a-46f5317a271a.md)
@@ -547,49 +548,49 @@
                     1. [Products: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/3f6acb02-3e5d-4398-ae96-fa99069ebd6b.md)
                     2. [Abstract Product: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/a497a40c-ce0a-4df9-80e3-a0fbc3442fcb.md)
                     3. [Concrete Product: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/d0a7aefd-7459-48db-864f-ac2d0a6fa0cc.md)
-            4. Attributes
+            5. Attributes
                 1. [Attributes](https://github.com/spryker/documentation/blob/master/202001.0/2876686d-4498-46db-9b42-1c7a557fc896.md)
                 2. [Creating a Product Attribute](https://github.com/spryker/documentation/blob/master/202001.0/f6278bed-4427-48ee-a01c-f84539e68fc9.md)
                 3. [Managing Attributes](https://github.com/spryker/documentation/blob/master/202001.0/1fb0c62f-71f8-4ef1-ab54-36ea8bc43e23.md)
                 4. References
                     1. [Attributes: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/e9883a81-bca9-4b43-8bde-0b0effff63cd.md)
-            5. Product Barcode
+            6. Product Barcode
                 1. [Product Barcodes](https://github.com/spryker/documentation/blob/master/202001.0/5c02801c-392b-4215-948b-51d20abbc061.md)
-            6. Product Labels
+            7. Product Labels
                 1. [Product Labels](https://github.com/spryker/documentation/blob/master/202001.0/7512de04-1dd9-4283-9ae1-3ede8780b71e.md)
                 2. [Creating a Product Label](https://github.com/spryker/documentation/blob/master/202001.0/02c24f96-b479-48bd-9dc5-7b92a43acfaf.md)
                 3. [Managing Product Labels](https://github.com/spryker/documentation/blob/master/202001.0/1d208ab8-dc63-4238-9342-75cdaf378d36.md)
                 4. [Prioritizing Labels](https://github.com/spryker/documentation/blob/master/202001.0/730edd3d-324a-4935-830c-57976fa16f4f.md)
                 5. References
                     1. [Product Labels: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/4beaa7e7-b4be-4b07-9bf6-7ac3d4576f17.md)
-            7. Product Lists
+            8. Product Lists
                 1. [Product Lists](https://github.com/spryker/documentation/blob/master/202001.0/de49ce84-8730-4c7c-8346-d2053684e0e3.md)
                 2. [Creating a Product List](https://github.com/spryker/documentation/blob/master/202001.0/7f950457-f07e-4457-9209-73c6a7f86cdf.md)
                 3. [Managing Product Lists](https://github.com/spryker/documentation/blob/master/202001.0/98ff4c06-311c-43eb-bf01-dc736904057b.md)
                 4. References
                     1. [Product Lists: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/76ae9849-7f6e-4a43-83dc-d005a4b0ae6c.md)
-            8. Product Options
+            9. Product Options
                 1. [Product Options](https://github.com/spryker/documentation/blob/master/202001.0/7fe01e5b-fb94-4e17-817f-a3875c94a2ba.md)
                 2. [Creating a Product Option](https://github.com/spryker/documentation/blob/master/202001.0/8ae90280-af69-4adb-8b03-74a88d39ab27.md)
                 3. [Managing Product Options](https://github.com/spryker/documentation/blob/master/202001.0/66d6178b-91f3-41f1-911b-e5aba108f7ce.md)
                 4. References
                     1. [Product Options: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/cb129c33-79c4-4893-8921-42a0cd0ee83e.md)
-            9. Product Relations
+            10. Product Relations
                 1. [Product Relations](https://github.com/spryker/documentation/blob/master/202001.0/d35a0f9e-8226-47d3-b782-c79fa3f2a919.md)
                 2. [Creating a Product Relation](https://github.com/spryker/documentation/blob/master/202001.0/1145f258-11b0-4a15-92d9-68cd7b8f2ff7.md)
                 3. [Managing Product Relations](https://github.com/spryker/documentation/blob/master/202001.0/8c22fdfe-b92f-485f-af54-b6876625f10a.md)
                 4. References
                     1. [Product Relations: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/de1947dd-a043-4a09-90cc-a4d772c5c07e.md)
-            10. Product Reviews
+            11. Product Reviews
                 1. [Product Reviews](https://github.com/spryker/documentation/blob/master/202001.0/c12e3e6c-1baf-44e8-ae05-95021fe0d98c.md)
                 2. [Managing Product Reviews](https://github.com/spryker/documentation/blob/master/202001.0/eb70c5c3-3df3-400d-8567-2624d90f11b0.md)
-            11. Product Sets
+            12. Product Sets
                 1. [Product Sets](https://github.com/spryker/documentation/blob/master/202001.0/9f25481b-bd72-4b8b-adb0-10d90dab0439.md)
                 2. [Creating a Product Set](https://github.com/spryker/documentation/blob/master/202001.0/e038a583-445a-4f3f-a6c1-df0a96019c09.md)
                 3. [Managing Product Sets](https://github.com/spryker/documentation/blob/master/202001.0/dcbe12ac-5e44-427e-9763-501005031663.md)
                 4. References
                     1. [Product Sets: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/8c9ceb7b-1b11-4435-8b9d-69d9efae006b.md)
-            12. Configurable Bundle Templates
+            13. Configurable Bundle Templates
                 1. [Configurable Bundle Templates](https://github.com/spryker/documentation/blob/master/202001.0/81a607c3-f0b8-496f-970e-be63f58d989b.md)
                 2. [Creating Configurable Bundle Templates](https://github.com/spryker/documentation/blob/master/202001.0/a8fe8478-e4f8-4d7a-b26e-42b4f1822132.md)
                 3. [Managing Configurable Bundle Templates](https://github.com/spryker/documentation/blob/master/202001.0/a638d5b2-9189-4016-970b-97ec333ce4b9.md)
