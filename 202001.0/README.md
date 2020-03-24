@@ -517,8 +517,9 @@
                     2. [Content Item Widgets templates: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/3bcfca0b-e5e6-48c5-9d47-d248d2380620.md)
             7. Slots
                 1. [Slots](https://github.com/spryker/documentation/blob/master/202001.0/c0aa47d1-c269-4cf1-a6c9-d0f43181a43e.md)
-                2. [Managing Slots](https://github.com/spryker/documentation/blob/master/202001.0/d4ee05e0-c564-4c66-94ff-d83290b28758.md)
-                3. References
+                2. [Adding Content to Storefront Pages Using Templates & Slots](https://github.com/spryker/documentation/blob/master/202001.0/a87c791d-e799-4b9c-aafd-fe5d79d371b7.md)
+                3. [Managing Slots](https://github.com/spryker/documentation/blob/master/202001.0/d4ee05e0-c564-4c66-94ff-d83290b28758.md)
+                4. References
                     1. [Slots: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/ccb15d12-b909-41a0-95c1-c69601c386ba.md)
         9. Glossary
             1. [Glossary](https://github.com/spryker/documentation/blob/master/202001.0/472833ef-6f30-46fe-8799-1bc833ec89e1.md)
