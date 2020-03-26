@@ -480,7 +480,13 @@
                 1. [Category: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/06db1319-7f30-4aa3-a928-f4392cbd22b1.md)
         8. Content Management
             1. [Content Management System](https://github.com/spryker/documentation/blob/master/202001.0/038ceb86-3a22-4eb9-b88f-1ccda86410f0.md)
-            2. Blocks
+            2. Slots
+                1. [Slots](https://github.com/spryker/documentation/blob/master/202001.0/c0aa47d1-c269-4cf1-a6c9-d0f43181a43e.md)
+                2. [Adding Content to Storefront Pages Using Templates & Slots](https://github.com/spryker/documentation/blob/master/202001.0/a87c791d-e799-4b9c-aafd-fe5d79d371b7.md)
+                3. [Managing Slots](https://github.com/spryker/documentation/blob/master/202001.0/d4ee05e0-c564-4c66-94ff-d83290b28758.md)
+                4. References
+                    1. [Slots: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/ccb15d12-b909-41a0-95c1-c69601c386ba.md)
+            3. Blocks
                 1. [CMS Block](https://github.com/spryker/documentation/blob/master/202001.0/0f72a3d9-4c2c-4fd3-88ff-1c26f1306ad6.md)
                 2. [Creating a CMS Block](https://github.com/spryker/documentation/blob/master/202001.0/b01c2681-93cb-4a09-87df-1b3773c43e15.md)
                 3. [Managing CMS Blocks](https://github.com/spryker/documentation/blob/master/202001.0/2250358f-e7ce-437e-8858-651d0769ffee.md)
@@ -488,7 +494,7 @@
                 5. [Assigning Blocks to Category or Product Pages](https://github.com/spryker/documentation/blob/master/202001.0/aedafc79-d255-4af5-ae19-e1fd263912a0.md)
                 6. References
                     1. [CMS Block: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/8a55926b-9869-4755-ad69-003d97a567e4.md)
-            3. Pages
+            4. Pages
                 1. [CMS Pages](https://github.com/spryker/documentation/blob/master/202001.0/debd21dd-188d-4c85-86f8-ec3be8fefd2e.md)
                 2. [Creating a CMS Page](https://github.com/spryker/documentation/blob/master/202001.0/147b09b6-2230-4855-b1f4-e9b4388098fb.md)
                 3. [Managing CMS Pages](https://github.com/spryker/documentation/blob/master/202001.0/9732253c-0364-4d48-ba0d-f06e18e7a1f4.md)
@@ -496,31 +502,25 @@
                 5. [CMS Pages Versioning](https://github.com/spryker/documentation/blob/master/202001.0/7dc2d028-9d24-45c1-9bbf-b20665c7d852.md)
                 6. References
                     1. [CMS Pages: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/fdaf1c0e-78f1-42eb-93f3-6dd9f158baa1.md)
-            4. Redirects
+            5. Redirects
                 1. [Redirects](https://github.com/spryker/documentation/blob/master/202001.0/1222b4b8-c99b-462b-ade8-a4c0c466e05b.md)
                 2. [Creating CMS Redirects](https://github.com/spryker/documentation/blob/master/202001.0/92c972a2-a4d3-43f3-aa37-60d7911c4e84.md)
                 3. [Managing CMS Redirects](https://github.com/spryker/documentation/blob/master/202001.0/097e2736-836e-4612-893e-ebec7a01bc6d.md)
                 4. References
                     1. [CMS Redirects: References](https://github.com/spryker/documentation/blob/master/202001.0/25ffc4cc-784e-406e-abcf-a0e32b69083f.md)
-            5. Content Items
+            6. Content Items
                 1. [Content Items](https://github.com/spryker/documentation/blob/master/202001.0/84469e28-183d-40a5-9ec4-baccae4decd3.md)
                 2. [Creating Content Items](https://github.com/spryker/documentation/blob/master/202001.0/76d8925e-ef79-415b-b310-a43b7f0aba9d.md)
                 3. [Editing Content Items](https://github.com/spryker/documentation/blob/master/202001.0/d9ac38c5-2cdb-41d3-91be-5855f0f31071.md)
                 4. References
                     1. [Content Items: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/9abd485f-7bfd-4347-987c-0feb30f5100c.md)
-            6. Content Item Widgets
-                1. [Content Item Widgets](https://github.com/spryker/documentation/blob/master/202001.0/4e18156e-6735-4f62-bed9-7606ec5f0ee1.md)
-                2. [Adding Content Item Widgets to Pages and Blocks](https://github.com/spryker/documentation/blob/master/202001.0/a9dee05b-09b3-4818-8151-f9606b1ca55a.md)
-                3. [Editing Content Item Widgets](https://github.com/spryker/documentation/blob/master/202001.0/d5c28ad9-10bd-47ac-8beb-44ea8aa91164.md)
-                4. References
-                    1. [Content Item Widgets types: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/6621d0e0-66fe-44c4-a488-af8e1014a885.md)
-                    2. [Content Item Widgets templates: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/3bcfca0b-e5e6-48c5-9d47-d248d2380620.md)
-            7. Slots
-                1. [Slots](https://github.com/spryker/documentation/blob/master/202001.0/c0aa47d1-c269-4cf1-a6c9-d0f43181a43e.md)
-                2. [Adding Content to Storefront Pages Using Templates & Slots](https://github.com/spryker/documentation/blob/master/202001.0/a87c791d-e799-4b9c-aafd-fe5d79d371b7.md)
-                3. [Managing Slots](https://github.com/spryker/documentation/blob/master/202001.0/d4ee05e0-c564-4c66-94ff-d83290b28758.md)
-                4. References
-                    1. [Slots: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/ccb15d12-b909-41a0-95c1-c69601c386ba.md)
+                5. Content Item Widgets
+                    1. [Content Item Widgets](https://github.com/spryker/documentation/blob/master/202001.0/4e18156e-6735-4f62-bed9-7606ec5f0ee1.md)
+                    2. [Adding Content Item Widgets to Pages and Blocks](https://github.com/spryker/documentation/blob/master/202001.0/a9dee05b-09b3-4818-8151-f9606b1ca55a.md)
+                    3. [Editing Content Item Widgets](https://github.com/spryker/documentation/blob/master/202001.0/d5c28ad9-10bd-47ac-8beb-44ea8aa91164.md)
+                    4. References
+                        1. [Content Item Widgets types: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/6621d0e0-66fe-44c4-a488-af8e1014a885.md)
+                        2. [Content Item Widgets templates: Reference Information](https://github.com/spryker/documentation/blob/master/202001.0/3bcfca0b-e5e6-48c5-9d47-d248d2380620.md)
         9. Glossary
             1. [Glossary](https://github.com/spryker/documentation/blob/master/202001.0/472833ef-6f30-46fe-8799-1bc833ec89e1.md)
             2. [Managing Glossary](https://github.com/spryker/documentation/blob/master/202001.0/c9e0341a-91b7-42d7-a33e-f33f0f6a0929.md)
