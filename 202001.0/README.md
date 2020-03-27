@@ -38,7 +38,8 @@
         19. [Use Wishlists in Spryker](https://github.com/spryker/documentation/blob/master/202001.0/75ff3b66-a92f-4c9d-8dc1-ef3bb2b19268.md)
     13. Releases
         1. [Releases](https://github.com/spryker/documentation/blob/master/202001.0/8aade3b4-a1f4-486d-8558-b17eefa3c052.md)
-        2. Release Notes
+        2. [Releases Archive](https://github.com/spryker/documentation/blob/master/202001.0/35e444e8-c95b-4896-a48e-7268e028b9e8.md)
+        3. Release Notes
             1. [Release Notes](https://github.com/spryker/documentation/blob/master/202001.0/ea84d69c-c6f9-4ae4-981a-9f2802d1718d.md)
             2. [Release Notes 2018.12.0](https://github.com/spryker/documentation/blob/master/202001.0/6e794efa-b7e4-4914-b86f-1c37d6bc53d4.md)
             3. Release Notes 202001.0
@@ -54,9 +55,8 @@
             6. Release Notes 2018.11.0
                 1. [Release Notes 2018.11.0](https://github.com/spryker/documentation/blob/master/202001.0/d0462abd-af65-482a-a92d-7f8a2417cdd1.md)
                 2. [Security Release Notes 2018.11.0](https://github.com/spryker/documentation/blob/master/202001.0/dde35db8-9d06-4a63-bf3f-058059a51197.md)
-        3. Archive
-            1. [Releases Archive](https://github.com/spryker/documentation/blob/master/202001.0/35e444e8-c95b-4896-a48e-7268e028b9e8.md)
-            2. 2017
+        4. Archive
+            1. 2017
                 1. [Release Notes - April - 1 2017](https://github.com/spryker/documentation/blob/master/202001.0/db76418e-d857-4702-a2bc-ab3528d6bfa3.md)
                 2. [Release Notes - April - 2 2017](https://github.com/spryker/documentation/blob/master/202001.0/276f90bc-594b-46c4-8400-217eb773d91f.md)
                 3. [Release Notes - August - 1 2017](https://github.com/spryker/documentation/blob/master/202001.0/9165a618-13d2-4891-9b91-5c58fdb3db34.md)
@@ -74,7 +74,7 @@
                 15. [Release Notes - October - 2 2017](https://github.com/spryker/documentation/blob/master/202001.0/1133045e-e766-4b99-bdab-8b503a1f9dc3.md)
                 16. [Release Notes - September - 1 2017](https://github.com/spryker/documentation/blob/master/202001.0/74668d34-1184-4891-8a95-d0d0544af372.md)
                 17. [Release Notes - September - 2 2017](https://github.com/spryker/documentation/blob/master/202001.0/da17fd6d-cac8-4723-aa82-b442055cdf5e.md)
-            3. 2018
+            2. 2018
                 1. [Release Notes - February - 1 2018](https://github.com/spryker/documentation/blob/master/202001.0/c636e617-e921-407c-8396-81574b27f09e.md)
                 2. [Release Notes - February - 2 2018](https://github.com/spryker/documentation/blob/master/202001.0/02773782-007b-4756-9d57-9ba15c888a73.md)
                 3. [Release Notes - January - 2018](https://github.com/spryker/documentation/blob/master/202001.0/4dd991bc-3b58-41a7-aa1f-79a517f2e231.md)
@@ -283,8 +283,8 @@
         8. Volume Prices
             1. [Volume Prices](https://github.com/spryker/documentation/blob/master/202001.0/e464e013-e2f5-422c-98c8-70705568e4f6.md)
             2. [Volume Prices Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/9437f9cb-152f-4c64-892b-fca63e792a38.md)
-    21. Product Management
-        1. [Product Management](https://github.com/spryker/documentation/blob/master/202001.0/c43fd57c-638d-4a65-98f3-729583c59a36.md)
+    21. Product Information Management
+        1. [Product Information Management](https://github.com/spryker/documentation/blob/master/202001.0/c43fd57c-638d-4a65-98f3-729583c59a36.md)
         2. [Product](https://github.com/spryker/documentation/blob/master/202001.0/89dd1580-60de-4ed8-a80e-c9105d25a214.md)
         3. [Product Attributes](https://github.com/spryker/documentation/blob/master/202001.0/d39e0265-9231-4c91-85fe-5db177d526bb.md)
         4. [Product Abstraction](https://github.com/spryker/documentation/blob/master/202001.0/0df0721c-c5fb-4e64-bb79-298e17067781.md)
@@ -435,7 +435,7 @@
 3. User Guides
     1. [About User Guides](https://github.com/spryker/documentation/blob/master/202001.0/66309486-7b39-4472-9272-68439fdafb46.md)
     2. Back Office User Guide
-        1. [About the Administration Interface Guide](https://github.com/spryker/documentation/blob/master/202001.0/2801bb87-747c-4085-871a-ad3e0452eeb8.md)
+        1. [About the Back Offfice User Guide](https://github.com/spryker/documentation/blob/master/202001.0/2801bb87-747c-4085-871a-ad3e0452eeb8.md)
         2. [General Back Office Overview](https://github.com/spryker/documentation/blob/master/202001.0/f1500d47-bc00-4958-afe9-bb459591556c.md)
         3. Dashboard
             1. [Dashboard](https://github.com/spryker/documentation/blob/master/202001.0/26b041b1-91ea-4c64-b3b3-0c6b0fcc9768.md)
