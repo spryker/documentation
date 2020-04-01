@@ -40,8 +40,8 @@ Open **Preferences** → **Languages & Frameworks** → **PHP** → **Servers** 
 
 Add a server:
 
-1. In the **Name** field, enter "spryker".
-2. In the **Host** section, enter the "spryker" host from your ENV.
+1. In the **Name** field, enter *spryker*.
+2. In the **Host** section, enter *spryker*.
 3. Select the **Use path mappings** checkbox.
 4. Set the absolute path to the `/data` folder on the server for the folder with your Spryker project files.
 ![Servers config](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Installation/Spryker+in+Docker/Debugging+Setup+in+Docker/servers-confg.png){height="" width=""}
