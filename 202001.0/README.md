@@ -286,8 +286,8 @@
     21. Product Information Management
         1. [Product Information Management](https://github.com/spryker/documentation/blob/master/202001.0/c43fd57c-638d-4a65-98f3-729583c59a36.md)
         2. [Product](https://github.com/spryker/documentation/blob/master/202001.0/89dd1580-60de-4ed8-a80e-c9105d25a214.md)
-        3. [Product Attributes](https://github.com/spryker/documentation/blob/master/202001.0/d39e0265-9231-4c91-85fe-5db177d526bb.md)
-        4. [Product Abstraction](https://github.com/spryker/documentation/blob/master/202001.0/0df0721c-c5fb-4e64-bb79-298e17067781.md)
+        3. [Product Abstraction](https://github.com/spryker/documentation/blob/master/202001.0/0df0721c-c5fb-4e64-bb79-298e17067781.md)
+        4. [Product Attributes](https://github.com/spryker/documentation/blob/master/202001.0/d39e0265-9231-4c91-85fe-5db177d526bb.md)
         5. [Super Attributes](https://github.com/spryker/documentation/blob/master/202001.0/72aebcef-5ee2-455d-9bac-232e13e4353a.md)
         6. [Product Group](https://github.com/spryker/documentation/blob/master/202001.0/f8b6e701-1145-42bb-8b2b-1446c2e63823.md)
         7. [Product Bundles](https://github.com/spryker/documentation/blob/master/202001.0/49be318a-6e79-4bf5-b8bf-9a7e28c695e1.md)
