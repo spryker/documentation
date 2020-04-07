@@ -1033,7 +1033,7 @@
         11. [Checking Out Purchases and Getting Checkout Data ](https://github.com/spryker/documentation/blob/master/202001.0/6c58fc13-365b-4b14-96a1-f7b0ba1ceff4.md)
         12. [Retrieving Customer's Order History](https://github.com/spryker/documentation/blob/master/202001.0/cc59e6b3-ff4a-4e66-96d6-036d589e26dc.md)
         13. [Using Search Engine Friendly URLs](https://github.com/spryker/documentation/blob/master/202001.0/a0679496-e71d-49b0-9789-d23e67dd14b0.md)
-        14. [Ratings and Reviews](https://github.com/spryker/documentation/blob/master/202001.0/60b37718-78b9-40f9-a3cb-edad3c01af51.md)
+        14. [Retrieving Ratings and Reviews](https://github.com/spryker/documentation/blob/master/202001.0/60b37718-78b9-40f9-a3cb-edad3c01af51.md)
         15. [Discounts and Promotions](https://github.com/spryker/documentation/blob/master/202001.0/1527ed38-1a7f-47cb-bd0f-007a9b7367fb.md)
         16. B2B Account Management
             1. [B2B Account Management](https://github.com/spryker/documentation/blob/master/202001.0/e3eb8334-ecef-4e02-94e4-e47ab72fa2d9.md)
