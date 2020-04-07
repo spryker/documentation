@@ -1127,7 +1127,8 @@
     8. Order Management (ERP/OMS)
         1. [Tradebyte](https://github.com/spryker/documentation/blob/master/202001.0/cce4daac-fd2c-4ac3-9409-11b90a429070.md)
         2. [NEKOM CC GmbH](https://github.com/spryker/documentation/blob/master/202001.0/85f853ba-9310-43b2-b18a-ee7bce18ccce.md)
-        3. Punchout Catalogs
+        3. [Xentral](https://github.com/spryker/documentation/blob/master/202001.0/783e6ea7-8425-4312-b4d2-7a7e61c95f27.md)
+        4. Punchout Catalogs
             1. [Punchout Catalogs](https://github.com/spryker/documentation/blob/master/202001.0/786bddf0-e7ea-4d5b-b13f-f44a03918503.md)
             2. [Punchout Catalog Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/62ede901-01df-498d-8e16-2465bd3fff85.md)
             3. [Eco: Punchout Catalogs Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/57969b58-9ac1-40e5-b10a-a44db4522894.md)
@@ -1284,8 +1285,7 @@
             10. [RatePay- Core Module Structure Diagram ](https://github.com/spryker/documentation/blob/master/202001.0/8d9efd6c-37d5-4688-88c8-552c5ae8ef5e.md)
     11. Product Information (PIM/ERP)
         1. [Censhare PIM](https://github.com/spryker/documentation/blob/master/202001.0/7f205a35-7afe-4cd5-a622-efc78eccb4dc.md)
-        2. [Xentral](https://github.com/spryker/documentation/blob/master/202001.0/783e6ea7-8425-4312-b4d2-7a7e61c95f27.md)
-        3. Akeneo
+        2. Akeneo
             1. [Akeneo](https://github.com/spryker/documentation/blob/master/202001.0/417c5dfa-b982-4df0-84bf-e16ff2b842de.md)
             2. [Akeneo - Installation and Configuration](https://github.com/spryker/documentation/blob/master/202001.0/58d95ca9-f124-41b5-9c75-bf2a805fa0d1.md)
     12. Shipment
