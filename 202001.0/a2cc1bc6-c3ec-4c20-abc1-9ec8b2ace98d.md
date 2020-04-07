@@ -654,7 +654,7 @@ where `2506b65c-164b-5708-8530-94ed7082e802` is the ID of the cart you need.
 }
 ```
 
-## Response
+### Response
 In case of a successful update, the endpoint will also respond with a **RestCartsResponse** containing the new items.
 
 **Possible Errors**
