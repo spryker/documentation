@@ -34,7 +34,7 @@ To create a new content form plugin:
 ```php
 <?php
 
-namespace Spryker\Zed\ContentFootGui\Communication\Plugin\ContentGui;
+namespace Spryker\Zed\ContentFooGui\Communication\Plugin\ContentGui;
 
 use Spryker\Shared\Kernel\Transfer\TransferInterface;
 use Spryker\Zed\ContentGuiExtension\Dependency\Plugin\ContentPluginInterface;
