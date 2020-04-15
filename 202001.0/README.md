@@ -1,22 +1,23 @@
 1. About Spryker
     1. [About Spryker](https://github.com/spryker/documentation/blob/master/202001.0/c97323ea-7107-48e6-8d03-991b827a68c5.md)
-    2. [Demo Shops](https://github.com/spryker/documentation/blob/master/202001.0/4e492a52-94ef-42de-89e5-780c6b986456.md)
-    3. [Spryker Release Process](https://github.com/spryker/documentation/blob/master/202001.0/7ed0bb41-a30e-45e9-8013-ce57050706b6.md)
-    4. [FAQ](https://github.com/spryker/documentation/blob/master/202001.0/6e81872d-b52c-4d55-ad26-aed4c3690f86.md)
-    5. [MVP Project Structuring](https://github.com/spryker/documentation/blob/master/202001.0/ced247f3-9f8d-4c22-8b0c-80becb107ae8.md)
-    6. [About Spryker Documentation](https://github.com/spryker/documentation/blob/master/202001.0/f6637726-11ef-4960-9ac2-efd23fcc56ef.md)
-    7. [Security Support](https://github.com/spryker/documentation/blob/master/202001.0/05450524-4ae5-4814-8f3a-e3b1900e3b49.md)
-    8. [Understanding Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/202001.0/637dc4e3-dad3-4778-98b6-a57c4cc00d04.md)
-    9. [Getting Support](https://github.com/spryker/documentation/blob/master/202001.0/6b180ec6-57a0-4283-936e-2ef1c2dbd963.md)
-    10. [Feedback](https://github.com/spryker/documentation/blob/master/202001.0/511ea3a4-658f-4d39-b16c-e71acc4d3bfe.md)
-    11. What's New
+    2. [B2B Suite](https://github.com/spryker/documentation/blob/master/202001.0/a669b81e-f42f-40da-bf8b-a45c49b22dbd.md)
+    3. [Demo Shops](https://github.com/spryker/documentation/blob/master/202001.0/4e492a52-94ef-42de-89e5-780c6b986456.md)
+    4. [Spryker Release Process](https://github.com/spryker/documentation/blob/master/202001.0/7ed0bb41-a30e-45e9-8013-ce57050706b6.md)
+    5. [FAQ](https://github.com/spryker/documentation/blob/master/202001.0/6e81872d-b52c-4d55-ad26-aed4c3690f86.md)
+    6. [MVP Project Structuring](https://github.com/spryker/documentation/blob/master/202001.0/ced247f3-9f8d-4c22-8b0c-80becb107ae8.md)
+    7. [About Spryker Documentation](https://github.com/spryker/documentation/blob/master/202001.0/f6637726-11ef-4960-9ac2-efd23fcc56ef.md)
+    8. [Security Support](https://github.com/spryker/documentation/blob/master/202001.0/05450524-4ae5-4814-8f3a-e3b1900e3b49.md)
+    9. [Understanding Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/202001.0/637dc4e3-dad3-4778-98b6-a57c4cc00d04.md)
+    10. [Getting Support](https://github.com/spryker/documentation/blob/master/202001.0/6b180ec6-57a0-4283-936e-2ef1c2dbd963.md)
+    11. [Feedback](https://github.com/spryker/documentation/blob/master/202001.0/511ea3a4-658f-4d39-b16c-e71acc4d3bfe.md)
+    12. What's New
         1. [What's New](https://github.com/spryker/documentation/blob/master/202001.0/20351c57-ce9d-47fd-8c46-9a2e63fdd96c.md)
         2. [Supported Versions of PHP](https://github.com/spryker/documentation/blob/master/202001.0/7c9276be-30aa-4583-bf43-e495095387cd.md)
         3. [Roadmap](https://github.com/spryker/documentation/blob/master/202001.0/92b625eb-6c7e-4b92-aac6-dcf51f9133ae.md)
         4. [Documentation Updates](https://github.com/spryker/documentation/blob/master/202001.0/92aa32a1-17b9-4f0c-a6d2-92e0d19ea66c.md)
         5. [Security Audit](https://github.com/spryker/documentation/blob/master/202001.0/96bc93b8-bf78-400e-bf87-4b4d56cd26bd.md)
         6. [Security Updates](https://github.com/spryker/documentation/blob/master/202001.0/d8c5e282-9fe4-4902-bfae-ea976df46a9d.md)
-    12. Videos & Webinars
+    13. Videos & Webinars
         1. [Spryker Videos](https://github.com/spryker/documentation/blob/master/202001.0/10c8cf16-3550-4e81-b5fe-bcdcfd798ae6.md)
         2. [B2B Demo Shop](https://github.com/spryker/documentation/blob/master/202001.0/39aa6d6e-9451-4198-98d8-b0c75355e6d9.md)
         3. [B2C Demo Shop](https://github.com/spryker/documentation/blob/master/202001.0/17ebd98b-6cf2-485b-9852-43c4c763ed22.md)
@@ -36,7 +37,7 @@
         17. [Manage Products in Spryker](https://github.com/spryker/documentation/blob/master/202001.0/37ff8e44-cf38-4ae2-b493-2fad5f0bb8e5.md)
         18. [Configure Product Sets in Spryker](https://github.com/spryker/documentation/blob/master/202001.0/94b8afd1-809e-41d2-83c1-859ff893f0f7.md)
         19. [Use Wishlists in Spryker](https://github.com/spryker/documentation/blob/master/202001.0/75ff3b66-a92f-4c9d-8dc1-ef3bb2b19268.md)
-    13. Releases
+    14. Releases
         1. [Releases](https://github.com/spryker/documentation/blob/master/202001.0/8aade3b4-a1f4-486d-8558-b17eefa3c052.md)
         2. [Releases Archive](https://github.com/spryker/documentation/blob/master/202001.0/35e444e8-c95b-4896-a48e-7268e028b9e8.md)
         3. Release Notes
@@ -264,7 +265,7 @@
             2. [Measurement Units Feature Overview](https://github.com/spryker/documentation/blob/master/202001.0/dfac7ef0-21d9-47a9-a252-77dfdf248344.md)
     19. Payment
         1. [Payment](https://github.com/spryker/documentation/blob/master/202001.0/70b13241-96ee-4889-9b35-75970e52b2cf.md)
-        2. [Payment Methods Overview](https://github.com/spryker/documentation/blob/master/202001.0/73970707-86a5-4e19-a85a-54e20be9db9e.md)
+        2. [Multiple Payment Methods per Order](https://github.com/spryker/documentation/blob/master/202001.0/73970707-86a5-4e19-a85a-54e20be9db9e.md)
         3. [Dummy Payment](https://github.com/spryker/documentation/blob/master/202001.0/c39d9394-f5e3-4413-b588-4c161b2811fa.md)
         4. [Payment Provider Integration](https://github.com/spryker/documentation/blob/master/202001.0/ca83756c-36db-407f-b276-b9b19adff826.md)
         5. [Refund Management](https://github.com/spryker/documentation/blob/master/202001.0/f046378d-dffd-4e1d-b88c-ae3f9d28ba71.md)
