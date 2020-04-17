@@ -1626,25 +1626,25 @@
         10. [Tutorial - Content and Search - Personalized Catalog Pages - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7601c216-b834-430b-af55-82145dbc3453.md)
         11. [Tutorial - Testing and TDD - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/de483441-76fe-4c06-95e2-e2f8c63b607a.md)
         12. [Tutorial - Handling New Types of Entity URLs - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/089cb7ba-50ff-43a6-afde-8911732c02a3.md)
-        13. Tutorial - Hello World - Spryker Commerce OS
-            1. [Tutorial - Hello World - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/dd1d1d6d-bda1-4cdb-b09d-7e252f49191d.md)
-            2. [Tutorial - Hello World - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/355dc693-3ab5-4f19-8be5-69f599d86f9c.md)
-        14. Tutorial - Content and Search - Attribute-Cart-Based Catalog Personalization - Spryker Commerce OS
-            1. [Tutorial - Content and Search - Attribute-Cart-Based Catalog Personalization - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/63073c4f-b3c6-411f-94b2-8acb61b9a533.md)
-            2. [Tutorial - Boosting Cart Based Search](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b8d9a9e3-ee62-4717-b0e2-4a56326d9b6e.md)
-        15. Tutorial - Different Sores Different Logic - Landing Pages - Spryker Commerce OS
-            1. [Tutorial - Different Sores Different Logic - Landing Pages - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5a2f1eda-ce11-4fc4-93e7-b46209eece11.md)
-            2. [Tutorial - Stores - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/eb043c41-27f8-4d7c-bf61-b1c5b1a212da.md)
-        16. Tutorial - Handling Data - Publish and Synchronization - Spryker Commerce OS
-            1. [Tutorial - Handling Data - Publish and Synchronization - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d1a244f6-3ecf-46fe-b0e2-cef62245ec3c.md)
-            2. [Tutorial - Handling Data - Publish and Synchronization - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b6f994a1-1465-4319-a2b2-6ec63e3ec600.md)
-        17. Glue API
+        13. Glue API
             1. [Glue API Tutorials](https://github.com/spryker/documentation/blob/master/Upcoming+Release/79a7cf1c-fe05-44e4-bed4-438f4c5d35c4.md)
             2. [Implementing a REST API Resource](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8d0126d6-8aac-4c54-a3c7-81fc77539f36.md)
             3. [Documenting GLUE API Resources](https://github.com/spryker/documentation/blob/master/Upcoming+Release/63abb51c-44f7-45e1-ab60-09f3750baa2e.md)
             4. [Extending a REST API Resource](https://github.com/spryker/documentation/blob/master/Upcoming+Release/a1cbff34-df63-4296-a806-1485043d0abb.md)
             5. [Validating REST Request Format](https://github.com/spryker/documentation/blob/master/Upcoming+Release/bcb2134a-05a0-4779-b18d-340109cdbfc7.md)
             6. [Versioning REST API Resources](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e362b950-0da9-4dff-bb8e-a9647658e2c0.md)
+        14. Tutorial - Hello World - Spryker Commerce OS
+            1. [Tutorial - Hello World - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/dd1d1d6d-bda1-4cdb-b09d-7e252f49191d.md)
+            2. [Tutorial - Hello World - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/355dc693-3ab5-4f19-8be5-69f599d86f9c.md)
+        15. Tutorial - Content and Search - Attribute-Cart-Based Catalog Personalization - Spryker Commerce OS
+            1. [Tutorial - Content and Search - Attribute-Cart-Based Catalog Personalization - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/63073c4f-b3c6-411f-94b2-8acb61b9a533.md)
+            2. [Tutorial - Boosting Cart Based Search](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b8d9a9e3-ee62-4717-b0e2-4a56326d9b6e.md)
+        16. Tutorial - Different Sores Different Logic - Landing Pages - Spryker Commerce OS
+            1. [Tutorial - Different Sores Different Logic - Landing Pages - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5a2f1eda-ce11-4fc4-93e7-b46209eece11.md)
+            2. [Tutorial - Stores - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/eb043c41-27f8-4d7c-bf61-b1c5b1a212da.md)
+        17. Tutorial - Handling Data - Publish and Synchronization - Spryker Commerce OS
+            1. [Tutorial - Handling Data - Publish and Synchronization - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d1a244f6-3ecf-46fe-b0e2-cef62245ec3c.md)
+            2. [Tutorial - Handling Data - Publish and Synchronization - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b6f994a1-1465-4319-a2b2-6ec63e3ec600.md)
     3. HowTos
         1. [About HowTos](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c7ba3e57-072d-4a85-b27e-05b354de7f39.md)
         2. [HowTo - Change the Default Behavior of Event Triggering in the AvailabilityStorage Module](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fe5f1645-1614-4315-9c60-b1eec0d67e0d.md)
