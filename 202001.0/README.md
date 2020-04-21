@@ -1673,21 +1673,20 @@
         22. Feature HowTos
             1. [Feature HowTos](https://github.com/spryker/documentation/blob/master/202001.0/b99b325e-2044-412d-8026-1d2913361abe.md)
             2. [HowTo - Clean or Duplicate a Cart after an Order](https://github.com/spryker/documentation/blob/master/202001.0/7ca6bbaf-ff7e-45e7-afff-5f74b116b7c5.md)
-            3. [HowTo - Create a Discount Based on Shipment](https://github.com/spryker/documentation/blob/master/202001.0/de504987-6b9b-411e-a44d-0ec10ebd40b3.md)
-            4. [HowTo - Create Discounts Based on Shipment](https://github.com/spryker/documentation/blob/master/202001.0/e9886ff1-c856-4160-924b-452bb39eab03.md)
-            5. [HowTo - Make a Product Searchable and Shown on the Storefront](https://github.com/spryker/documentation/blob/master/202001.0/95b195c1-8110-4e7a-8984-a6419c55a2e5.md)
-            6. [HowTo -  Render Configurable Bundle Templates in the Storefront](https://github.com/spryker/documentation/blob/master/202001.0/87d3e9ed-702e-43fa-b7c0-5a0c9d5b49ec.md)
-            7. [HowTo - Schedule Cron Job for Scheduled Prices](https://github.com/spryker/documentation/blob/master/202001.0/f23a30d5-68aa-4100-ac14-454400bb24bc.md)
-            8. [HowTo - Configure the Product Reviews](https://github.com/spryker/documentation/blob/master/202001.0/db5e5b44-c173-43bd-bc2b-5a9b6d3f2e7a.md)
-            9. [HowTo - Use Blocks](https://github.com/spryker/documentation/blob/master/202001.0/faef375e-6eda-4909-84fc-e1bbe96119b6.md)
-            10. [HowTo - Manage a Big Number of Categories](https://github.com/spryker/documentation/blob/master/202001.0/1531fbc8-f939-4d71-a672-bef5e027ba2c.md)
-            11. [HowTo - Disable Split Delivery in Yves Interface](https://github.com/spryker/documentation/blob/master/202001.0/6f173fc3-47a9-4493-a1a8-5876acc7739c.md)
-            12. [HowTo - Implement Customer Approval Process Based on a Generic State Machine](https://github.com/spryker/documentation/blob/master/202001.0/8bbb8c18-2c60-4537-9031-8d7e9917bcb8.md)
-            13. CMS
+            3. [HowTo - Create Discounts Based on Shipment](https://github.com/spryker/documentation/blob/master/202001.0/e9886ff1-c856-4160-924b-452bb39eab03.md)
+            4. [HowTo - Make a Product Searchable and Shown on the Storefront](https://github.com/spryker/documentation/blob/master/202001.0/95b195c1-8110-4e7a-8984-a6419c55a2e5.md)
+            5. [HowTo -  Render Configurable Bundle Templates in the Storefront](https://github.com/spryker/documentation/blob/master/202001.0/87d3e9ed-702e-43fa-b7c0-5a0c9d5b49ec.md)
+            6. [HowTo - Schedule Cron Job for Scheduled Prices](https://github.com/spryker/documentation/blob/master/202001.0/f23a30d5-68aa-4100-ac14-454400bb24bc.md)
+            7. [HowTo - Configure the Product Reviews](https://github.com/spryker/documentation/blob/master/202001.0/db5e5b44-c173-43bd-bc2b-5a9b6d3f2e7a.md)
+            8. [HowTo - Use Blocks](https://github.com/spryker/documentation/blob/master/202001.0/faef375e-6eda-4909-84fc-e1bbe96119b6.md)
+            9. [HowTo - Manage a Big Number of Categories](https://github.com/spryker/documentation/blob/master/202001.0/1531fbc8-f939-4d71-a672-bef5e027ba2c.md)
+            10. [HowTo - Disable Split Delivery in Yves Interface](https://github.com/spryker/documentation/blob/master/202001.0/6f173fc3-47a9-4493-a1a8-5876acc7739c.md)
+            11. [HowTo - Implement Customer Approval Process Based on a Generic State Machine](https://github.com/spryker/documentation/blob/master/202001.0/8bbb8c18-2c60-4537-9031-8d7e9917bcb8.md)
+            12. CMS
                 1. [HowTo - Create a Content Item](https://github.com/spryker/documentation/blob/master/202001.0/0dfd20d7-7d65-428d-ab27-edcdf1a7eebb.md)
                 2. [ HowTo - Create a Visibility Condition for CMS Blocks](https://github.com/spryker/documentation/blob/master/202001.0/b99c2b16-3515-4e31-96fd-2f29b436e8d5.md)
                 3. [HowTo - Create CMS Templates](https://github.com/spryker/documentation/blob/master/202001.0/c5183f2d-97cf-4a9b-a702-2dd03aa5fcc7.md)
-            14. Data Imports
+            13. Data Imports
                 1. [HowTo - Import Delivery Methods Linked to Store](https://github.com/spryker/documentation/blob/master/202001.0/f6c8b9e7-5656-45e9-9249-4aa8d5ddcc79.md)
                 2. [HowTo - Import Packaging Units](https://github.com/spryker/documentation/blob/master/202001.0/b73799db-7606-496b-833a-06862268ee6a.md)
                 3. [HowTo - Import Payment Method Store Relation Data](https://github.com/spryker/documentation/blob/master/202001.0/0fa840fe-bac8-4ff0-9de2-7d07daf4edea.md)
