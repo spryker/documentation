@@ -1400,6 +1400,7 @@
             14. [Glue API: Product Options Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/be53f842-61cf-41d3-ba79-a2ca6e3f1618.md)
             15. [Glue API: Product Price API Feature Integration ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/85d16fa0-d908-4e2b-863d-6a3e5060e103.md)
             16. [Glue API: Product Rating & Reviews Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f0e0f602-f125-46cc-a59b-ac23381d0e1d.md)
+            17. [GLUE API: Product Relations Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/77795e8f-9fe5-476e-bbb3-50524d50e8a8.md)
     4. Float Stock for Products
         1. [Float Stock for Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/db135fac-b192-4cb2-97e0-c73a31112161.md)
     5. Migration Concepts
