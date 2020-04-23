@@ -426,6 +426,7 @@
         3. Quotation Process & RFQ
             1. [Quotation Process & RFQ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/609f6b8b-44ce-4efb-9844-af28ab227073.md)
             2. [Quotation Process & RFQ Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/76911f46-e34a-4a33-8205-d2638e7cc6f5.md)
+            3. [Quotation Process & RFQ: Module Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9fc2a532-83e7-4266-8814-74b861ab716e.md)
         4. Vault for Tokens
             1. [Vault for Tokens](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f7692be2-db4a-4a63-993a-906443a77b91.md)
             2. [Vault for Tokens Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ca603806-3a54-4fde-ab5a-3e6fa31e9ec3.md)
