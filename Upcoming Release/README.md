@@ -1030,31 +1030,32 @@
         7. [Catalog Search](https://github.com/spryker/documentation/blob/master/Upcoming+Release/231d202e-1af4-4faa-bb41-143cee62e1fc.md)
         8. [Getting Suggestions for Auto-Completion and Search](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5a31882d-7e51-446d-ad7a-8b3826bb0437.md)
         9. [Managing Customers](https://github.com/spryker/documentation/blob/master/Upcoming+Release/be5d5720-c020-4b64-a184-7d86673a6deb.md)
-        10. [Managing Wishlists](https://github.com/spryker/documentation/blob/master/Upcoming+Release/854de46f-eaf2-4621-aa94-34fe4a9378f8.md)
-        11. [Checking Out Purchases and Getting Checkout Data ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7924cb82-d6f6-4f5f-a132-4177692d54fa.md)
-        12. [Retrieving Customer's Order History](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3989ca5d-b1c1-4929-bfff-cf7a3540b1dc.md)
-        13. [Using Search Engine Friendly URLs](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fde85b1f-cc09-46d7-a990-3e52367db1f2.md)
-        14. [Ratings and Reviews](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3c078943-f7b0-4db0-8dcf-5d015d04e739.md)
-        15. [Discounts and Promotions](https://github.com/spryker/documentation/blob/master/Upcoming+Release/1afa9ae5-e357-4616-bd9b-8667501ea502.md)
-        16. B2B Account Management
+        10. [Managing Shopping Lists](https://github.com/spryker/documentation/blob/master/Upcoming+Release/46eec688-6802-433f-998d-c6187356f25b.md)
+        11. [Managing Wishlists](https://github.com/spryker/documentation/blob/master/Upcoming+Release/854de46f-eaf2-4621-aa94-34fe4a9378f8.md)
+        12. [Checking Out Purchases and Getting Checkout Data ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7924cb82-d6f6-4f5f-a132-4177692d54fa.md)
+        13. [Retrieving Customer's Order History](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3989ca5d-b1c1-4929-bfff-cf7a3540b1dc.md)
+        14. [Using Search Engine Friendly URLs](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fde85b1f-cc09-46d7-a990-3e52367db1f2.md)
+        15. [Ratings and Reviews](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3c078943-f7b0-4db0-8dcf-5d015d04e739.md)
+        16. [Discounts and Promotions](https://github.com/spryker/documentation/blob/master/Upcoming+Release/1afa9ae5-e357-4616-bd9b-8667501ea502.md)
+        17. B2B Account Management
             1. [B2B Account Management](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d0f3ad8d-d91e-401b-b0c6-e48cb13df5e8.md)
             2. [Logging In as Company User](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6b2183ab-7d17-45cf-9a53-e2f3bb48e579.md)
             3. [Retrieving Company User Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f84a4096-0877-4370-8df2-52ba5b6c4b93.md)
             4. [Retrieving Company Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c919a004-8d7f-4573-9014-73949cf1eb8f.md)
             5. [Retrieving Business Unit Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/1325e7e7-044d-4272-9587-fafc8a9cb928.md)
             6. [Retrieving Company Role Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/722b3bc5-1ec4-4b5a-aa11-9b26373bdfa0.md)
-        17. Managing Products
+        18. Managing Products
             1. [Retrieving Product Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b3b5a044-f7aa-40d4-8006-2c8460e86e29.md)
             2. [Accessing Product Labels](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c5dc18d6-5967-43ba-88a4-6df66ea431ac.md)
             3. [Retrieving Related Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e46eed39-3641-4e35-9014-89c27fe73b4c.md)
             4. [Retrieving Alternative Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/242c2c18-c58d-4fd9-b2cb-51b17329072e.md)
             5. [Retrieving and Applying Product Options](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e6b8bc1c-46dc-4116-bbcd-4905bd2c9347.md)
-        18. Managing Carts
+        19. Managing Carts
             1. [Managing Carts](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c915be34-8ca5-4d7e-8900-226e7a286011.md)
             2. [Managing Guest Carts](https://github.com/spryker/documentation/blob/master/Upcoming+Release/794ed6c0-fdea-48d5-bb63-5909ee093a2f.md)
             3. [Managing Carts of Registered Users](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9f6b9b11-3875-4241-85fa-ac02fbe45ca5.md)
             4. [Sharing Company User Carts](https://github.com/spryker/documentation/blob/master/Upcoming+Release/a3b21add-72fb-42a5-ab1e-3b57f53d195b.md)
-        19. Retrieving Content Item Data
+        20. Retrieving Content Item Data
             1. [Retrieving Content Item Data](https://github.com/spryker/documentation/blob/master/Upcoming+Release/57751ebd-4cae-4a61-b90f-c3a5013d7c08.md)
             2. [Retrieving Banner Content Item Data](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e88d1d57-9e00-4579-a64d-b646e5d270cd.md)
             3. [Getting Abstract Product List Content Item Data](https://github.com/spryker/documentation/blob/master/Upcoming+Release/a6e9bd31-eedd-4e71-abbf-5e96ffc2256f.md)
