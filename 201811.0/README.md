@@ -1069,7 +1069,7 @@
             14. [Product Tax Sets API Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/ad00daf1-7c6f-4a1b-b358-9fc415a3a093.md)
             15. [Wishlist API Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/bb8921e2-a8cd-4fe7-97f5-cdbd3a990f0d.md)
         42. Shopping Lists: Product Options Feature Integration
-            1. [Shopping Lists: Product Options Feature Integration v2018.11.0](https://github.com/spryker/documentation/blob/master/201811.0/258508f1-0ce9-4f7c-92af-94ba0eb70016.md)
+            1. [Shopping Lists: Product Options Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/258508f1-0ce9-4f7c-92af-94ba0eb70016.md)
     3. Float Stock for Products
         1. [Float Stock for Products](https://github.com/spryker/documentation/blob/master/201811.0/321350e3-4b9f-447d-bb9b-fa89135bc63c.md)
     4. Module Migration Guides
