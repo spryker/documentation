@@ -3,8 +3,8 @@
 To start feature integration, review ad install the necessary features.
 |Name|Version|
 |---|---|
-|Product Options|201903.0|
-|Shopping Lists|201903.0|
+|Product Options|201907.0|
+|Shopping Lists|201907.0|
 
 ### 1) Install the Required Modules by Using Composer
 Run the following command to install the required modules:
@@ -106,8 +106,8 @@ class ShoppingListDependencyProvider extends SprykerShoppingListDependencyProvid
 Please review and install the necessary features before beginning the integration step.
 |Name|Version|
 |---|---|
-|Spryker Core |201903.0|
-|Product Options|201903.0|
+|Spryker Core |201907.0|
+|Product Options|201907.0|
 
 ### 1) Add Translations
 Append glossary according to your configuration:
@@ -185,7 +185,3 @@ console frontend:yves:build
 |Module|Test|
 |---|---|
 |`ShoppingLisPage`|Add a product with product options to a shopping list, then verify if on shopping list page the product option appears.|
-
-<!--**See also:**
-
-* [Familiarize yourself with Products with Options in Shopping Lists feature](https://documentation.spryker.com/capabilities/shopping_list/products_with_options/product-options-in-shopping_lists.htm) 
