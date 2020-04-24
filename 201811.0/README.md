@@ -1050,7 +1050,7 @@
         36. [Quick Order Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/ea9ad960-c5c0-465b-847c-cdbe16dd4eb6.md)
         37. [Shared Carts Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/3459b42e-9e0b-47a0-8774-5755e00c9353.md)
         38. [Shopping Lists Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/d8898b5e-8b5e-42ac-b44e-b644f3878d42.md)
-        39. [Shopping Lists: Product Options Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/258508f1-0ce9-4f7c-92af-94ba0eb70016.md)
+        39. [Shopping Lists + Product Options Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/258508f1-0ce9-4f7c-92af-94ba0eb70016.md)
         40. [Splittable Order Items Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/8b3b87f9-9237-4630-845c-46495f0d61e8.md)
         41. [Volume Prices Feature Integration](https://github.com/spryker/documentation/blob/master/201811.0/672326c2-ded8-4d9a-9ea2-3ffcfece9f34.md)
         42. Glue API
