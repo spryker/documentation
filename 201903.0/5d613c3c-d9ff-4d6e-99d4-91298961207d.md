@@ -181,8 +181,7 @@ Run the following command to enable Javascript and CSS changes:
 ```yaml
 console frontend:yves:build
 ```
-**Verification**
-@(Info)()(Make sure that the following UI components were correctly integrated:)
+@(Info)(Verification)(Make sure that the following UI components were correctly integrated:)
 |Module|Test|
 |---|---|
 |`ShoppingLisPage`|Add a product with product options to a shopping list, then verify if on shopping list page the product option appears.|
@@ -190,5 +189,3 @@ console frontend:yves:build
 <!--**See also:**
 
 * [Familiarize yourself with Products with Options in Shopping Lists feature](https://documentation.spryker.com/capabilities/shopping_list/products_with_options/product-options-in-shopping_lists.htm) 
--->
-*Last review date: Mar 28, 2019* <!-- by  Karoly Gerner and Oksana Karasyova-->
