@@ -1184,9 +1184,10 @@
         63. [Search Widget for Concrete Products Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/7db4bfd0-0b5e-452e-b5d4-301c49b23f06.md)
         64. [Shared Carts Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/9ba9aa3c-23a7-4089-ba25-8a968242a437.md)
         65. [Shopping Lists Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/cb43786c-b636-455a-a83a-11f9b9e1a055.md)
-        66. [Splittable Order Items Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/66924148-8332-4cd7-8217-d26ca7795ea4.md)
-        67. [Volume Prices Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/d0ff9fcc-7509-45de-8661-a0c4297abc86.md)
-        68. Glue API
+        66. [Shopping Lists: Product Options Feature Integration ](https://github.com/spryker/documentation/blob/master/201903.0/5d613c3c-d9ff-4d6e-99d4-91298961207d.md)
+        67. [Splittable Order Items Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/66924148-8332-4cd7-8217-d26ca7795ea4.md)
+        68. [Volume Prices Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/d0ff9fcc-7509-45de-8661-a0c4297abc86.md)
+        69. Glue API
             1. [Glue API Installation and Configuration](https://github.com/spryker/documentation/blob/master/201903.0/bb84f1b7-5e4b-4aaf-8bcd-d9d5dc38032a.md)
             2. [Alternative Products API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/a1231041-72f2-4fa1-83f3-c2051fcc8a52.md)
             3. [Catalog Search API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/7eb76f14-eb9e-4ea4-80e7-4cc958047c90.md)
@@ -1210,10 +1211,7 @@
             21. [Wishlist API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/fbcdf200-a497-45d5-a040-a2745da5782f.md)
             22. [Product + Category Relationship Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/4e143615-5efe-4dfa-b0a7-22f8747bdf22.md)
             23. [Store API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/8470c496-a6d4-49af-92f5-114d10baa29a.md)
-        69. Spryker in Docker
-        70. Shopping Lists: Product Options Feature Integration
-            1. [Shopping Lists: Product Options Feature Integration v2018.11.0](https://github.com/spryker/documentation/blob/master/201903.0/ddac94b9-8442-434f-9b48-2dc10f8130a9.md)
-            2. [Shopping Lists: Product Options Feature Integration v201903.0](https://github.com/spryker/documentation/blob/master/201903.0/5d613c3c-d9ff-4d6e-99d4-91298961207d.md)
+        70. Spryker in Docker
     3. Float Stock for Products
         1. [Float Stock for Products](https://github.com/spryker/documentation/blob/master/201903.0/4ef914c4-d990-47be-b538-1d5119ec22f8.md)
     4. Migration Concepts
