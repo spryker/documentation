@@ -1291,7 +1291,7 @@
         78. [Search Widget for Concrete Products Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/ec39fc88-3424-4871-9861-b66203aa0cce.md)
         79. [Shared Carts Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/637f1793-caa9-47b0-9e0e-d4e2f65bf777.md)
         80. [Shopping Lists Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/f806410e-21ea-4476-a622-2665374eff42.md)
-        81. [Shopping Lists: Product Options Feature Integration v201903.0](https://github.com/spryker/documentation/blob/master/201907.0/cdd813c0-7cff-44f9-873d-e0bddb3b5be6.md)
+        81. [Shopping Lists: Product Options Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/cdd813c0-7cff-44f9-873d-e0bddb3b5be6.md)
         82. [Splittable Order Items Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/ea499c83-900d-4788-bcaf-c7981220b441.md)
         83. [Spryker Core Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/8f71ec40-756d-43e2-9ab0-0ccde9611aef.md)
         84. [Volume Prices Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/2c12542c-4dbe-4b35-8b3b-ae390b682fc6.md)
