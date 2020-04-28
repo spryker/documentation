@@ -245,13 +245,14 @@
         6. [Step Engine](https://github.com/spryker/documentation/blob/master/Upcoming+Release/05a635a5-788b-41d4-a321-12f8fb26892c.md)
         7. [URL](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8af947ab-4639-4960-96fc-ce8272d24c53.md)
         8. [Offer Management](https://github.com/spryker/documentation/blob/master/Upcoming+Release/a70dbffd-edb5-42f7-917b-6884399aadf3.md)
-        9. Splittable Order Items
+        9. Custom Order Reference
+        10. Splittable Order Items
             1. [Splittable Order Items](https://github.com/spryker/documentation/blob/master/Upcoming+Release/417255e8-7372-4d5d-8526-130a38e392d4.md)
             2. [Splittable Order Items Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/77ef463f-7d37-427d-88e0-c84fe6941e26.md)
-        10. Reclamations
+        11. Reclamations
             1. [Reclamations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8f036dd3-0714-45fb-8e14-e474ab1253b1.md)
             2. [Reclamations Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/91e4cdbb-69fb-4bfd-a49c-07f66c548b45.md)
-        11. Split Delivery
+        12. Split Delivery
             1. [Split Delivery](https://github.com/spryker/documentation/blob/master/Upcoming+Release/40f188f2-116c-418f-b188-ec851148c1eb.md)
             2. [Split Delivery Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/daa78cd7-1b15-458c-99f9-0a9328e02146.md)
     18. Packaging & Measurement Units
