@@ -245,17 +245,17 @@
         6. [Step Engine](https://github.com/spryker/documentation/blob/master/Upcoming+Release/05a635a5-788b-41d4-a321-12f8fb26892c.md)
         7. [URL](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8af947ab-4639-4960-96fc-ce8272d24c53.md)
         8. [Offer Management](https://github.com/spryker/documentation/blob/master/Upcoming+Release/a70dbffd-edb5-42f7-917b-6884399aadf3.md)
-        9. Custom Order Reference
-            1. [Custom Order Reference](https://github.com/spryker/documentation/blob/master/Upcoming+Release/96289c37-5312-4929-b9e9-5b3847cb8591.md)
-        10. Splittable Order Items
+        9. Splittable Order Items
             1. [Splittable Order Items](https://github.com/spryker/documentation/blob/master/Upcoming+Release/417255e8-7372-4d5d-8526-130a38e392d4.md)
             2. [Splittable Order Items Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/77ef463f-7d37-427d-88e0-c84fe6941e26.md)
-        11. Reclamations
+        10. Reclamations
             1. [Reclamations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8f036dd3-0714-45fb-8e14-e474ab1253b1.md)
             2. [Reclamations Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/91e4cdbb-69fb-4bfd-a49c-07f66c548b45.md)
-        12. Split Delivery
+        11. Split Delivery
             1. [Split Delivery](https://github.com/spryker/documentation/blob/master/Upcoming+Release/40f188f2-116c-418f-b188-ec851148c1eb.md)
             2. [Split Delivery Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/daa78cd7-1b15-458c-99f9-0a9328e02146.md)
+        12. Custom Order Reference
+            1. [Custom Order Reference](https://github.com/spryker/documentation/blob/master/Upcoming+Release/96289c37-5312-4929-b9e9-5b3847cb8591.md)
     18. Packaging & Measurement Units
         1. [Packaging & Measurement Units](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c81c361d-5cdf-4659-a949-190113dfdab5.md)
         2. Packaging Units
@@ -1400,20 +1400,21 @@
             6. [Glue API: Checkout Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/73c7eb5e-bd4b-4f44-9785-644aaaa2ec53.md)
             7. [Glue API: Content Items API Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e81550ce-cc54-4d5e-8cc9-b2292edb72ee.md)
             8. [Glue API: Company Account Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f7a6a7d3-a1a6-462b-adf4-1a0c5c4d4e11.md)
-            9. [Glue API: Customer Access Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0b19c34a-b115-4ccb-90c6-bc27bb9a0c16.md)
-            10. [Glue API: Payments Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/36efbeb7-64cf-4fa7-b3b7-a6674ca92564.md)
-            11. [Glue API: Promotions & Discounts Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/634feac8-78b0-4f69-b4fe-4939fe561d5c.md)
-            12. [Glue API: Spryker Core Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7be3be98-e86b-44ef-b872-0c497e64086c.md)
-            13. [Glue API: Order Management Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/73691bbd-3fd7-4726-903f-231d2595c5c7.md)
-            14. [ Glue API: Products Feature Integration ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/94de7fb5-4a7e-4a9e-9692-f5f1afc65e48.md)
-            15. [Glue API: Product Availability Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b4f0fbe8-b647-4b76-b0ec-9d7637a68b25.md)
-            16. [Glue API: Product Image Sets API Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8bce0422-ab04-418b-8409-96a36cf7ecbb.md)
-            17. [Glue API: Product Options Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/be53f842-61cf-41d3-ba79-a2ca6e3f1618.md)
-            18. [Glue API: Product Price API Feature Integration ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/85d16fa0-d908-4e2b-863d-6a3e5060e103.md)
-            19. [Glue API: Product Rating & Reviews Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f0e0f602-f125-46cc-a59b-ac23381d0e1d.md)
-            20. [GLUE API: Product Relations Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/77795e8f-9fe5-476e-bbb3-50524d50e8a8.md)
-            21. [Glue API: Shopping Lists Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b9a2fd6a-31a7-40f1-9ab3-6495b2650a6b.md)
-            22. [Glue API: Shipment Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/78d2624a-3d89-4177-a7ff-0ca29fc5b1e7.md)
+            9. [Glue API: Customer Account Management Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/efe80690-3ca2-405d-9f57-3f8954d10033.md)
+            10. [Glue API: Customer Access Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0b19c34a-b115-4ccb-90c6-bc27bb9a0c16.md)
+            11. [Glue API: Payments Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/36efbeb7-64cf-4fa7-b3b7-a6674ca92564.md)
+            12. [Glue API: Promotions & Discounts Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/634feac8-78b0-4f69-b4fe-4939fe561d5c.md)
+            13. [Glue API: Spryker Core Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7be3be98-e86b-44ef-b872-0c497e64086c.md)
+            14. [Glue API: Order Management Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/73691bbd-3fd7-4726-903f-231d2595c5c7.md)
+            15. [ Glue API: Products Feature Integration ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/94de7fb5-4a7e-4a9e-9692-f5f1afc65e48.md)
+            16. [Glue API: Product Availability Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b4f0fbe8-b647-4b76-b0ec-9d7637a68b25.md)
+            17. [Glue API: Product Image Sets API Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8bce0422-ab04-418b-8409-96a36cf7ecbb.md)
+            18. [Glue API: Product Options Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/be53f842-61cf-41d3-ba79-a2ca6e3f1618.md)
+            19. [Glue API: Product Price API Feature Integration ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/85d16fa0-d908-4e2b-863d-6a3e5060e103.md)
+            20. [Glue API: Product Rating & Reviews Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f0e0f602-f125-46cc-a59b-ac23381d0e1d.md)
+            21. [GLUE API: Product Relations Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/77795e8f-9fe5-476e-bbb3-50524d50e8a8.md)
+            22. [Glue API: Shopping Lists Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b9a2fd6a-31a7-40f1-9ab3-6495b2650a6b.md)
+            23. [Glue API: Shipment Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/78d2624a-3d89-4177-a7ff-0ca29fc5b1e7.md)
     4. Float Stock for Products
         1. [Float Stock for Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/db135fac-b192-4cb2-97e0-c73a31112161.md)
     5. Migration Concepts
