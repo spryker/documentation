@@ -256,6 +256,7 @@
             2. [Split Delivery Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/daa78cd7-1b15-458c-99f9-0a9328e02146.md)
         12. Custom Order Reference
             1. [Custom Order Reference](https://github.com/spryker/documentation/blob/master/Upcoming+Release/96289c37-5312-4929-b9e9-5b3847cb8591.md)
+            2. [Custom order Reference Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/dda7fe3d-8ebc-4586-80c8-dc9d93250d6d.md)
     18. Packaging & Measurement Units
         1. [Packaging & Measurement Units](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c81c361d-5cdf-4659-a949-190113dfdab5.md)
         2. Packaging Units
