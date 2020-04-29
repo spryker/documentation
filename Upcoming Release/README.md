@@ -851,7 +851,7 @@
                     2. [Creating an Order Management System - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0bcb5450-378b-4de9-a5f1-6696d4e434eb.md)
                 4. Data Ingestion
                     1. [Spryker Middleware](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cc6aaccf-32c7-48b2-b3d4-100891d75db5.md)
-                    2. Data Importers
+                    2. Data Import
                         1. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
                         2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9f55c735-9168-4d40-9519-bad08890870e.md)
                         3. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
