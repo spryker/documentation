@@ -257,6 +257,7 @@
         12. Custom Order Reference
             1. [Custom Order Reference](https://github.com/spryker/documentation/blob/master/Upcoming+Release/96289c37-5312-4929-b9e9-5b3847cb8591.md)
             2. [Custom order Reference Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/dda7fe3d-8ebc-4586-80c8-dc9d93250d6d.md)
+            3. [Custom Order Reference: Module Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6621794b-7422-4037-a545-e9efcf9e55a5.md)
     18. Packaging & Measurement Units
         1. [Packaging & Measurement Units](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c81c361d-5cdf-4659-a949-190113dfdab5.md)
         2. Packaging Units
