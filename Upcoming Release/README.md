@@ -736,7 +736,8 @@
             1. [Shopping Carts](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4b49609c-ce11-4698-92ac-158c304dce5c.md)
             2. [Shop Guide - Creating a Shopping Cart](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ae99abba-ee78-4218-af03-531803787d3a.md)
             3. [Shop Guide - Managing Multiple Shopping Carts](https://github.com/spryker/documentation/blob/master/Upcoming+Release/efa68d41-79a9-4274-88ab-4f360342bb3e.md)
-            4. [Shopping Carts: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/1c873945-2fc7-42de-8be3-434411ca2654.md)
+            4. [Shop Guide - Managing a Shopping Cart](https://github.com/spryker/documentation/blob/master/Upcoming+Release/964ec032-2a62-446f-93d4-ee77247d597f.md)
+            5. [Shopping Carts: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/1c873945-2fc7-42de-8be3-434411ca2654.md)
 4. Developer Guides
     1. [About the Developer Guides](https://github.com/spryker/documentation/blob/master/Upcoming+Release/df9f7085-ea2f-4405-aa4c-f21a842d3672.md)
     2. [Developer Getting Started Guide](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e74e1446-0ea9-4423-92e2-624551df2b06.md)
