@@ -853,8 +853,8 @@
                     1. [Spryker Middleware](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cc6aaccf-32c7-48b2-b3d4-100891d75db5.md)
                     2. Data Import
                         1. [Importing Data](https://github.com/spryker/documentation/blob/master/Upcoming+Release/965561ad-2b3f-4eed-b190-7588601c3188.md)
-                        2. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
-                        3. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9f55c735-9168-4d40-9519-bad08890870e.md)
+                        2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9f55c735-9168-4d40-9519-bad08890870e.md)
+                        3. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
                         4. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
                         5. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
                     3. Structural Preparations
