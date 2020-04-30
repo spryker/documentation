@@ -1345,7 +1345,7 @@
         39. [Minimum Order Value Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2c93bf01-1b5f-4eaf-9dac-eda467d370b3.md)
         40. [Multiple Carts Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e5fcbd45-a112-461e-a81c-52f4350b8ae1.md)
         41. [Customer Access Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/674b48a1-c10a-4ffd-b6b1-dc0b7b57295b.md)
-        42. [Multiple Carts: Reorder Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2954b8f8-b1bd-410a-bb61-5f28585ef2c6.md)
+        42. [Multiple Carts + Reorder Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2954b8f8-b1bd-410a-bb61-5f28585ef2c6.md)
         43. [Multi-Store Products Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/45485e8f-8dba-445f-b939-206d5840dbc9.md)
         44. [Multi-store CMS Block Feature Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cdb8976d-0876-4c0a-8a58-fc74f913ad68.md)
         45. [Navigation Module Integration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4ec06bc8-8e7e-4af0-b1e2-bc8a3d584628.md)
