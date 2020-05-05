@@ -1006,6 +1006,7 @@
                     7. [File details: shipment_price.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9d5fdbf2-8b88-4fb8-a282-56e931718498.md)
                     8. [File details: shipment_method_store.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e8ad47a1-4e94-4211-9564-dda73b7b0e4c.md)
                     9. [File details: sales_order_threshold.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c8d1e68f-b779-4d18-92e4-dd512bbc2297.md)
+                    10. [File details: warehouse.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/11ccd59d-1d0d-4588-82fa-97d16a5867cd.md)
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fdf7ed87-b5c9-4295-84da-a485db767494.md)
