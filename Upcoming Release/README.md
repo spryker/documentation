@@ -860,6 +860,7 @@
                         2. [File details: currency.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/01900909-5374-4dee-833e-ce1cdc25fef2.md)
                         3. [File details: customer.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d789860c-5ce2-41b9-ba3b-e0714e3cb4eb.md)
                         4. [File details: glossary.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ca662124-7a04-470e-b3ec-a4549a2b9ec2.md)
+                        5. [File details: tax.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/35aaaa94-0661-47e1-9782-b5059e56e52b.md)
             5. Data Manipulation
                 1. [Configuration Management](https://github.com/spryker/documentation/blob/master/Upcoming+Release/41d124cc-de09-4114-84df-dfc33af220d8.md)
                 2. [Running and Reverting a Database Migration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2942e07b-e044-4f6a-8a1d-2db99ef2fa48.md)
