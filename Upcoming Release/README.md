@@ -844,7 +844,17 @@
                 4. Communication Layer
                     1. [Controllers and Actions](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2b2fb9b1-dbd3-4db9-a782-e135efdf0af2.md)
                     2. [Adding Indexes to Foreign Key Columns: Index Generator](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f85c4c5c-3370-4ee7-a164-656309e62a52.md)
-            4. Data Manipulation
+            4. Data Import
+                1. [Importing Data with a Configuration File](https://github.com/spryker/documentation/blob/master/Upcoming+Release/965561ad-2b3f-4eed-b190-7588601c3188.md)
+                2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9f55c735-9168-4d40-9519-bad08890870e.md)
+                3. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
+                4. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
+                5. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
+                6. Importing Demo Shop Data
+                    1. [About Demo Shop Data Import](https://github.com/spryker/documentation/blob/master/Upcoming+Release/81140103-574b-4320-995a-ae82de863d05.md)
+                7. Data Import Categories
+                    1. Commerce Setup
+            5. Data Manipulation
                 1. [Configuration Management](https://github.com/spryker/documentation/blob/master/Upcoming+Release/41d124cc-de09-4114-84df-dfc33af220d8.md)
                 2. [Running and Reverting a Database Migration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2942e07b-e044-4f6a-8a1d-2db99ef2fa48.md)
                 3. Order Management System
@@ -852,13 +862,7 @@
                     2. [Creating an Order Management System - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0bcb5450-378b-4de9-a5f1-6696d4e434eb.md)
                 4. Data Ingestion
                     1. [Spryker Middleware](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cc6aaccf-32c7-48b2-b3d4-100891d75db5.md)
-                    2. Data Import
-                        1. [Importing Data with a Configuration File](https://github.com/spryker/documentation/blob/master/Upcoming+Release/965561ad-2b3f-4eed-b190-7588601c3188.md)
-                        2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9f55c735-9168-4d40-9519-bad08890870e.md)
-                        3. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
-                        4. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
-                        5. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
-                    3. Structural Preparations
+                    2. Structural Preparations
                         1. [Extending the Database Schema](https://github.com/spryker/documentation/blob/master/Upcoming+Release/777c426f-961c-40e3-a577-6e1d8c51bf91.md)
                         2. [Creating, Using and Extending the Transfer Objects](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c660952a-8a34-4993-995a-e08eadc5bc8a.md)
                         3. [Flysystem](https://github.com/spryker/documentation/blob/master/Upcoming+Release/71e80537-5ce5-4cb1-8e2f-02116a7ced12.md)
