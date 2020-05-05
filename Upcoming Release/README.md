@@ -857,6 +857,7 @@
                     1. [About Data Import Categories](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9c3eb792-4511-493c-afff-4c14e3423ba8.md)
                     2. Commerce Setup
                         1. [Commerce Setup](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6d8ef35a-b699-44b6-bf6f-afc79d72474b.md)
+                        2. [File details: currency.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/01900909-5374-4dee-833e-ce1cdc25fef2.md)
             5. Data Manipulation
                 1. [Configuration Management](https://github.com/spryker/documentation/blob/master/Upcoming+Release/41d124cc-de09-4114-84df-dfc33af220d8.md)
                 2. [Running and Reverting a Database Migration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2942e07b-e044-4f6a-8a1d-2db99ef2fa48.md)
