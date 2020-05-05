@@ -854,7 +854,8 @@
                     1. [About Demo Shop Data Import](https://github.com/spryker/documentation/blob/master/Upcoming+Release/81140103-574b-4320-995a-ae82de863d05.md)
                     2. [Execution Order of Data Importers in Demo Shop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/aaef1ebb-d420-419a-84ad-92ed8e4dfb28.md)
                 7. Data Import Categories
-                    1. Commerce Setup
+                    1. [About Data Import Categories](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9c3eb792-4511-493c-afff-4c14e3423ba8.md)
+                    2. Commerce Setup
             5. Data Manipulation
                 1. [Configuration Management](https://github.com/spryker/documentation/blob/master/Upcoming+Release/41d124cc-de09-4114-84df-dfc33af220d8.md)
                 2. [Running and Reverting a Database Migration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2942e07b-e044-4f6a-8a1d-2db99ef2fa48.md)
