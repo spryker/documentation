@@ -844,27 +844,7 @@
                 4. Communication Layer
                     1. [Controllers and Actions](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2b2fb9b1-dbd3-4db9-a782-e135efdf0af2.md)
                     2. [Adding Indexes to Foreign Key Columns: Index Generator](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f85c4c5c-3370-4ee7-a164-656309e62a52.md)
-            4. Data Import
-                1. [Importing Data with a Configuration File](https://github.com/spryker/documentation/blob/master/Upcoming+Release/965561ad-2b3f-4eed-b190-7588601c3188.md)
-                2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9f55c735-9168-4d40-9519-bad08890870e.md)
-                3. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
-                4. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
-                5. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
-                6. Importing Demo Shop Data
-                    1. [About Demo Shop Data Import](https://github.com/spryker/documentation/blob/master/Upcoming+Release/81140103-574b-4320-995a-ae82de863d05.md)
-                    2. [Execution Order of Data Importers in Demo Shop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/aaef1ebb-d420-419a-84ad-92ed8e4dfb28.md)
-                7. Data Import Categories
-                    1. [About Data Import Categories](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9c3eb792-4511-493c-afff-4c14e3423ba8.md)
-                    2. Commerce Setup
-                        1. [Commerce Setup](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6d8ef35a-b699-44b6-bf6f-afc79d72474b.md)
-                        2. [File details: currency.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/01900909-5374-4dee-833e-ce1cdc25fef2.md)
-                        3. [File details: customer.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d789860c-5ce2-41b9-ba3b-e0714e3cb4eb.md)
-                        4. [File details: glossary.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ca662124-7a04-470e-b3ec-a4549a2b9ec2.md)
-                        5. [File details: tax.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/35aaaa94-0661-47e1-9782-b5059e56e52b.md)
-                        6. [File details: shipment.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fb880466-9902-4424-b390-5083fbcad371.md)
-                        7. [File details: shipment_price.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9d5fdbf2-8b88-4fb8-a282-56e931718498.md)
-                        8. [File details: shipment_method_store.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e8ad47a1-4e94-4211-9564-dda73b7b0e4c.md)
-            5. Data Manipulation
+            4. Data Manipulation
                 1. [Configuration Management](https://github.com/spryker/documentation/blob/master/Upcoming+Release/41d124cc-de09-4114-84df-dfc33af220d8.md)
                 2. [Running and Reverting a Database Migration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2942e07b-e044-4f6a-8a1d-2db99ef2fa48.md)
                 3. Order Management System
@@ -1005,7 +985,27 @@
                     2. [Best Practices - Twig Templates](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7ea3310c-b1d2-4c9f-88f7-6fab2d78e289.md)
             5. Miscellaneous Guides
                 1. [User Interface Guide](https://github.com/spryker/documentation/blob/master/Upcoming+Release/02ec8bbf-52b6-4fba-951a-5c1f99e30472.md)
-        5. Guidelines
+        5. Data Import
+            1. [Importing Data with a Configuration File](https://github.com/spryker/documentation/blob/master/Upcoming+Release/965561ad-2b3f-4eed-b190-7588601c3188.md)
+            2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9f55c735-9168-4d40-9519-bad08890870e.md)
+            3. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
+            4. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
+            5. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
+            6. Importing Demo Shop Data
+                1. [About Demo Shop Data Import](https://github.com/spryker/documentation/blob/master/Upcoming+Release/81140103-574b-4320-995a-ae82de863d05.md)
+                2. [Execution Order of Data Importers in Demo Shop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/aaef1ebb-d420-419a-84ad-92ed8e4dfb28.md)
+            7. Data Import Categories
+                1. [About Data Import Categories](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9c3eb792-4511-493c-afff-4c14e3423ba8.md)
+                2. Commerce Setup
+                    1. [Commerce Setup](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6d8ef35a-b699-44b6-bf6f-afc79d72474b.md)
+                    2. [File details: currency.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/01900909-5374-4dee-833e-ce1cdc25fef2.md)
+                    3. [File details: customer.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d789860c-5ce2-41b9-ba3b-e0714e3cb4eb.md)
+                    4. [File details: glossary.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ca662124-7a04-470e-b3ec-a4549a2b9ec2.md)
+                    5. [File details: tax.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/35aaaa94-0661-47e1-9782-b5059e56e52b.md)
+                    6. [File details: shipment.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fb880466-9902-4424-b390-5083fbcad371.md)
+                    7. [File details: shipment_price.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9d5fdbf2-8b88-4fb8-a282-56e931718498.md)
+                    8. [File details: shipment_method_store.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e8ad47a1-4e94-4211-9564-dda73b7b0e4c.md)
+        6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fdf7ed87-b5c9-4295-84da-a485db767494.md)
             3. [Guidelines for New GDPR Rules](https://github.com/spryker/documentation/blob/master/Upcoming+Release/79110638-4628-4168-8f71-68f7aa6375b9.md)
@@ -1016,7 +1016,7 @@
                 2. [Code Quality](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4bcc176e-771d-4e92-90f3-3466e2d14293.md)
                 3. [Code Style Guide](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5a46e301-e584-4e6a-93b9-df557be520b2.md)
                 4. [Secure Coding Practices](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2844d203-5dff-457e-bfff-a286a4cd5d4c.md)
-        6. Best Practices
+        7. Best Practices
             1. [Coding Best Practices](https://github.com/spryker/documentation/blob/master/Upcoming+Release/51c42e8e-e71a-42a8-9c1f-b4c187969c4a.md)
             2. Search Best Practices
                 1. [On-Site Search](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b7bc5ba8-995c-454e-a2f9-f78ae22dccb5.md)
