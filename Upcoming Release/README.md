@@ -852,6 +852,7 @@
                 5. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
                 6. Importing Demo Shop Data
                     1. [About Demo Shop Data Import](https://github.com/spryker/documentation/blob/master/Upcoming+Release/81140103-574b-4320-995a-ae82de863d05.md)
+                    2. [Execution Order of Data Importers in Demo Shop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/aaef1ebb-d420-419a-84ad-92ed8e4dfb28.md)
                 7. Data Import Categories
                     1. Commerce Setup
             5. Data Manipulation
