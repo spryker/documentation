@@ -163,9 +163,6 @@
             2. [Customer Module Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/119fad7b-c05f-4797-965c-75d3fea94e71.md)
     8. Cross-sell and Up-sell
         1. [Cross-sell and Up-sell](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7389c4e1-a8a0-4a4a-8cd4-0f9ea95ffa6d.md)
-        2. [Product Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6f2fa34d-ddd2-43a2-9aa6-7c8bd6ba0f6b.md)
-        3. [Upselling](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b6115820-38b1-437b-9bc2-17be4a5937c3.md)
-        4. [Cross-Selling](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e107bb45-970d-4072-a62b-341e661392aa.md)
     9. SDK
         1. [Development](https://github.com/spryker/documentation/blob/master/Upcoming+Release/a8ee4e20-9e16-4180-bc8d-b302be1a23a5.md)
         2. [Twig and TwigExtension](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b49e1545-8dd0-470c-bf5f-6f81492ea0f2.md)
