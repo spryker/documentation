@@ -304,7 +304,7 @@
         14. Product Relations
             1. [Product Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4fd75623-a65d-4f1f-87d5-26002d7b05c4.md)
             2. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2cdc7608-e904-4733-97a8-74e37edb333a.md)
-            3. [Product Relations: Module Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9904a8a8-7ccf-4ea6-895a-199363bce02f.md)
+            3. [Product Relations - Module Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9904a8a8-7ccf-4ea6-895a-199363bce02f.md)
             4. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/613274a8-7eb8-4b1b-b8b2-834c184b0484.md)
             5. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/016b3c3b-4ba0-4ae2-900b-080859eed948.md)
         15. Product Options
