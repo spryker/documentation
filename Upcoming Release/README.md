@@ -712,6 +712,7 @@
         11. [Shop Guide - Wishlists](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c2bb243c-bdd6-48dd-96df-15e2bf91779d.md)
         12. Shop Guide - Customer Account
             1. [Shop Guide - Customer Account Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f6eb3a83-134c-4397-ad7e-0a75c975cc39.md)
+            2. [Shop Guide - Customer Profile](https://github.com/spryker/documentation/blob/master/Upcoming+Release/52b5fa02-cab2-4fca-8708-e2044e86f418.md)
         13. Shop Guide - Agent Account
             1. [Shop Guide - Agent Account](https://github.com/spryker/documentation/blob/master/Upcoming+Release/22f2d0ca-b0aa-42e4-b27e-d9659a8606b0.md)
             2. [Shop Guide - Managing Agent Account](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6ae7d37c-7a1f-40e4-ad17-9b800f59bbfe.md)
