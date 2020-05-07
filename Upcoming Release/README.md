@@ -710,28 +710,30 @@
         9. [Shop Guide - Searching within CMS Pages](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ce6e7eca-c23c-4eed-bb72-057e0539d389.md)
         10. [Shop Guide - Shopping Lists](https://github.com/spryker/documentation/blob/master/Upcoming+Release/db6f52aa-4503-4340-906e-bfee40f69fa8.md)
         11. [Shop Guide - Wishlists](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c2bb243c-bdd6-48dd-96df-15e2bf91779d.md)
-        12. Shop Guide - Agent Account
+        12. Shop Guide - Customer Account
+            1. [Shop Guide - Customer Account Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f6eb3a83-134c-4397-ad7e-0a75c975cc39.md)
+        13. Shop Guide - Agent Account
             1. [Shop Guide - Agent Account](https://github.com/spryker/documentation/blob/master/Upcoming+Release/22f2d0ca-b0aa-42e4-b27e-d9659a8606b0.md)
             2. [Shop Guide - Managing Agent Account](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6ae7d37c-7a1f-40e4-ad17-9b800f59bbfe.md)
-        13. Shop Guide - Checkout
+        14. Shop Guide - Checkout
             1. [Shop Guide - Checkout](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ead39673-f6ad-423f-9783-8783e83fda75.md)
             2. [Shop Guide - Address Step](https://github.com/spryker/documentation/blob/master/Upcoming+Release/65a152a5-e32f-4ff9-a430-e11694225bd0.md)
             3. [Shop Guide - Shipment Step](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7990faed-410f-44cc-8720-e91682d81f83.md)
             4. [Shop Guide - Payment Step](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6d7c02e8-dd74-4e66-9c35-6fb8e766e7f2.md)
             5. [Shop Guide - Summary Step](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8a76f122-f78a-4d21-95e2-0f69220b152f.md)
-        14. Shop Guide - Comments
+        15. Shop Guide - Comments
             1. [Shop Guide - Comments](https://github.com/spryker/documentation/blob/master/Upcoming+Release/31b082cd-b2ff-4e6f-b093-4f3745c437dc.md)
             2. [Shop Guide - Managing Comments](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ff46d215-8c0d-4fae-b883-68c06a895d56.md)
-        15. Shop Guide - Configurator
+        16. Shop Guide - Configurator
             1. [Shop Guide - Configurator](https://github.com/spryker/documentation/blob/master/Upcoming+Release/bfe228e1-b80e-4b58-9fa5-7e43a2629928.md)
             2. [Shop Guide - Managing Configurable Bundles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/67cfb6eb-de98-4f28-aec6-c3b080670fad.md)
-        16. Shop Guide -  Quotation Process & RFQ
+        17. Shop Guide -  Quotation Process & RFQ
             1. [Shop Guide - Request for Quote](https://github.com/spryker/documentation/blob/master/Upcoming+Release/57620107-9550-4001-9b81-aa44ab6b63bf.md)
             2. [Shop Guide - Creating a Request for Quote](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c8d0fdd6-1640-41c7-b618-c7918434497a.md)
             3. [Shop Guide - Managing Requests for Quotes for a Buyer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c70d37b0-fcfa-41bf-b7a2-f945e194f0a1.md)
             4. [Shop Guide - Managing Requests for Quotes for a Sales Representative](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8adce809-98b4-44e8-bdda-6201a3940942.md)
             5. [Shop Guide - Request for Quote: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/650264cc-3888-4dd3-9ef9-78decd7fcd24.md)
-        17. Shop Guide - Shopping Carts
+        18. Shop Guide - Shopping Carts
             1. [Shopping Carts](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4b49609c-ce11-4698-92ac-158c304dce5c.md)
             2. [Shop Guide - Creating a Shopping Cart](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ae99abba-ee78-4218-af03-531803787d3a.md)
             3. [Shop Guide - Managing Multiple Shopping Carts](https://github.com/spryker/documentation/blob/master/Upcoming+Release/efa68d41-79a9-4274-88ab-4f360342bb3e.md)
