@@ -5,9 +5,9 @@
     4. [FAQ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/987eb5f5-528e-4852-ad06-c36519c3f664.md)
     5. [MVP Project Structuring](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4cb32338-0621-4ec9-a3b5-a456be1cc8be.md)
     6. [About Spryker Documentation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/63e6603d-f4d9-4149-897b-5828632504e8.md)
-    7. [Security Support](https://github.com/spryker/documentation/blob/master/Upcoming+Release/33df4ced-35d3-4b34-bad9-6b0c0423feb0.md)
-    8. [Understanding Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/45f2a789-390d-48b0-b762-cd56bb43c6e0.md)
-    9. [Getting Support](https://github.com/spryker/documentation/blob/master/Upcoming+Release/629b0d06-8eff-444f-b2dd-286acbca5d05.md)
+    7. [Getting Support](https://github.com/spryker/documentation/blob/master/Upcoming+Release/099996a0-30e4-45bc-9333-983266e2e2e4.md)
+    8. [Security Support](https://github.com/spryker/documentation/blob/master/Upcoming+Release/33df4ced-35d3-4b34-bad9-6b0c0423feb0.md)
+    9. [Understanding Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/45f2a789-390d-48b0-b762-cd56bb43c6e0.md)
     10. [Feedback](https://github.com/spryker/documentation/blob/master/Upcoming+Release/15c2fe9f-832e-4469-bc58-76918eae6bf8.md)
     11. What's New
         1. [What's New](https://github.com/spryker/documentation/blob/master/Upcoming+Release/862137f5-dee7-42c9-a253-0056218f09be.md)
@@ -1008,6 +1008,7 @@
                     12. [File details: payment_method.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fc831614-7a67-49fe-b005-d54f5f3b0975.md)
                     13. [File details: payment_method_store.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b782df6e-3463-4233-bf6c-2b463c9f71c6.md)
                 3. Catalog Setup
+                    1. Categories
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fdf7ed87-b5c9-4295-84da-a485db767494.md)
