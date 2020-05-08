@@ -764,8 +764,7 @@
         7. [Post-Installation Steps and Additional Info](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ec0eccc8-ccff-49e6-b271-16bb64087967.md)
         8. [Virtual Machine Cleanup](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fb20a38d-43fe-4b11-8ecc-e34c6c71f958.md)
         9. [Redis Configuration](https://github.com/spryker/documentation/blob/master/Upcoming+Release/a30db29a-2696-4818-be00-5d1221ff2b77.md)
-        10. [Troubleshooting](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c917b496-0b44-4119-bb83-43d9451e73d5.md)
-        11. Spryker in Docker
+        10. Spryker in Docker
             1. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/Upcoming+Release/75b5467f-e328-433b-ad2f-59438fe58412.md)
             2. [Docker Environment Infrustructure](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4522f09b-3adc-4703-af50-273fd7454939.md)
             3. [Troubleshooting](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d08ec72a-4b81-4cd6-8ae3-fb0c57557c06.md)
@@ -778,8 +777,6 @@
                 2. [Docker Installation Prerequisites - Linux](https://github.com/spryker/documentation/blob/master/Upcoming+Release/90c29a20-8792-42d3-b37c-ba062090199f.md)
                 3. [Docker Installation Prerequisites - MacOS](https://github.com/spryker/documentation/blob/master/Upcoming+Release/11c42440-520c-4117-86c4-9ba97b02728e.md)
                 4. [Docker Installation Prerequisites - Windows](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5f2d0c78-bdc2-487a-a731-08b01abd7dab.md)
-                5. test
-                    1. test
             7. Installation Guides
                 1. [Modes Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fb08e2a3-1589-41a7-8ad3-966744fe0360.md)
                 2. [Installation Guide - Development Mode](https://github.com/spryker/documentation/blob/master/Upcoming+Release/23658ca6-fd00-42e9-bf64-87d147fa233c.md)
@@ -790,15 +787,15 @@
             8. Configuration
                 1. [Additional DevOPS Guidelines](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0dd3014a-8cd9-46b6-b049-6aba95efd27d.md)
                 2. [Services](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0e4f58e4-8a89-44e9-96ff-864c483461a0.md)
-        12. B2B Demo Shop Installation Guides
+        11. B2B Demo Shop Installation Guides
             1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Upcoming+Release/69743fc8-99e0-4006-b88d-b83b4c49001d.md)
             2. [B2B Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0e297577-c395-4ac9-8372-64d8ad72c9ed.md)
             3. [B2B Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Upcoming+Release/39f89608-4b7a-43c9-9cf9-ad9e42ae1411.md)
-        13. B2C Demo Shop Installation Guides
+        12. B2C Demo Shop Installation Guides
             1. [B2C Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4f50a9af-f0e6-4a7c-9221-2d895ab42079.md)
             2. [B2C Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8908e469-b869-4e38-8d5c-3e4a7076c0b8.md)
             3. [B2C Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0996ed97-acdc-4a89-95df-223c96f4bcd5.md)
-        14. Debugging
+        13. Debugging
             1. [Debugging Setup](https://github.com/spryker/documentation/blob/master/Upcoming+Release/721e3804-7508-4866-a089-9721e394e387.md)
             2. [Debugging Setup for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9bd41e9c-c76b-415b-be51-b94a8cece9e6.md)
     5. Architecture Guide
@@ -1002,13 +999,14 @@
         5. Data Import
             1. [Importing Data with a Configuration File](https://github.com/spryker/documentation/blob/master/Upcoming+Release/965561ad-2b3f-4eed-b190-7588601c3188.md)
             2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9f55c735-9168-4d40-9519-bad08890870e.md)
-            3. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
-            4. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
-            5. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
-            6. Importing Demo Shop Data
+            3. [Troubleshooting](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c917b496-0b44-4119-bb83-43d9451e73d5.md)
+            4. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Upcoming+Release/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
+            5. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
+            6. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Upcoming+Release/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
+            7. Importing Demo Shop Data
                 1. [About Demo Shop Data Import](https://github.com/spryker/documentation/blob/master/Upcoming+Release/81140103-574b-4320-995a-ae82de863d05.md)
                 2. [Execution Order of Data Importers in Demo Shop](https://github.com/spryker/documentation/blob/master/Upcoming+Release/aaef1ebb-d420-419a-84ad-92ed8e4dfb28.md)
-            7. Data Import Categories
+            8. Data Import Categories
                 1. [About Data Import Categories](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9c3eb792-4511-493c-afff-4c14e3423ba8.md)
                 2. Commerce Setup
                     1. [Commerce Setup](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6d8ef35a-b699-44b6-bf6f-afc79d72474b.md)
@@ -1026,6 +1024,8 @@
                     13. [File details: payment_method_store.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b782df6e-3463-4233-bf6c-2b463c9f71c6.md)
                 3. Catalog Setup
                     1. Categories
+                4. test
+                    1. test
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fdf7ed87-b5c9-4295-84da-a485db767494.md)
