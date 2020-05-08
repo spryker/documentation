@@ -703,23 +703,25 @@
         2. [Shop Guide - Approval Process](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9c4b8126-9e50-4e37-a49f-1554f9933ba6.md)
         3. [Shop Guide - Business on Behalf](https://github.com/spryker/documentation/blob/master/Upcoming+Release/907017f4-725c-4287-86d6-4d9f822b3247.md)
         4. [Shop Guide - Company Account](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e4e88dbe-19af-4e2f-a3a4-de3f4420bdd1.md)
-        5. [Shop Guide - Company Roles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6ed0a682-0f29-447e-a813-9b8fb824844d.md)
-        6. [Shop Guide - Company Users](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7c0117f3-9ba0-47da-b8b1-749f526d6b9e.md)
-        7. [Shop Guide - Managing Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/431d485b-b207-43e7-af59-929be2b5dd9d.md)
-        8. [Shop Guide - Quick Order](https://github.com/spryker/documentation/blob/master/Upcoming+Release/83272228-96a8-4c9c-a611-923ee33766d9.md)
-        9. [Shop Guide - Searching within CMS Pages](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ce6e7eca-c23c-4eed-bb72-057e0539d389.md)
-        10. Shop Guide - Agent Account
+        5. [Shop Guide - Company Users](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7c0117f3-9ba0-47da-b8b1-749f526d6b9e.md)
+        6. [Shop Guide - Managing Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/431d485b-b207-43e7-af59-929be2b5dd9d.md)
+        7. [Shop Guide - Quick Order](https://github.com/spryker/documentation/blob/master/Upcoming+Release/83272228-96a8-4c9c-a611-923ee33766d9.md)
+        8. [Shop Guide - Searching within CMS Pages](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ce6e7eca-c23c-4eed-bb72-057e0539d389.md)
+        9. Shop Guide - Agent Account
             1. [Shop Guide - Agent Account](https://github.com/spryker/documentation/blob/master/Upcoming+Release/22f2d0ca-b0aa-42e4-b27e-d9659a8606b0.md)
             2. [Shop Guide - Managing Agent Account](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6ae7d37c-7a1f-40e4-ad17-9b800f59bbfe.md)
-        11. Shop Guide - Checkout
+        10. Shop Guide - Checkout
             1. [Shop Guide - Checkout](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ead39673-f6ad-423f-9783-8783e83fda75.md)
             2. [Shop Guide - Address Step](https://github.com/spryker/documentation/blob/master/Upcoming+Release/65a152a5-e32f-4ff9-a430-e11694225bd0.md)
             3. [Shop Guide - Shipment Step](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7990faed-410f-44cc-8720-e91682d81f83.md)
             4. [Shop Guide - Payment Step](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6d7c02e8-dd74-4e66-9c35-6fb8e766e7f2.md)
             5. [Shop Guide - Summary Step](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8a76f122-f78a-4d21-95e2-0f69220b152f.md)
-        12. Shop Guide - Comments
+        11. Shop Guide - Comments
             1. [Shop Guide - Comments](https://github.com/spryker/documentation/blob/master/Upcoming+Release/31b082cd-b2ff-4e6f-b093-4f3745c437dc.md)
             2. [Shop Guide - Managing Comments](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ff46d215-8c0d-4fae-b883-68c06a895d56.md)
+        12. Shop Guide - Company Roles
+            1. [Shop Guide - Managing Company Roles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6ed0a682-0f29-447e-a813-9b8fb824844d.md)
+            2. References 
         13. Shop Guide - Configurator
             1. [Shop Guide - Configurator](https://github.com/spryker/documentation/blob/master/Upcoming+Release/bfe228e1-b80e-4b58-9fa5-7e43a2629928.md)
             2. [Shop Guide - Managing Configurable Bundles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/67cfb6eb-de98-4f28-aec6-c3b080670fad.md)
