@@ -720,8 +720,9 @@
             1. [Shop Guide - Comments](https://github.com/spryker/documentation/blob/master/Upcoming+Release/31b082cd-b2ff-4e6f-b093-4f3745c437dc.md)
             2. [Shop Guide - Managing Comments](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ff46d215-8c0d-4fae-b883-68c06a895d56.md)
         12. Shop Guide - Company Roles
-            1. [Shop Guide - Managing Company Roles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6ed0a682-0f29-447e-a813-9b8fb824844d.md)
-            2. References 
+            1. [Shop Guide - Creating a New Company Role](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d717777d-b2cc-48a0-82f4-ee8a66ab2b9b.md)
+            2. [Shop Guide - Managing Company Roles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6ed0a682-0f29-447e-a813-9b8fb824844d.md)
+            3. References 
         13. Shop Guide - Configurator
             1. [Shop Guide - Configurator](https://github.com/spryker/documentation/blob/master/Upcoming+Release/bfe228e1-b80e-4b58-9fa5-7e43a2629928.md)
             2. [Shop Guide - Managing Configurable Bundles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/67cfb6eb-de98-4f28-aec6-c3b080670fad.md)
