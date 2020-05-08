@@ -745,11 +745,11 @@
                 2. [Shop Guide - Creating a Request for Quote](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c8d0fdd6-1640-41c7-b618-c7918434497a.md)
                 3. [Shop Guide - Managing Requests for Quotes for a Buyer](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c70d37b0-fcfa-41bf-b7a2-f945e194f0a1.md)
                 4. [Shop Guide - Managing Requests for Quotes for a Sales Representative](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8adce809-98b4-44e8-bdda-6201a3940942.md)
-                5. [Shop Guide - Request for Quote: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/650264cc-3888-4dd3-9ef9-78decd7fcd24.md)
             10. References
                 1. [Addresses: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f8e811a8-3bf9-4541-8be1-0b59d1c9af76.md)
                 2. [Order History: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b98b87fc-ed6d-45f2-881d-1d1ee89b8b58.md)
                 3. [Shopping Carts: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/1c873945-2fc7-42de-8be3-434411ca2654.md)
+                4. [Request for Quote: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/650264cc-3888-4dd3-9ef9-78decd7fcd24.md)
 4. Developer Guides
     1. [About the Developer Guides](https://github.com/spryker/documentation/blob/master/Upcoming+Release/df9f7085-ea2f-4405-aa4c-f21a842d3672.md)
     2. [Developer Getting Started Guide](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e74e1446-0ea9-4423-92e2-624551df2b06.md)
