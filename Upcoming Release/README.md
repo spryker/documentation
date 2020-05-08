@@ -723,6 +723,7 @@
             1. [Shop Guide - Creating a New Company Role](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d717777d-b2cc-48a0-82f4-ee8a66ab2b9b.md)
             2. [Shop Guide - Managing Company Roles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6ed0a682-0f29-447e-a813-9b8fb824844d.md)
             3. References 
+                1. [Company Roles: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/1e596019-73ed-47c7-8a5d-50ad8043db0b.md)
         13. Shop Guide - Configurator
             1. [Shop Guide - Configurator](https://github.com/spryker/documentation/blob/master/Upcoming+Release/bfe228e1-b80e-4b58-9fa5-7e43a2629928.md)
             2. [Shop Guide - Managing Configurable Bundles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/67cfb6eb-de98-4f28-aec6-c3b080670fad.md)
