@@ -1024,8 +1024,9 @@
                     13. [File details: payment_method_store.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b782df6e-3463-4233-bf6c-2b463c9f71c6.md)
                 3. Catalog Setup
                     1. Categories
-                4. test
-                    1. test
+                    2. Products
+                4. Special Product Types
+                    1. Product Options
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fdf7ed87-b5c9-4295-84da-a485db767494.md)
