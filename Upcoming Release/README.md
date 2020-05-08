@@ -714,7 +714,8 @@
             1. [Shop Guide - Customer Account Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f6eb3a83-134c-4397-ad7e-0a75c975cc39.md)
             2. [Shop Guide - Customer Profile](https://github.com/spryker/documentation/blob/master/Upcoming+Release/52b5fa02-cab2-4fca-8708-e2044e86f418.md)
             3. [Shop Guide - Customer Addresses](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e6d211cd-e665-4c47-a652-0914a4d407e2.md)
-            4. References
+            4. [Shop Guide - Order History](https://github.com/spryker/documentation/blob/master/Upcoming+Release/25acfa39-f693-469e-8839-e6260365fdc1.md)
+            5. References
                 1. [Addresses: Reference Information](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f8e811a8-3bf9-4541-8be1-0b59d1c9af76.md)
         13. Shop Guide - Agent Account
             1. [Shop Guide - Agent Account](https://github.com/spryker/documentation/blob/master/Upcoming+Release/22f2d0ca-b0aa-42e4-b27e-d9659a8606b0.md)
