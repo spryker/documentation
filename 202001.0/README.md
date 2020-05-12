@@ -1406,6 +1406,7 @@
             17. [Glue API: Product Price API Feature Integration ](https://github.com/spryker/documentation/blob/master/202001.0/3bea901f-aec7-4b62-a0c9-7819b8847a3e.md)
             18. [Glue API: Product Rating & Reviews Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/168f0d7c-336b-4397-b70b-557b405939b7.md)
             19. [Glue API: Product Relations Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/78ce6883-dc51-4435-9454-f8ce791e74f5.md)
+            20. [Glue API: Wishlist Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/87d48f19-e12d-4bd1-94db-7a405a575a32.md)
     4. Float Stock for Products
         1. [Float Stock for Products](https://github.com/spryker/documentation/blob/master/202001.0/f5893321-91e1-4c83-92e0-657fe6015bec.md)
     5. Migration Concepts
