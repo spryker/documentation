@@ -1040,6 +1040,7 @@
                         7. [File details: product_image.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7e3f3571-5f74-4405-8df3-283b732397ce.md)
                     4. Pricing
                         1. [Pricing](https://github.com/spryker/documentation/blob/master/Upcoming+Release/be38950b-4c60-496a-9fb7-b3e70aa20992.md)
+                        2. [File details: product_price.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8a8d6a9b-7783-4acf-8c42-e20edb874472.md)
                     5. Stocks
                 4. Special Product Types
                     1. Product Options
