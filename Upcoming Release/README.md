@@ -1028,6 +1028,7 @@
                     1. [Catalog Setup](https://github.com/spryker/documentation/blob/master/Upcoming+Release/42991e95-5293-496c-a79b-ca5136f2f12a.md)
                     2. Categories
                         1. [Categories](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3f7676b3-1279-45df-9799-392a1401af0b.md)
+                        2. [File details: category.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7f99a945-d7e0-4264-87b0-f109110b6416.md)
                     3. Products
                     4. Pricing
                     5. Stocks
