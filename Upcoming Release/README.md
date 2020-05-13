@@ -1041,6 +1041,7 @@
                     4. Pricing
                         1. [Pricing](https://github.com/spryker/documentation/blob/master/Upcoming+Release/be38950b-4c60-496a-9fb7-b3e70aa20992.md)
                         2. [File details: product_price.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8a8d6a9b-7783-4acf-8c42-e20edb874472.md)
+                        3. [File details: product_price_schedule.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c74e05cd-96a6-41b1-a741-8ccb0bcf9882.md)
                     5. Stocks
                 4. Special Product Types
                     1. Product Options
