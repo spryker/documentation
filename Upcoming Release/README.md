@@ -1025,10 +1025,11 @@
                     12. [File details: payment_method.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fc831614-7a67-49fe-b005-d54f5f3b0975.md)
                     13. [File details: payment_method_store.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/b782df6e-3463-4233-bf6c-2b463c9f71c6.md)
                 3. Catalog Setup
-                    1. Categories
-                    2. Products
-                    3. Pricing
-                    4. Stocks
+                    1. [Catalog Setup](https://github.com/spryker/documentation/blob/master/Upcoming+Release/42991e95-5293-496c-a79b-ca5136f2f12a.md)
+                    2. Categories
+                    3. Products
+                    4. Pricing
+                    5. Stocks
                 4. Special Product Types
                     1. Product Options
         6. Guidelines
