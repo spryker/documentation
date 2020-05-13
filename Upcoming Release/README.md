@@ -1028,6 +1028,7 @@
                     1. Categories
                     2. Products
                     3. Pricing
+                    4. Stocks
                 4. Special Product Types
                     1. Product Options
         6. Guidelines
