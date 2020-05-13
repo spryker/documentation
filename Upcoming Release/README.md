@@ -1034,6 +1034,7 @@
                         1. [Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f6810ef9-5c8c-4d74-97ba-c0da85e15a9d.md)
                         2. [File details: product_attribute_key.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ba042e14-f2c3-40d5-9367-0ddea93d3de9.md)
                         3. [File details: product_management_attribute.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/80fbd522-ca60-4be6-84a7-ba20e7a1479a.md)
+                        4. [File details: product_abstract.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3c2ff3b4-c66d-4fad-abb1-4adec332d7e1.md)
                     4. Pricing
                     5. Stocks
                 4. Special Product Types
