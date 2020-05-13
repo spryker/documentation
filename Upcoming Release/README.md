@@ -1027,6 +1027,7 @@
                 3. Catalog Setup
                     1. [Catalog Setup](https://github.com/spryker/documentation/blob/master/Upcoming+Release/42991e95-5293-496c-a79b-ca5136f2f12a.md)
                     2. Categories
+                        1. [Categories](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3f7676b3-1279-45df-9799-392a1401af0b.md)
                     3. Products
                     4. Pricing
                     5. Stocks
