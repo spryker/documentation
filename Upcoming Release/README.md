@@ -1029,7 +1029,10 @@
                     2. Categories
                         1. [Categories](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3f7676b3-1279-45df-9799-392a1401af0b.md)
                         2. [File details: category.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/7f99a945-d7e0-4264-87b0-f109110b6416.md)
+                        3. [File details: category_template.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/87edad35-fe53-4fad-9c78-1f6c5ea358d1.md)
                     3. Products
+                        1. [Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f6810ef9-5c8c-4d74-97ba-c0da85e15a9d.md)
+                        2. [File details: product_attribute_key.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ba042e14-f2c3-40d5-9367-0ddea93d3de9.md)
                     4. Pricing
                     5. Stocks
                 4. Special Product Types
