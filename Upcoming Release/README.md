@@ -290,42 +290,41 @@
         3. [Product Abstraction](https://github.com/spryker/documentation/blob/master/Upcoming+Release/17bbd4a4-e022-4009-af1d-3d2b52dfb711.md)
         4. [Product Attributes](https://github.com/spryker/documentation/blob/master/Upcoming+Release/1e221b7c-44bc-4c0e-bb90-0f910863d09d.md)
         5. [Super Attributes](https://github.com/spryker/documentation/blob/master/Upcoming+Release/d8e84299-d99b-40e5-a34d-791101435ee6.md)
-        6. [Product Group](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fb7bd02a-49f9-40dc-950d-b59f999dcb8c.md)
-        7. [Product Bundles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c18b6116-0a52-4783-904f-4817cdffb56d.md)
-        8. [New Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/81f225a9-1732-4989-af59-bb9f7051caeb.md)
-        9. [Product Label](https://github.com/spryker/documentation/blob/master/Upcoming+Release/86463f5a-e0ab-44d6-baa2-caee98d6f425.md)
-        10. [Product Set](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0c0739e8-67fc-4b6c-bf27-c88f12d72d45.md)
-        11. [Product Reviews](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e7d22bab-45ab-46af-b0c9-c2801f962c13.md)
-        12. [Dynamic Product Labels](https://github.com/spryker/documentation/blob/master/Upcoming+Release/01d18f14-5089-4ddd-b845-0935486cdfcf.md)
-        13. Configurable Bundle
+        6. [Product Bundles](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c18b6116-0a52-4783-904f-4817cdffb56d.md)
+        7. [New Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/81f225a9-1732-4989-af59-bb9f7051caeb.md)
+        8. [Product Label](https://github.com/spryker/documentation/blob/master/Upcoming+Release/86463f5a-e0ab-44d6-baa2-caee98d6f425.md)
+        9. [Product Set](https://github.com/spryker/documentation/blob/master/Upcoming+Release/0c0739e8-67fc-4b6c-bf27-c88f12d72d45.md)
+        10. [Product Reviews](https://github.com/spryker/documentation/blob/master/Upcoming+Release/e7d22bab-45ab-46af-b0c9-c2801f962c13.md)
+        11. [Dynamic Product Labels](https://github.com/spryker/documentation/blob/master/Upcoming+Release/01d18f14-5089-4ddd-b845-0935486cdfcf.md)
+        12. Configurable Bundle
             1. [Configurable Bundle](https://github.com/spryker/documentation/blob/master/Upcoming+Release/92b6b472-07d9-491b-992f-5a9b4a695b24.md)
             2. [Configurable Bundle Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3725cdc6-4deb-454f-92f4-78a767fc8646.md)
             3. [Configurable Bundle: Module Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ff062c15-03a2-4837-8093-d75e28edbad8.md)
-        14. Product Groups
+        13. Product Groups
             1. [Product Gropus ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/226e1263-fafc-4452-aba3-37d59c0adc1a.md)
             2. [Product Groups Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6dc69027-5b7e-4c84-a3fa-d2566388e784.md)
-        15. Product Relations
+        14. Product Relations
             1. [Product Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4fd75623-a65d-4f1f-87d5-26002d7b05c4.md)
             2. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2cdc7608-e904-4733-97a8-74e37edb333a.md)
             3. [Product Relations - Module Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9904a8a8-7ccf-4ea6-895a-199363bce02f.md)
             4. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/613274a8-7eb8-4b1b-b8b2-834c184b0484.md)
             5. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/016b3c3b-4ba0-4ae2-900b-080859eed948.md)
-        16. Product Options
+        15. Product Options
             1. [Product Options](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6c2919f6-bd87-4749-b6dd-9e1782f52d25.md)
             2. [Product Options Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6a836bb9-b0c0-4333-a27b-7d0c6d6e70b3.md)
-        17. Alternative Products
+        16. Alternative Products
             1. [Alternative Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/9988dea8-dfec-40d7-9c56-97f4380be2ed.md)
             2. [Alternative Products Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3e5a0444-129e-413b-bcf6-945d6800094e.md)
-        18. Discontinued Products
+        17. Discontinued Products
             1. [Discontinued Products](https://github.com/spryker/documentation/blob/master/Upcoming+Release/817cb1a6-fb45-4c40-bf4f-4af1196f342c.md)
             2. [Discontinued Products Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3633b954-e350-4c6e-a590-1043a2d9137d.md)
-        19. Barcode Generator
+        18. Barcode Generator
             1. [Barcode Generator](https://github.com/spryker/documentation/blob/master/Upcoming+Release/36ea9f4c-acd0-45bd-9e65-3fa63d53059f.md)
             2. [Barcode Generator Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2b9d9d5f-d48a-49ab-970e-34c32793b334.md)
-        20. Product Quantity Restrictions
+        19. Product Quantity Restrictions
             1. [Product Quantity Restrictions](https://github.com/spryker/documentation/blob/master/Upcoming+Release/5680e5e4-e38f-46c2-8a2c-aec700a5c3f3.md)
             2. [Product Quantity Restrictions Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/41a18a29-ee85-4753-bbe1-92de3d32289b.md)
-        21. Timed Product Availability Feature Overview
+        20. Timed Product Availability Feature Overview
             1. [Timed Product Availability](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c66b8dc5-71d5-4fd6-84ee-4f448cfca89a.md)
             2. [Timed Product Availability Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/1175ee4b-5f3c-40f7-be0e-e272da63434e.md)
     22. Promotions and Discounts
@@ -1028,6 +1027,7 @@
                 3. Catalog Setup
                     1. Categories
                     2. Products
+                    3. Pricing
                 4. Special Product Types
                     1. Product Options
         6. Guidelines
