@@ -1050,7 +1050,10 @@
                     2. Product Options
                         1. [Product Options](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f9c5dc22-3cb6-47a9-a89f-0b7fc4fbf18c.md)
                         2. [File details: product_option.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/62f8c37d-175d-40ea-a4da-7e9b28013cf5.md)
+                        3. [File details: product_option_price.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/40018220-6873-4910-ac41-3f5b8d685c96.md)
                     3. Gift Cards
+                        1. [Gift Cards](https://github.com/spryker/documentation/blob/master/Upcoming+Release/314e09e2-99e3-4571-a7c6-89cceacae64d.md)
+                        2. [File details: gift_card_abstract_configuration.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c0eeeba8-90a3-4f25-bbd7-bbda769bac32.md)
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fdf7ed87-b5c9-4295-84da-a485db767494.md)
