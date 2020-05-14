@@ -1043,10 +1043,11 @@
                         2. [File details: product_price.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/8a8d6a9b-7783-4acf-8c42-e20edb874472.md)
                         3. [File details: product_price_schedule.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c74e05cd-96a6-41b1-a741-8ccb0bcf9882.md)
                     5. Stocks
-                        1. [File details: product_stock.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f3089a44-6ec4-485b-ad5f-eb739156e2b3.md)
-                        2. [Stocks](https://github.com/spryker/documentation/blob/master/Upcoming+Release/a678ab44-0c39-43a2-81b9-7e01cc27bb41.md)
+                        1. [Stocks](https://github.com/spryker/documentation/blob/master/Upcoming+Release/a678ab44-0c39-43a2-81b9-7e01cc27bb41.md)
+                        2. [File details: product_stock.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/f3089a44-6ec4-485b-ad5f-eb739156e2b3.md)
                 4. Special Product Types
                     1. Product Options
+                    2. Gift Cards
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fdf7ed87-b5c9-4295-84da-a485db767494.md)
