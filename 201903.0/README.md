@@ -1207,10 +1207,11 @@
             17. [Product Labels API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/52ceeff1-0dba-4ae6-b016-4322d100a2ef.md)
             18. [Product Relations API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/92a22dbc-988d-45df-ba3c-005ba5f4cac4.md)
             19. [Product Tax Sets API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/abdf52c7-aadd-4d9e-84fa-1f7bd1790ed5.md)
-            20. [Store API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/642a3a1b-5bb9-443d-b7be-7f209503d2cf.md)
-            21. [Wishlist API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/fbcdf200-a497-45d5-a040-a2745da5782f.md)
-            22. [Product + Category Relationship Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/4e143615-5efe-4dfa-b0a7-22f8747bdf22.md)
-            23. [Store API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/8470c496-a6d4-49af-92f5-114d10baa29a.md)
+            20. [Glue API: REST Schema Validation Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/e0c9ab4b-155d-44a0-a197-8a697d38238e.md)
+            21. [Store API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/642a3a1b-5bb9-443d-b7be-7f209503d2cf.md)
+            22. [Wishlist API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/fbcdf200-a497-45d5-a040-a2745da5782f.md)
+            23. [Product + Category Relationship Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/4e143615-5efe-4dfa-b0a7-22f8747bdf22.md)
+            24. [Store API Feature Integration](https://github.com/spryker/documentation/blob/master/201903.0/8470c496-a6d4-49af-92f5-114d10baa29a.md)
         70. Spryker in Docker
     3. Float Stock for Products
         1. [Float Stock for Products](https://github.com/spryker/documentation/blob/master/201903.0/4ef914c4-d990-47be-b538-1d5119ec22f8.md)
