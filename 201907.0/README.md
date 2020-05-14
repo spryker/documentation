@@ -1323,9 +1323,10 @@
             25. [Product Relations API Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/ff50c3f0-1d65-499b-8570-a417da9bfcf5.md)
             26. [GLUE: Promotions & Discounts Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/b85fcb26-9181-4f62-90e2-b2d91f63936c.md)
             27. [Tax API Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/48705764-af9f-4d16-be2f-6ba995e10ee1.md)
-            28. [Shared Carts Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/e41ed2fe-59ea-4d8e-9390-91dd5f89b7da.md)
-            29. [Store API Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/77bd87b1-8f70-4a1b-b580-60d9eecc56ad.md)
-            30. [Wishlist API Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/71227d36-13ea-4921-9684-0bab0736b33e.md)
+            28. [Glue API: REST Schema Validation Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/2a29f1d2-6139-4889-b987-0dbab0e27b85.md)
+            29. [Shared Carts Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/e41ed2fe-59ea-4d8e-9390-91dd5f89b7da.md)
+            30. [Store API Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/77bd87b1-8f70-4a1b-b580-60d9eecc56ad.md)
+            31. [Wishlist API Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/71227d36-13ea-4921-9684-0bab0736b33e.md)
         86. Spryker in Docker
             1. [Spryker in Docker Feature Integration Guides](https://github.com/spryker/documentation/blob/master/201907.0/8e285e7d-c122-4661-bc0d-c2bf2d5cb07d.md)
             2. [Propel Clean Command Feature Integration](https://github.com/spryker/documentation/blob/master/201907.0/ac979165-1948-4ab9-b125-ba2d93423012.md)
