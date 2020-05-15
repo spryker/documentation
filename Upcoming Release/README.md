@@ -1055,6 +1055,8 @@
                         1. [Gift Cards](https://github.com/spryker/documentation/blob/master/Upcoming+Release/314e09e2-99e3-4571-a7c6-89cceacae64d.md)
                         2. [File details: gift_card_abstract_configuration.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/c0eeeba8-90a3-4f25-bbd7-bbda769bac32.md)
                         3. [File details: gift_card_concrete_configuration.csv](https://github.com/spryker/documentation/blob/master/Upcoming+Release/03acbbf6-ee0f-4c2a-b665-6fd733f059bd.md)
+                5. Merchandising Setup
+                    1. Product Merchandising
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Upcoming+Release/fdf7ed87-b5c9-4295-84da-a485db767494.md)
