@@ -1387,8 +1387,8 @@
         87. [Template](https://github.com/spryker/documentation/blob/master/202001.0/e11d1723-c661-4278-8539-bfd69602067b.md)
         88. [Custom Order Reference Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/64d37862-c8a9-4bef-85d6-f34fdc844a9d.md)
         89. Glue API
-            1. [Glue API: Glue Application Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/808326dc-e0f5-43a9-859a-8bc2db5b1f8c.md)
-            2. [Glue API Installation and Configuration](https://github.com/spryker/documentation/blob/master/202001.0/57894fbc-541f-4f9a-a5d5-947ccb867aa9.md)
+            1. [Glue API Installation and Configuration](https://github.com/spryker/documentation/blob/master/202001.0/57894fbc-541f-4f9a-a5d5-947ccb867aa9.md)
+            2. [Glue API: Glue Application Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/808326dc-e0f5-43a9-859a-8bc2db5b1f8c.md)
             3. [Glue API: Alternative Products API Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/fba9f24d-9bdf-416c-84aa-7628a9b76d6a.md)
             4. [Glue API: Cart Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/61c4ca5a-12f2-42e3-ae96-272338b60e4e.md)
             5. [Glue API: Catalog Feature Integration](https://github.com/spryker/documentation/blob/master/202001.0/5030b2d7-bba0-4118-b4cb-f846eeaf0121.md)
