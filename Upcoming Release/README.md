@@ -300,9 +300,9 @@
             1. [Configurable Bundle](https://github.com/spryker/documentation/blob/master/Upcoming+Release/92b6b472-07d9-491b-992f-5a9b4a695b24.md)
             2. [Configurable Bundle Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/3725cdc6-4deb-454f-92f4-78a767fc8646.md)
             3. [Configurable Bundle: Module Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/ff062c15-03a2-4837-8093-d75e28edbad8.md)
-        13. Product Groups
-            1. [Product Gropus ](https://github.com/spryker/documentation/blob/master/Upcoming+Release/226e1263-fafc-4452-aba3-37d59c0adc1a.md)
-            2. [Product Groups Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6dc69027-5b7e-4c84-a3fa-d2566388e784.md)
+        13. Product Group
+            1. [Product Group](https://github.com/spryker/documentation/blob/master/Upcoming+Release/226e1263-fafc-4452-aba3-37d59c0adc1a.md)
+            2. [Product Group Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/6dc69027-5b7e-4c84-a3fa-d2566388e784.md)
         14. Product Relations
             1. [Product Relations](https://github.com/spryker/documentation/blob/master/Upcoming+Release/4fd75623-a65d-4f1f-87d5-26002d7b05c4.md)
             2. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Upcoming+Release/2cdc7608-e904-4733-97a8-74e37edb333a.md)
