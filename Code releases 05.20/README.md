@@ -1064,6 +1064,7 @@
                         3. [File details: product_label.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/98ff0cde-73d6-4340-a1c4-36e7f929bc0b.md)
                         4. [File details: product_relation.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/52fb1d3f-242a-4fb0-9069-6d4c4fe24281.md)
                         5. [File details: product_review.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d72715d5-d3b7-4dea-9af1-b14e82ad0f80.md)
+                        6. [File details: product_search_attribute.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/257d522c-7afb-4235-b5fc-c1ae6d90d374.md)
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
