@@ -1058,6 +1058,7 @@
                         3. [File details: gift_card_concrete_configuration.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/03acbbf6-ee0f-4c2a-b665-6fd733f059bd.md)
                 5. Merchandising Setup
                     1. Product Merchandising
+                        1. [Product Merchandising](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e0f6f670-f766-4d02-92ea-f6c887af3bf8.md)
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
