@@ -21,3 +21,4 @@ To edit a specific article, in the list below, select the Product version where 
 - [201903.0](https://github.com/spryker/documentation/blob/master/201903.0/README.md)
 - [201907.0](https://github.com/spryker/documentation/blob/master/201907.0/README.md)
 - [202001.0](https://github.com/spryker/documentation/blob/master/202001.0/README.md)
+- [Code releases 05.20](https://github.com/spryker/documentation/blob/master/Code%20releases%2005.20/README.md)
