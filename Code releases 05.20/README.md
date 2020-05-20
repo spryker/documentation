@@ -1077,7 +1077,8 @@
                         4. [File details: discount_store.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ce6578b2-67e0-44a6-a510-0d719c98cd5a.md)
                         5. [File details: discount_voucher.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3ed551a3-ba93-47db-a4bf-4a5d0c762d05.md)
                 6. Navigation Setup
-                    1. [File details: navigation_node.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4788d7e2-b52a-492b-b0eb-8d1460c725fd.md)
+                    1. [File details: navigation.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f11a79c0-37bc-45a2-b994-5100031bb06a.md)
+                    2. [File details: navigation_node.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4788d7e2-b52a-492b-b0eb-8d1460c725fd.md)
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
