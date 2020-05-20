@@ -1071,6 +1071,11 @@
                         10. [File details: product_alternative.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/78a707f7-ef45-4e6f-94e9-902c3a9003a4.md)
                         11. [File details: product_quantity.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7438b515-34f6-4f94-816d-c8c23548ab81.md)
                     3. Discounts
+                        1. [Discounts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cfd3cda4-1fd3-424c-a0d3-9449c03924dd.md)
+                        2. [File details: discount.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8cfdac97-98af-45e6-af5d-293a381d969d.md)
+                        3. [File details: discount_amount.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a11c9502-7550-4f62-9e20-9dffda241a3e.md)
+                        4. [File details: discount_store.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ce6578b2-67e0-44a6-a510-0d719c98cd5a.md)
+                        5. [File details: discount_voucher.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3ed551a3-ba93-47db-a4bf-4a5d0c762d05.md)
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
