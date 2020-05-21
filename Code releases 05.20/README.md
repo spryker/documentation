@@ -1080,6 +1080,7 @@
                     1. [Navigation Setup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/71fb8765-7559-4655-87be-333d8cb46812.md)
                     2. [File details: navigation.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f11a79c0-37bc-45a2-b994-5100031bb06a.md)
                     3. [File details: navigation_node.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4788d7e2-b52a-492b-b0eb-8d1460c725fd.md)
+                7. Content Management
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
