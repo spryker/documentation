@@ -308,8 +308,6 @@
             1. [Product Relations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4fd75623-a65d-4f1f-87d5-26002d7b05c4.md)
             2. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2cdc7608-e904-4733-97a8-74e37edb333a.md)
             3. [Product Relations - Module Relations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9904a8a8-7ccf-4ea6-895a-199363bce02f.md)
-            4. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/613274a8-7eb8-4b1b-b8b2-834c184b0484.md)
-            5. [Product Relations Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/016b3c3b-4ba0-4ae2-900b-080859eed948.md)
         15. Product Options
             1. [Product Options](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6c2919f6-bd87-4749-b6dd-9e1782f52d25.md)
             2. [Product Options Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6a836bb9-b0c0-4333-a27b-7d0c6d6e70b3.md)
