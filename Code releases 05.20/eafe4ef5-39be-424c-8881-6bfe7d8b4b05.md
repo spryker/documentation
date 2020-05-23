@@ -52,4 +52,4 @@ protected function getRouteProvider(): array
 	}
 ```
 
-You can now access <http://mysprykershop.com/hello> in your browser to make a request using the newly configured route.
+You can now access `http://mysprykershop.com/hello` in your browser to make a request using the newly configured route.
