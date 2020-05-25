@@ -1079,6 +1079,8 @@
                     2. [File details: navigation.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f11a79c0-37bc-45a2-b994-5100031bb06a.md)
                     3. [File details: navigation_node.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4788d7e2-b52a-492b-b0eb-8d1460c725fd.md)
                 7. Content Management
+                    1. [Content Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/30c7f204-d9b9-4b4e-8ace-10f90d5b80b3.md)
+                    2. [File details: cms_template.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b2d21813-fa76-4202-a8c2-52b1e9981235.md)
         6. Guidelines
             1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
             2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
