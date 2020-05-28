@@ -614,7 +614,7 @@
             1. [Discount](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a65c8995-6c24-492c-a803-ac3ecca408aa.md)
             2. [Managing Discounts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a2b03a98-db95-4dc0-a2a8-3fc2c2c8f0c5.md)
             3. Creating a Discount
-                1. [Creating a Discount Voucher](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bbabd9c6-72b1-462e-9119-037fb86b48de.md)
+                1. [Creating a Voucher](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bbabd9c6-72b1-462e-9119-037fb86b48de.md)
                 2. [Creating a Cart Rule](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7be9fdee-9276-4831-b79a-9a42597440b5.md)
             4. References
                 1. [Discount: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3635575d-4a68-4b72-a142-8a1dc8c81bb1.md)
