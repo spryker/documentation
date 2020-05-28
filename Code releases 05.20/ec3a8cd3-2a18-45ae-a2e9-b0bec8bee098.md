@@ -37,6 +37,44 @@ For information on how to work with RabbitMQ, see [Rabbit MQ tutorial](https://w
 
 `1man rabbitmq-server`
 
+## Set up RabbitMQ connection
+
+You can override the default connection settings by specifying this config:
+```PHP
+$config[RabbitMqEnv::RABBITMQ_CONNECTIONS] = [
+    'DE' => [
+        RabbitMqEnv::RABBITMQ_CONNECTION_NAME => 'DE-connection',
+        RabbitMqEnv::RABBITMQ_HOST => getenv('RABBITMQ_HOST'),
+        RabbitMqEnv::RABBITMQ_PORT => getenv('RABBITMQ_PORT'),
+        RabbitMqEnv::RABBITMQ_PASSWORD => getenv('RABBITMQ_DEFAULT_PASS'),
+        RabbitMqEnv::RABBITMQ_USERNAME => getenv('RABBITMQ_DEFAULT_USER'),
+        RabbitMqEnv::RABBITMQ_VIRTUAL_HOST => getenv('RABBITMQ_DEFAULT_VHOST'),
+        RabbitMqEnv::RABBITMQ_STORE_NAMES => ['DE'],
+    ],
+    ...
+]
+```
+To setup secured connection with RabbitMQ, use RABBITMQ_STREAM_CONTEXT_OPTIONS constant:
+
+```PHP
+use Spryker\Shared\RabbitMq\RabbitMqEnv;
+
+$config[RabbitMqEnv::RABBITMQ_CONNECTIONS] = [
+    'DE' => [
+        ...
+        RabbitMqEnv::RABBITMQ_STREAM_CONTEXT_OPTIONS => [
+            'ssl' => [
+                'verify_peer' => true,
+            ],
+        ]
+    ],
+    ...
+]
+```
+For more information about available options see [SSL context options](https://www.php.net/manual/en/context.ssl.php) in PHP manual.
+
+For more information about RabbitMQ SSL connection see [TLS Support](https://www.rabbitmq.com/ssl.html)  in RabbitMQ documentaiton.
+
 ## Default Queue Adapter
 Spryker includes a RabbitMQ adapter package in [spryker/rabbit-mq](https://github.com/spryker/rabbit-mq). If you have already installed the Spryker Demoshop on your machine, this package will be automatically downloaded for you.
 
