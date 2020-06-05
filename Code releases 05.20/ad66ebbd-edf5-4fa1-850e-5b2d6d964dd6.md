@@ -1,9 +1,8 @@
-This topic provides a list of actions on how to add a content item widget to a page and block using the Back Office.
-***
-To start working with the Content Item Widgets, navigate to the **Content Management** section.
-***
-@(Warning)()(Prior to adding a content item widget to a block or a page, make sure that the page is _active_ and _not expired_; otherwise, it will not be displayed on the website.)
+This topic describes how to add a content item widget to a page and block using the Back Office.
+To start working with the Content Item Widgets, go to the **Content Management** section.
 
+@(Warning)()(Prior to adding a content item widget to a block or a page, make sure that the page is _active_ and _not expired_; otherwise, it will not be displayed on the website.)
+***
 ## Adding Content Item Widgets to Pages
 To add a content item widget to a page:
 
@@ -33,7 +32,7 @@ This will insert a content item widget with the following details:
 6. Click **Save**. A new content item widget will be added to the page.
 
 @(Info)()(You can preview the page to see how the content item widget will be displayed on the website or publish it. See  [Managing CMS Pages](https://documentation.spryker.com/v4/docs/managing-cms-pages) to learn how to preview and publish the page.)
-***
+
 ## Adding Content Item Widgets to Blocks
 To add a content item widget to a block:
 
