@@ -557,15 +557,12 @@
                 1. [Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ef7894d5-46b5-4bd8-b58f-833c1e5480b3.md)
                 2. [Creating Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ee692349-f82c-4570-b390-faedacdde7c6.md)
                 3. [Editing Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4405c705-4043-4049-85d8-81286d7dcc34.md)
-                4. References
+                4. [Adding Content Item Widgets to Pages and Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ad66ebbd-edf5-4fa1-850e-5b2d6d964dd6.md)
+                5. [Editing Content Item Widgets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/00f00dbc-2e3b-4dff-9da5-a9a1b3730765.md)
+                6. References
                     1. [Content Items: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3b4e1dff-22df-4960-968b-0c4c7f357711.md)
-                5. Content Item Widgets
-                    1. [Content Item Widgets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3965f681-0863-4a4f-9ed5-e7176ed979af.md)
-                    2. [Adding Content Item Widgets to Pages and Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ad66ebbd-edf5-4fa1-850e-5b2d6d964dd6.md)
-                    3. [Editing Content Item Widgets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/00f00dbc-2e3b-4dff-9da5-a9a1b3730765.md)
-                    4. References
-                        1. [Content Item Widgets types: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0fb5471d-1022-4a17-ab19-ef0285f773f9.md)
-                        2. [Content Item Widgets templates: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/acb409dd-0e11-4d17-9ff9-3c3a6f1ef753.md)
+                    2. [Content Item Widgets types: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0fb5471d-1022-4a17-ab19-ef0285f773f9.md)
+                    3. [Content Item Widgets templates: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/acb409dd-0e11-4d17-9ff9-3c3a6f1ef753.md)
         9. Glossary
             1. [Glossary](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1436e1c5-438c-4168-9e21-3f6f8c37ae2e.md)
             2. [Managing Glossary](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/30de4499-add0-49fe-9351-074804a4943d.md)
