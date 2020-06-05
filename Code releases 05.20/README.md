@@ -139,10 +139,7 @@
             2. [Back Office Translations Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a37baa69-a9c3-48fc-a358-4ddc155e9138.md)
     4. Catalog Management
         1. [Catalog Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/75116043-3fa7-40c8-8f08-5dc2e83e2522.md)
-        2. [Product Catalog Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2cfdba1f-1fb3-43b1-963c-f90867036356.md)
-        3. [Product to Category Association](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dab28b75-9130-4f9d-befb-b0f8a9e07e65.md)
-        4. [ Define Category Hierarchy](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ba609066-112e-44fc-8eb8-759eb466f455.md)
-        5. Category Management
+        2. Category Management
             1. [Category Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/886a2cb2-c7c8-462c-8212-3a993ac8c14a.md)
             2. [Category Management Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/86a1b5ea-ae52-4064-804c-0fa9ed0c3ea3.md)
     5. Checkout
