@@ -1,8 +1,6 @@
 This topic provides a list of steps to create a CMS block in Back Office.
+To start working with CMS blocks, go to **Content Management** > **Blocks** section.
 ***
-To start working with the CMS blocks, navigate to the **Content Management > Blocks** section.
-***
-Here you can create a new CMS block, specify for which store and how long it will be visible in the online store, as well as create category or product detail pages.
 
 ## Creating a CMS Block
 To create a block:
