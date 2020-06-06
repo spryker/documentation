@@ -583,7 +583,7 @@
                 4. Managing Products
                     1. [Managing Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e3ff6656-5ca8-470d-9d2a-d1f0018ecb40.md)
                     2. [Discontinuing a Product](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/190c4376-7215-4c72-b8b2-ee052e095b91.md)
-                    3. [Creating and Managing Product Bundles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7df569ee-3e01-4bfe-a0de-c63bde54e144.md)
+                    3. [Creating Product Bundles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7df569ee-3e01-4bfe-a0de-c63bde54e144.md)
                     4. [Adding Product Alternatives](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9c487346-474d-45ac-8741-21f8c782a8d7.md)
                     5. [Adding Volume Prices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/080e6510-22a9-4be6-ad53-e679beb7e209.md)
                 5. References
