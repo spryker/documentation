@@ -1,10 +1,10 @@
-This article describes the procedures of creating and managing filter preferences.
+This article describes how to manage filter preferences.
+
+To start working with the filter preferences, navigate to the **Search and Filters** > **Filter Preferences** section.
 ***
-To start working with the filter preferences, navigate to the **Search and Filters > Filter Preferences** section.
-***
-**Prerequisites**
-Please make sure that the attribute you are going to create a filter preference for is created and assigned to a product.
-***
+## Prerequisites
+Make sure that the attribute you are going to create a filter preference for is created and assigned to a product.
+
 ## Creating a Filter Preference
 **To create a filter preference:**
 1. In the top right corner of the **Filter preferences** page, click **Create filter**.
@@ -13,11 +13,11 @@ Please make sure that the attribute you are going to create a filter preference 
     2. In the **Filter Type** drop-down, select either multi-select or range.
     3. Enter the translations for all locations set up in your store.
 3. Click **Save**.
-***
-The filter is created by it will not be available for use unless you synchronize the filter preferences.
 
+**Tips & Tricks**
+The filter is created by it will not be available for use unless you synchronize the filter preferences.
 To do the synchronization, click **Synchronize filter preference** in the top right corner of the **Filter Preferences** page.
-***
+
 ## Editing Filter Preferences
 To edit a filter preference:
 1. In the _Actions_ column of the **Filter preferences** table, click **Edit** for the filter you need to update.
@@ -26,10 +26,10 @@ To edit a filter preference:
  3. Once done, click **Save**.
  4. On the **View filter** page, click **List of filters** in the top right corner.
  5. On the **Filter preferences** page, click **Synchronize filter preferences**.
-***
+
 ## Viewing and Deleting Filter Preferences
  **To view a filter**, click **View** in the _Actions_ column for a specific filter.
- ***
+
 **To delete a filter:**
  1. Click **Delete** in the _Actions_ column for a specific filter.
  **OR**
