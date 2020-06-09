@@ -1771,7 +1771,7 @@
             2. [Tutorial - Handling Data - Publish and Synchronization - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b6f994a1-1465-4319-a2b2-6ec63e3ec600.md)
     3. HowTos
         1. [About HowTos](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c7ba3e57-072d-4a85-b27e-05b354de7f39.md)
-        2. [HowTo - Get Ready for VAT (Tax) Changes in Germany](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/77925e4c-c31c-4bf5-b589-98fd5c80a124.md)
+        2. [HowTo - Get Ready for VAT (tax) Changes in Germany](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/77925e4c-c31c-4bf5-b589-98fd5c80a124.md)
         3. [HowTo - Change the Default Behavior of Event Triggering in the AvailabilityStorage Module](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fe5f1645-1614-4315-9c60-b1eec0d67e0d.md)
         4. [HowTo - Define Maximum Size of Content Fields](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/799d2b22-1704-48bc-b3f8-4b38e21e5285.md)
         5. [HowTo - Handle Case Sensitive File-System on Mac OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b8eb8562-5484-4a3e-8177-8fae13f0dfd5.md)
