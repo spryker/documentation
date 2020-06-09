@@ -45,6 +45,7 @@
             2. [Release Notes 2018.12.0](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cd648592-9da2-457d-b8b8-ef5296490da3.md)
             3. Release Notes: Code Releases May, 2020
                 1. [Release Notes: Code Releases May, 2020](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c80edc0e-4115-4330-8e9b-e7b81e3cad08.md)
+                2. [Security Release Notes: Code Releases May, 2020](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/736cb98a-36e7-4685-92c4-459e87f8a84e.md)
             4. Release Notes 202001.0
                 1. [Release Notes 202001.0](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/eac3de7f-5c83-487d-a309-01e8a9c8e85a.md)
                 2. [Known Issues 202001.0](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0b2797b-f3c0-4abd-bee5-31f7180911e0.md)
