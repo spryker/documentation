@@ -11,11 +11,12 @@
     10. [Feedback](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/15c2fe9f-832e-4469-bc58-76918eae6bf8.md)
     11. What's New
         1. [What's New](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/862137f5-dee7-42c9-a253-0056218f09be.md)
-        2. [Supported Versions of PHP](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c75dc2f-28a8-4961-85b3-1de23a98296c.md)
-        3. [Roadmap](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3a219a3d-a3f4-4202-bd6a-1429183495de.md)
-        4. [Documentation Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/438a8d4e-0657-4116-90e1-f437f487b588.md)
-        5. [Security Audit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/47ddbee6-7808-46f5-82e6-b83e9650f48e.md)
-        6. [Security Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f5a43905-491b-4de8-85df-706500511430.md)
+        2. [VAT Rates Reduction in Germany Between July 2020 and January 2021](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c0456fa2-60c9-4cfa-b244-2dc25ac32995.md)
+        3. [Supported Versions of PHP](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c75dc2f-28a8-4961-85b3-1de23a98296c.md)
+        4. [Roadmap](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3a219a3d-a3f4-4202-bd6a-1429183495de.md)
+        5. [Documentation Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/438a8d4e-0657-4116-90e1-f437f487b588.md)
+        6. [Security Audit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/47ddbee6-7808-46f5-82e6-b83e9650f48e.md)
+        7. [Security Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f5a43905-491b-4de8-85df-706500511430.md)
     12. Videos & Webinars
         1. [Spryker Videos](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/866047e2-af9c-4801-9e8f-61e25ac8f17b.md)
         2. [B2B Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fda7d4ce-4a5d-452e-ad8f-0d15404df605.md)
@@ -41,8 +42,9 @@
         2. [Releases Archive](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f847c241-08bd-4712-a121-d4d6c6841533.md)
         3. Release Notes
             1. [Release Notes](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/96a26060-5193-49a3-a2df-8270146417fa.md)
-            2. [Release Notes: Code Releases May, 2020](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c80edc0e-4115-4330-8e9b-e7b81e3cad08.md)
-            3. [Release Notes 2018.12.0](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cd648592-9da2-457d-b8b8-ef5296490da3.md)
+            2. [Release Notes 2018.12.0](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cd648592-9da2-457d-b8b8-ef5296490da3.md)
+            3. Release Notes: Code Releases May, 2020
+                1. [Release Notes: Code Releases May, 2020](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c80edc0e-4115-4330-8e9b-e7b81e3cad08.md)
             4. Release Notes 202001.0
                 1. [Release Notes 202001.0](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/eac3de7f-5c83-487d-a309-01e8a9c8e85a.md)
                 2. [Known Issues 202001.0](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0b2797b-f3c0-4abd-bee5-31f7180911e0.md)
