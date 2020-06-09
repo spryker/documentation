@@ -1036,13 +1036,11 @@
                     2. [Best Practices - Twig Templates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7ea3310c-b1d2-4c9f-88f7-6fab2d78e289.md)
             5. Miscellaneous Guides
                 1. [User Interface Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/02ec8bbf-52b6-4fba-951a-5c1f99e30472.md)
-        5. Glue REST API
-            1. Glue API Developer Guides
-                1. [REST API Reference](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/59a0fb96-4694-4cb4-885e-a18b0fdab225.md)
-                2. [Glue API Developer Guides](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/440f1b47-7db3-4d02-944b-4bd6dfd17abb.md)
-                3. [Glue Infrastructure](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/67525d8f-9497-4932-b7bb-43a5099a36e6.md)
-                4. [Security and Authentication](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c9e0e485-a941-4db5-a23c-5af0f962fb73.md)
-                5. [Glue Spryks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a182ed03-8819-4d53-87e5-2aa4b8de73b6.md)
+        5. Glue API
+            1. [REST API Reference](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/59a0fb96-4694-4cb4-885e-a18b0fdab225.md)
+            2. [Glue Infrastructure](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/67525d8f-9497-4932-b7bb-43a5099a36e6.md)
+            3. [Security and Authentication](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c9e0e485-a941-4db5-a23c-5af0f962fb73.md)
+            4. [Glue Spryks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a182ed03-8819-4d53-87e5-2aa4b8de73b6.md)
         6. Data Import
             1. [Importing Data with a Configuration File](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/965561ad-2b3f-4eed-b190-7588601c3188.md)
             2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f55c735-9168-4d40-9519-bad08890870e.md)
