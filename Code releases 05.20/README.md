@@ -855,7 +855,11 @@
         2. [Session Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/22abd1d7-c227-4a00-93e3-d28cf997edb8.md)
         3. Back-End
             1. [Running Production](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c4f0a880-e536-4830-8f68-d46ce9e19863.md)
-            2. Yves
+            2. Client
+                1. [Client](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/eecbbfcb-5813-4b15-acbf-730913a74120.md)
+                2. [Implementing a Client](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5c6adf39-82e1-4768-843a-536b0d5ee72f.md)
+                3. [Using and Configuring Redis as a Key-value Storage](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f5c9145f-1f0f-45f2-84df-c5384e1754b8.md)
+            3. Yves
                 1. [About Yves](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/db002e9b-7223-4d80-afed-7d58b1a2fcc6.md)
                 2. [Modular Frontend](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aa6fc9f2-bc2f-4b54-8caa-edff5b27b206.md)
                 3. [Controllers and Actions](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d18a3553-5386-4210-8681-300df2c54141.md)
@@ -864,11 +868,7 @@
                 6. [Yves Bootstrapping](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/54c92cd4-e912-4326-9c93-d97500f73826.md)
                 7. [Yves Routes](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dc6b186d-9f0d-451a-b4ab-ae877a790a92.md)
                 8. [Front-End Yves](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/784e3f73-1bd3-4cbc-841c-7e9631ab66a3.md)
-                9. Client
-                    1. [Client](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/eecbbfcb-5813-4b15-acbf-730913a74120.md)
-                    2. [Implementing a Client](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5c6adf39-82e1-4768-843a-536b0d5ee72f.md)
-                    3. [Using and Configuring Redis as a Key-value Storage](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f5c9145f-1f0f-45f2-84df-c5384e1754b8.md)
-            3. Zed
+            4. Zed
                 1. [About Zed](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b97e310f-e477-44cc-adaf-d3b09c974ae0.md)
                 2. Business Layer
                     1. [About the Business Layer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5b49b992-768e-4ac3-8fee-2a4033bee1d8.md)
@@ -895,7 +895,7 @@
                 4. Communication Layer
                     1. [Controllers and Actions](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2b2fb9b1-dbd3-4db9-a782-e135efdf0af2.md)
                     2. [Adding Indexes to Foreign Key Columns: Index Generator](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f85c4c5c-3370-4ee7-a164-656309e62a52.md)
-            4. Data Manipulation
+            5. Data Manipulation
                 1. [Configuration Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/41d124cc-de09-4114-84df-dfc33af220d8.md)
                 2. [Running and Reverting a Database Migration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2942e07b-e044-4f6a-8a1d-2db99ef2fa48.md)
                 3. Order Management System
