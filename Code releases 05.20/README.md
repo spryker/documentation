@@ -1,15 +1,16 @@
 1. About Spryker
     1. [About Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/12ac590a-c4ec-4e01-b626-3aba8f6780f3.md)
-    2. [Demo Shops](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c3207cfc-3261-4419-874c-7a97c200ff5e.md)
-    3. [Spryker Release Process](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a736bf23-d7a4-484a-87cb-668ad7c4e615.md)
-    4. [FAQ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/987eb5f5-528e-4852-ad06-c36519c3f664.md)
-    5. [MVP Project Structuring](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4cb32338-0621-4ec9-a3b5-a456be1cc8be.md)
-    6. [About Spryker Documentation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/63e6603d-f4d9-4149-897b-5828632504e8.md)
-    7. [Getting Support](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/099996a0-30e4-45bc-9333-983266e2e2e4.md)
-    8. [Security Support](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/33df4ced-35d3-4b34-bad9-6b0c0423feb0.md)
-    9. [Understanding Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/45f2a789-390d-48b0-b762-cd56bb43c6e0.md)
-    10. [Feedback](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/15c2fe9f-832e-4469-bc58-76918eae6bf8.md)
-    11. What's New
+    2. [B2B Suite](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/93ebe7bd-0f37-414b-8829-172aa01714ad.md)
+    3. [Demo Shops](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c3207cfc-3261-4419-874c-7a97c200ff5e.md)
+    4. [Spryker Release Process](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a736bf23-d7a4-484a-87cb-668ad7c4e615.md)
+    5. [FAQ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/987eb5f5-528e-4852-ad06-c36519c3f664.md)
+    6. [MVP Project Structuring](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4cb32338-0621-4ec9-a3b5-a456be1cc8be.md)
+    7. [About Spryker Documentation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/63e6603d-f4d9-4149-897b-5828632504e8.md)
+    8. [Getting Support](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/099996a0-30e4-45bc-9333-983266e2e2e4.md)
+    9. [Security Support](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/33df4ced-35d3-4b34-bad9-6b0c0423feb0.md)
+    10. [Understanding Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/45f2a789-390d-48b0-b762-cd56bb43c6e0.md)
+    11. [Feedback](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/15c2fe9f-832e-4469-bc58-76918eae6bf8.md)
+    12. What's New
         1. [What's New](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/862137f5-dee7-42c9-a253-0056218f09be.md)
         2. [VAT Rates Reduction in Germany Between July 2020 and January 2021](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c0456fa2-60c9-4cfa-b244-2dc25ac32995.md)
         3. [Supported Versions of PHP](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c75dc2f-28a8-4961-85b3-1de23a98296c.md)
@@ -17,7 +18,7 @@
         5. [Documentation Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/438a8d4e-0657-4116-90e1-f437f487b588.md)
         6. [Security Audit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/47ddbee6-7808-46f5-82e6-b83e9650f48e.md)
         7. [Security Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f5a43905-491b-4de8-85df-706500511430.md)
-    12. Videos & Webinars
+    13. Videos & Webinars
         1. [Spryker Videos](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/866047e2-af9c-4801-9e8f-61e25ac8f17b.md)
         2. [B2B Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fda7d4ce-4a5d-452e-ad8f-0d15404df605.md)
         3. [B2C Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/27a87e8c-eaaa-4e8a-9b72-d1593bf59bca.md)
@@ -37,7 +38,7 @@
         17. [Manage Products in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e0da95f4-41a5-45b2-95e5-f6cd1fbdaf64.md)
         18. [Configure Product Sets in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1e27f3e8-5710-426a-8d32-7df77ae458e0.md)
         19. [Use Wishlists in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a9b322fa-815d-4e9b-9089-2b5c73768aa2.md)
-    13. Releases
+    14. Releases
         1. [Releases](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/81fb796d-fd0b-4c75-9379-5ff45717dbd0.md)
         2. [Releases Archive](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f847c241-08bd-4712-a121-d4d6c6841533.md)
         3. Release Notes
