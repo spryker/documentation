@@ -20,26 +20,7 @@
         5. [Documentation Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/438a8d4e-0657-4116-90e1-f437f487b588.md)
         6. [Security Audit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/47ddbee6-7808-46f5-82e6-b83e9650f48e.md)
         7. [Security Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f5a43905-491b-4de8-85df-706500511430.md)
-    15. Videos & Webinars
-        1. [B2B Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fda7d4ce-4a5d-452e-ad8f-0d15404df605.md)
-        2. [B2C Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/27a87e8c-eaaa-4e8a-9b72-d1593bf59bca.md)
-        3. [How to set up Agent Assist in Spryker B2B Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b0338f90-bbd4-477d-b613-cfacd7dbc18b.md)
-        4. [How to set up Company Structure in Spryker B2B Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c7c026b7-75d4-48ae-a75e-7919c725bc09.md)
-        5. [How to set up Company Users and Roles in Spryker B2B Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7fdd9aa4-823e-4c2a-86e9-8a5ef76eb757.md)
-        6. [How to set up Merchants and Merchant Relationships in Spryker B2B Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e5a06a17-b852-4274-b5cc-ddf9009d9ff8.md)
-        7. [How to Use Shopping Lists in Spryker B2B Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7691fa52-44b0-431a-9a67-4f6573f22c97.md)
-        8. [How to use Shopping Carts in Spryker B2B Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/83e88ec7-aece-4a78-83ce-5307cdee15d7.md)
-        9. [Manage Categories in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0ace92fc-f272-4b89-b0ca-2b6b2fefcbbe.md)
-        10. [Configure CMS Blocks in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8ed6a7a5-681d-472e-9e3e-53da686c9071.md)
-        11. [Configure CMS pages in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e773fc53-4c63-4a0a-a935-dfcb09d26c15.md)
-        12. [Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/91b17238-4362-45cd-8696-583bf320691e.md)
-        13. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f3a34277-88cb-49b7-884e-a45b40e2a260.md)
-        14. [How to Configure Navigation in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c3a9c849-6012-40e3-8771-e31be0262980.md)
-        15. [Configure Product Groups in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2255aa9b-89c0-4201-bc49-e313db4dd6d9.md)
-        16. [Manage Products in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e0da95f4-41a5-45b2-95e5-f6cd1fbdaf64.md)
-        17. [Configure Product Sets in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1e27f3e8-5710-426a-8d32-7df77ae458e0.md)
-        18. [Use Wishlists in Spryker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a9b322fa-815d-4e9b-9089-2b5c73768aa2.md)
-    16. Releases
+    15. Releases
         1. [Releases](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/81fb796d-fd0b-4c75-9379-5ff45717dbd0.md)
         2. [Releases Archive](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f847c241-08bd-4712-a121-d4d6c6841533.md)
         3. Release Notes
