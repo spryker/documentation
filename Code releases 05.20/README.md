@@ -9,10 +9,9 @@
     8. [About Spryker Documentation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/63e6603d-f4d9-4149-897b-5828632504e8.md)
     9. [Getting Support](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/099996a0-30e4-45bc-9333-983266e2e2e4.md)
     10. [Security Support](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/33df4ced-35d3-4b34-bad9-6b0c0423feb0.md)
-    11. [Spryker Videos](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/866047e2-af9c-4801-9e8f-61e25ac8f17b.md)
-    12. [Understanding Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/45f2a789-390d-48b0-b762-cd56bb43c6e0.md)
-    13. [Feedback](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/15c2fe9f-832e-4469-bc58-76918eae6bf8.md)
-    14. What's New
+    11. [Understanding Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/45f2a789-390d-48b0-b762-cd56bb43c6e0.md)
+    12. [Feedback](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/15c2fe9f-832e-4469-bc58-76918eae6bf8.md)
+    13. What's New
         1. [What's New](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/862137f5-dee7-42c9-a253-0056218f09be.md)
         2. [VAT Rates Reduction in Germany Between July 2020 and January 2021](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c0456fa2-60c9-4cfa-b244-2dc25ac32995.md)
         3. [Supported Versions of PHP](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c75dc2f-28a8-4961-85b3-1de23a98296c.md)
@@ -20,7 +19,7 @@
         5. [Documentation Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/438a8d4e-0657-4116-90e1-f437f487b588.md)
         6. [Security Audit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/47ddbee6-7808-46f5-82e6-b83e9650f48e.md)
         7. [Security Updates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f5a43905-491b-4de8-85df-706500511430.md)
-    15. Releases
+    14. Releases
         1. [Releases](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/81fb796d-fd0b-4c75-9379-5ff45717dbd0.md)
         2. [Releases Archive](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f847c241-08bd-4712-a121-d4d6c6841533.md)
         3. Release Notes
