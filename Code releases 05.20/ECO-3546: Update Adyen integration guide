@@ -97,9 +97,9 @@ class CheckoutPageDependencyProvider extends SprykerShopCheckoutPageDependencyPr
 }
 ```
 
-Add controller provider: 
+Register route provider plugin: 
 
-**\Pyz\Yves\ShopApplication\YvesBootstrap:**
+**\Pyz\Yves\Router\RouterDependencyProvider:**
 
 ```php
 <?php
@@ -109,26 +109,24 @@ Add controller provider:
  * For full license information, please view the LICENSE file that was distributed with this source code.
  */
  
-namespace Pyz\Yves\ShopApplication;
+namespace Pyz\Yves\Router;
  
 ...
-use SprykerEco\Yves\Adyen\Plugin\Provider\AdyenControllerProvider;
+use SprykerEco\Yves\Adyen\Plugin\Router\AdyenRouteProviderPlugin;
 ...
  
-class YvesBootstrap extends SprykerYvesBootstrap
+class RouterDependencyProvider extends SprykerRouterDependencyProvider
 {
     ...
  
     /**
-     * @param bool|null $isSsl
-     *
-     * @return \SprykerShop\Yves\ShopApplication\Plugin\Provider\AbstractYvesControllerProvider[]
+     * @return \Spryker\Yves\RouterExtension\Dependency\Plugin\RouteProviderPluginInterface[]
      */
-    protected function getControllerProviderStack($isSsl)
+    protected function getRouteProvider(): array
     {
         return [
             ...   
-            new AdyenControllerProvider($isSsl),
+            new AdyenRouteProviderPlugin(),
         ];
     }
 }
