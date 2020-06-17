@@ -206,6 +206,7 @@ use SprykerEco\Zed\Adyen\Communication\Plugin\Oms\Command\CancelPlugin;
 use SprykerEco\Zed\Adyen\Communication\Plugin\Oms\Command\CancelOrRefundPlugin;
 use SprykerEco\Zed\Adyen\Communication\Plugin\Oms\Command\CapturePlugin;
 use SprykerEco\Zed\Adyen\Communication\Plugin\Oms\Command\RefundPlugin;
+use SprykerEco\Zed\Adyen\Communication\Plugin\Oms\Condition\IsAuthorizationFailedPlugin;
 use SprykerEco\Zed\Adyen\Communication\Plugin\Oms\Condition\IsAuthorizedPlugin;
 use SprykerEco\Zed\Adyen\Communication\Plugin\Oms\Condition\IsAuthorizedAndCapturedPlugin;
 use SprykerEco\Zed\Adyen\Communication\Plugin\Oms\Condition\IsCanceledPlugin;
@@ -265,6 +266,7 @@ class OmsDependencyProvider extends SprykerOmsDependencyProvider
         $container->extend(OmsDependencyProvider::CONDITION_PLUGINS, function (ConditionCollectionInterface $conditionCollection) {
             ...
             $conditionCollection->add(new IsAuthorizedPlugin(), 'Adyen/IsAuthorized');
+            $conditionCollection->add(new IsAuthorizationFailedPlugin(), 'Adyen/IsAuthorizationFailed');
             $conditionCollection->add(new IsCanceledPlugin(), 'Adyen/IsCanceled');
             $conditionCollection->add(new IsCancellationReceivedPlugin(), 'Adyen/IsCancellationReceived');
             $conditionCollection->add(new IsCancellationFailedPlugin(), 'Adyen/IsCancellationFailed');
