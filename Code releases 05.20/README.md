@@ -729,46 +729,47 @@
                 4. [Request for Quote: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/650264cc-3888-4dd3-9ef9-78decd7fcd24.md)
 4. Glue API Guides
     1. [Glue REST API](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/99a9f086-004b-4881-af70-e00f008363df.md)
-    2. [Authentication and Authorization](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a855d9d5-872a-4602-ac3b-4cb0c5ffd8fc.md)
-    3. [Configuring Outdated Refresh Token Life Time](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b695d109-b38a-430f-b0c4-b9fc86284bf8.md)
-    4. [Getting the List of Protected Resources](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c6730088-7099-4fb7-bf70-d8097f148cb3.md)
-    5. [Handling Concurrent REST Requests and Caching with Etags](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/337cc5c9-d4db-44e5-8cf8-ffcba6803bec.md)
-    6. [Retrieving Store Configuration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8e5c5deb-2dd9-4de9-98fc-5e73da6ef885.md)
-    7. [Retrieving Measurement Units](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d16fe8ed-0977-42d3-9c20-9a7f1113ec0b.md)
-    8. [Retrieving Navigation Trees](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/68e0f13b-0cc4-41eb-88ff-995e64a17185.md)
-    9. [Browsing a Category Tree](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/37f403f2-ba5b-44f2-b51c-61e9c8cff7b4.md)
-    10. [Catalog Search](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/231d202e-1af4-4faa-bb41-143cee62e1fc.md)
-    11. [Getting Suggestions for Auto-Completion and Search](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a31882d-7e51-446d-ad7a-8b3826bb0437.md)
-    12. [Managing Customers](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/be5d5720-c020-4b64-a184-7d86673a6deb.md)
-    13. [Managing Shopping Lists](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/46eec688-6802-433f-998d-c6187356f25b.md)
-    14. [Managing Wishlists](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/854de46f-eaf2-4621-aa94-34fe4a9378f8.md)
-    15. [Checking Out Purchases and Getting Checkout Data ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7924cb82-d6f6-4f5f-a132-4177692d54fa.md)
-    16. [Retrieving Customer's Order History](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3989ca5d-b1c1-4929-bfff-cf7a3540b1dc.md)
-    17. [Using Search Engine Friendly URLs](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fde85b1f-cc09-46d7-a990-3e52367db1f2.md)
-    18. [Ratings and Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c078943-f7b0-4db0-8dcf-5d015d04e739.md)
-    19. B2B Account Management
+    2. [REST API Reference](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/59a0fb96-4694-4cb4-885e-a18b0fdab225.md)
+    3. [Authentication and Authorization](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a855d9d5-872a-4602-ac3b-4cb0c5ffd8fc.md)
+    4. [Configuring Outdated Refresh Token Life Time](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b695d109-b38a-430f-b0c4-b9fc86284bf8.md)
+    5. [Getting the List of Protected Resources](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c6730088-7099-4fb7-bf70-d8097f148cb3.md)
+    6. [Handling Concurrent REST Requests and Caching with Etags](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/337cc5c9-d4db-44e5-8cf8-ffcba6803bec.md)
+    7. [Retrieving Store Configuration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8e5c5deb-2dd9-4de9-98fc-5e73da6ef885.md)
+    8. [Retrieving Measurement Units](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d16fe8ed-0977-42d3-9c20-9a7f1113ec0b.md)
+    9. [Retrieving Navigation Trees](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/68e0f13b-0cc4-41eb-88ff-995e64a17185.md)
+    10. [Browsing a Category Tree](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/37f403f2-ba5b-44f2-b51c-61e9c8cff7b4.md)
+    11. [Catalog Search](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/231d202e-1af4-4faa-bb41-143cee62e1fc.md)
+    12. [Getting Suggestions for Auto-Completion and Search](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a31882d-7e51-446d-ad7a-8b3826bb0437.md)
+    13. [Managing Customers](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/be5d5720-c020-4b64-a184-7d86673a6deb.md)
+    14. [Managing Shopping Lists](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/46eec688-6802-433f-998d-c6187356f25b.md)
+    15. [Managing Wishlists](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/854de46f-eaf2-4621-aa94-34fe4a9378f8.md)
+    16. [Checking Out Purchases and Getting Checkout Data ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7924cb82-d6f6-4f5f-a132-4177692d54fa.md)
+    17. [Retrieving Customer's Order History](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3989ca5d-b1c1-4929-bfff-cf7a3540b1dc.md)
+    18. [Using Search Engine Friendly URLs](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fde85b1f-cc09-46d7-a990-3e52367db1f2.md)
+    19. [Ratings and Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c078943-f7b0-4db0-8dcf-5d015d04e739.md)
+    20. B2B Account Management
         1. [B2B Account Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0f3ad8d-d91e-401b-b0c6-e48cb13df5e8.md)
         2. [Logging In as Company User](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b2183ab-7d17-45cf-9a53-e2f3bb48e579.md)
         3. [Retrieving Company User Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f84a4096-0877-4370-8df2-52ba5b6c4b93.md)
         4. [Retrieving Company Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c919a004-8d7f-4573-9014-73949cf1eb8f.md)
         5. [Retrieving Business Unit Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1325e7e7-044d-4272-9587-fafc8a9cb928.md)
         6. [Retrieving Company Role Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/722b3bc5-1ec4-4b5a-aa11-9b26373bdfa0.md)
-    20. Managing Products
+    21. Managing Products
         1. [Retrieving Product Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b3b5a044-f7aa-40d4-8006-2c8460e86e29.md)
         2. [Accessing Product Labels](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c5dc18d6-5967-43ba-88a4-6df66ea431ac.md)
         3. [Retrieving Related Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e46eed39-3641-4e35-9014-89c27fe73b4c.md)
         4. [Retrieving Alternative Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/242c2c18-c58d-4fd9-b2cb-51b17329072e.md)
         5. [Retrieving and Applying Product Options](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e6b8bc1c-46dc-4116-bbcd-4905bd2c9347.md)
-    21. Managing Carts
+    22. Managing Carts
         1. [Managing Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c915be34-8ca5-4d7e-8900-226e7a286011.md)
         2. [Managing Guest Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/794ed6c0-fdea-48d5-bb63-5909ee093a2f.md)
         3. [Managing Carts of Registered Users](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f6b9b11-3875-4241-85fa-ac02fbe45ca5.md)
         4. [Sharing Company User Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a3b21add-72fb-42a5-ab1e-3b57f53d195b.md)
-    22. Retrieving Content Item Data
+    23. Retrieving Content Item Data
         1. [Retrieving Content Item Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/57751ebd-4cae-4a61-b90f-c3a5013d7c08.md)
         2. [Retrieving Banner Content Item Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e88d1d57-9e00-4579-a64d-b646e5d270cd.md)
         3. [Getting Abstract Product List Content Item Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a6e9bd31-eedd-4e71-abbf-5e96ffc2256f.md)
-    23. Discounts and Promotions
+    24. Discounts and Promotions
         1. [Retrieving Discounts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1afa9ae5-e357-4616-bd9b-8667501ea502.md)
         2. [Retrieving Promotional Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5fc82c18-743b-4de9-bed3-17153448b25a.md)
 5. Developer Guides
@@ -1018,10 +1019,9 @@
             5. Miscellaneous Guides
                 1. [User Interface Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/02ec8bbf-52b6-4fba-951a-5c1f99e30472.md)
         5. Glue API
-            1. [REST API Reference](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/59a0fb96-4694-4cb4-885e-a18b0fdab225.md)
-            2. [Glue Infrastructure](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/67525d8f-9497-4932-b7bb-43a5099a36e6.md)
-            3. [Security and Authentication](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c9e0e485-a941-4db5-a23c-5af0f962fb73.md)
-            4. [Glue Spryks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a182ed03-8819-4d53-87e5-2aa4b8de73b6.md)
+            1. [Glue Infrastructure](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/67525d8f-9497-4932-b7bb-43a5099a36e6.md)
+            2. [Security and Authentication](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c9e0e485-a941-4db5-a23c-5af0f962fb73.md)
+            3. [Glue Spryks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a182ed03-8819-4d53-87e5-2aa4b8de73b6.md)
         6. Data Import
             1. [Importing Data with a Configuration File](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/965561ad-2b3f-4eed-b190-7588601c3188.md)
             2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f55c735-9168-4d40-9519-bad08890870e.md)
