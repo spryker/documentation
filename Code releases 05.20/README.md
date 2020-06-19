@@ -85,8 +85,7 @@
             2. [Category Management Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/86a1b5ea-ae52-4064-804c-0fa9ed0c3ea3.md)
     4. Checkout
         1. [Checkout](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ca2a9243-b8de-4e27-81f5-ab363e3badc2.md)
-        2. [Define Payment & Shipment Methods](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7bb74754-f709-4952-97f3-efde9711af91.md)
-        3. Multi-Step Checkout
+        2. Multi-Step Checkout
             1. [Multi-Step Checkout](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c54720dc-f4d2-4266-b4de-274b865eb2aa.md)
     5. CMS
         1. [CMS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/33090ad7-4bbd-49e7-9627-7901562eeed9.md)
