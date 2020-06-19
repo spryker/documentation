@@ -153,7 +153,7 @@
         3. [Development Virtual Machine, Docker Containers & Console](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/87979d41-d659-4f15-92b6-8f1e7dd71f37.md)
         4. [Cronjob Scheduling](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aaa02977-37c0-4c41-a6e0-1899fede0e14.md)
         5. [Spryk Code Generator](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/449d5c16-0752-46a3-9783-9410f70bb740.md)
-        6. [Importer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cbead472-a3cc-4f5e-94fc-2a44f4b4124a.md)
+        6. [Data Import](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cbead472-a3cc-4f5e-94fc-2a44f4b4124a.md)
         7. [CSS Class Customization](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7df9572c-6b23-4bf8-8df6-36ecde2ac714.md)
         8. Development Tools
             1. [Development Tools](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/618e1260-8d42-47f7-b71f-3aa710879034.md)
@@ -786,7 +786,8 @@
         7. [Post-Installation Steps and Additional Info](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ec0eccc8-ccff-49e6-b271-16bb64087967.md)
         8. [Virtual Machine Cleanup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fb20a38d-43fe-4b11-8ecc-e34c6c71f958.md)
         9. [Redis Configuration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a30db29a-2696-4818-be00-5d1221ff2b77.md)
-        10. Spryker in Docker
+        10. [Troubleshooting](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c917b496-0b44-4119-bb83-43d9451e73d5.md)
+        11. Spryker in Docker
             1. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/75b5467f-e328-433b-ad2f-59438fe58412.md)
             2. [Docker Environment Infrustructure](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4522f09b-3adc-4703-af50-273fd7454939.md)
             3. [Troubleshooting](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d08ec72a-4b81-4cd6-8ae3-fb0c57557c06.md)
@@ -809,15 +810,15 @@
             8. Configuration
                 1. [Additional DevOPS Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0dd3014a-8cd9-46b6-b049-6aba95efd27d.md)
                 2. [Services](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0e4f58e4-8a89-44e9-96ff-864c483461a0.md)
-        11. B2B Demo Shop Installation Guides
+        12. B2B Demo Shop Installation Guides
             1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69743fc8-99e0-4006-b88d-b83b4c49001d.md)
             2. [B2B Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0e297577-c395-4ac9-8372-64d8ad72c9ed.md)
             3. [B2B Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/39f89608-4b7a-43c9-9cf9-ad9e42ae1411.md)
-        12. B2C Demo Shop Installation Guides
+        13. B2C Demo Shop Installation Guides
             1. [B2C Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4f50a9af-f0e6-4a7c-9221-2d895ab42079.md)
             2. [B2C Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8908e469-b869-4e38-8d5c-3e4a7076c0b8.md)
             3. [B2C Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0996ed97-acdc-4a89-95df-223c96f4bcd5.md)
-        13. Debugging
+        14. Debugging
             1. [Debugging Setup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/721e3804-7508-4866-a089-9721e394e387.md)
             2. [Debugging Setup for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9bd41e9c-c76b-415b-be51-b94a8cece9e6.md)
     5. Architecture Guide
@@ -1025,14 +1026,13 @@
         6. Data Import
             1. [Importing Data with a Configuration File](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/965561ad-2b3f-4eed-b190-7588601c3188.md)
             2. [Creating a Data Importer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f55c735-9168-4d40-9519-bad08890870e.md)
-            3. [Troubleshooting](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c917b496-0b44-4119-bb83-43d9451e73d5.md)
-            4. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
-            5. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
-            6. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
-            7. Importing Demo Shop Data
+            3. [Data Importers Overview and Implementation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/00193c8f-de9c-4a7d-9447-d6abdce54dac.md)
+            4. [Importing Data with the Queue Data Importer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5cfb24cd-de7f-44fc-b585-2c6b75e4a26c.md)
+            5. [Data Importer Speed Optimization](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cf5c0a7b-88d1-4891-b74f-90a62f9e928d.md)
+            6. Importing Demo Shop Data
                 1. [About Demo Shop Data Import](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/81140103-574b-4320-995a-ae82de863d05.md)
                 2. [Execution Order of Data Importers in Demo Shop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aaef1ebb-d420-419a-84ad-92ed8e4dfb28.md)
-            8. Data Import Categories
+            7. Data Import Categories
                 1. [About Data Import Categories](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9c3eb792-4511-493c-afff-4c14e3423ba8.md)
                 2. Commerce Setup
                     1. [Commerce Setup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6d8ef35a-b699-44b6-bf6f-afc79d72474b.md)
@@ -1123,12 +1123,13 @@
                     2. [File details: comment.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1facba35-37d7-420f-a9f2-fdb7a0bd3d91.md)
                     3. [File details: mime_type.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9e8f470c-153e-4792-95db-28889f514520.md)
         7. Guidelines
-            1. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
-            2. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
-            3. [Guidelines for New GDPR Rules](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/79110638-4628-4168-8f71-68f7aa6375b9.md)
-            4. [Performance Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/daba1c6f-cf44-4da3-a2f2-630b862c37b5.md)
-            5. [Testing Concepts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d875c391-99cd-425e-b9c5-97de3abaf9f4.md)
-            6. Coding Guidelines
+            1. [Project Development Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d64d4dec-9d9b-437f-9446-6d3d6fd22876.md)
+            2. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
+            3. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
+            4. [Guidelines for New GDPR Rules](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/79110638-4628-4168-8f71-68f7aa6375b9.md)
+            5. [Performance Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/daba1c6f-cf44-4da3-a2f2-630b862c37b5.md)
+            6. [Testing Concepts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d875c391-99cd-425e-b9c5-97de3abaf9f4.md)
+            7. Coding Guidelines
                 1. [Code Architecture Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7cc84ab2-eb0c-4944-a600-80b6d7845e72.md)
                 2. [Code Quality](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4bcc176e-771d-4e92-90f3-3466e2d14293.md)
                 3. [Code Style Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a46e301-e584-4e6a-93b9-df557be520b2.md)
