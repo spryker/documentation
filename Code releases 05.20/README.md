@@ -1485,7 +1485,7 @@
         98. Glue API
             1. [Glue API Installation and Configuration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ffc5982-2e8f-40ab-b3f9-fff60fb655a0.md)
             2. [ Glue API: Glue Application Feature Integration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c4c62d97-f36a-45c2-94a6-a07274d71766.md)
-            3. [Glue API: Alternative Products API Feature Integration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69091c9a-bdb5-4cb9-915f-78f2bcd044d0.md)
+            3. [Glue API: Alternative Products Feature Integration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69091c9a-bdb5-4cb9-915f-78f2bcd044d0.md)
             4. [Glue API: Cart Feature Integration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/38873ba8-2abd-4884-86ed-be6b9f939bfe.md)
             5. [Glue API: Catalog Feature Integration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a0827441-d007-45f3-ad8e-3cd8dddcd8d0.md)
             6. [Glue API: Category Management Feature Integration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d068451f-5a2a-4dbd-8625-fd38c807f308.md)
