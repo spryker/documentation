@@ -1538,7 +1538,7 @@
         20. [HowTo - Set up Database Connections](https://github.com/spryker/documentation/blob/master/201907.0/a077228c-9a6a-45ee-b905-7fa601a20a49.md)
         21. Spryker in Docker HowTos
             1. [Spryker in Docker HowTos](https://github.com/spryker/documentation/blob/master/201907.0/bb599b6b-11b7-42f1-84b2-de53cf2b4392.md)
-            2. [HowTo - Install Self-Signed SSL Certificates](https://github.com/spryker/documentation/blob/master/201907.0/36f72c7d-2ac1-4995-afb2-583155ea3aaa.md)
+            2. [HowTo - Use Self-Signed SSL Certificates](https://github.com/spryker/documentation/blob/master/201907.0/36f72c7d-2ac1-4995-afb2-583155ea3aaa.md)
         22. Feature HowTos
             1. [Feature HowTos](https://github.com/spryker/documentation/blob/master/201907.0/ce40a43c-5e7e-4068-9a2f-67db4e2e7d0c.md)
             2. [HowTo - Change the Default Behavior of Event Triggering in the AvailabilityStorage Module](https://github.com/spryker/documentation/blob/master/201907.0/6eae7176-3ca5-488a-b939-b18954eca759.md)
