@@ -807,8 +807,9 @@
                 5. [Running Production](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/919beb8f-9c2e-43e9-8f60-696a61dea10a.md)
                 6. [Getting Started with Docker Old](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/49b05ed8-2433-4bf0-90af-34b1f41423bd.md)
             8. Configuration
-                1. [Additional DevOPS Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0dd3014a-8cd9-46b6-b049-6aba95efd27d.md)
-                2. [Services](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0e4f58e4-8a89-44e9-96ff-864c483461a0.md)
+                1. [Self-signed SSL Certificate Setup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b3ac051-6265-456c-8218-301c60097f00.md)
+                2. [Additional DevOPS Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0dd3014a-8cd9-46b6-b049-6aba95efd27d.md)
+                3. [Services](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0e4f58e4-8a89-44e9-96ff-864c483461a0.md)
         12. B2B Demo Shop Installation Guides
             1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69743fc8-99e0-4006-b88d-b83b4c49001d.md)
             2. [B2B Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0e297577-c395-4ac9-8372-64d8ad72c9ed.md)
