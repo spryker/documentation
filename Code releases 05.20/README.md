@@ -343,33 +343,32 @@
         6. [Shipment Method Plugins](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9a475580-f380-49fb-bb97-f13e9b107922.md)
     28. Shopping  Cart
         1. [Shopping Cart](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7cad0643-ae1f-4927-90f4-838c44244f06.md)
-        2. [Cart Rules and Discounts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e059244c-e3e3-4dba-ab22-1b5a8bb5ea1f.md)
-        3. Calculation
+        2. Calculation
             1. [Calculation 3.0](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/03efb98e-e7ee-4bd6-a832-915307e39582.md)
             2. [Calculation Data Structure](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4d175178-5dcc-42c2-bddc-b17e48f11126.md)
             3. [Calculator Plugins](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/306d5f05-cd9e-450b-af4c-37e8a97dd927.md)
-        4. Cart Functionality and Calculations
+        3. Cart Functionality and Calculations
             1. [Cart Functionality and Calculations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2b30b2ee-1fb3-4d1e-80c8-81e61d183e54.md)
             2. [Cart Functionality](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0d2bf6cc-d3e5-44c9-9db1-a97e744f1001.md)
-        5. Multiple Carts Per User
+        4. Multiple Carts Per User
             1. [Multiple Carts Per User](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/680cef08-2663-4360-b35a-a2042e5b877d.md)
             2. [Multiple Carts per User Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1814371a-2fc3-4ab0-9a3b-119257d10816.md)
-        6. Shared Cart
+        5. Shared Cart
             1. [Shared Cart](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/abe49531-ee0b-4beb-ac10-18d1849faad2.md)
             2. [Shared Cart Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5bc5cd50-b764-44f4-b665-357852999f4b.md)
-        7. Shopping Cart Widget
+        6. Shopping Cart Widget
             1. [Shopping Cart Widget](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d1352728-2371-4f7a-87c3-f362e29f7804.md)
             2. [Shopping Cart Widget Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6a28b061-03b6-49de-b9d2-16442e5685ad.md)
-        8. Cart Notes
+        7. Cart Notes
             1. [Cart Notes](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f738df3b-35e0-4f3a-928d-11863cb54eb3.md)
             2. [Cart Notes Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2236e017-3e77-42ab-a08d-0951184f3f27.md)
-        9. Minimum Order Value
+        8. Minimum Order Value
             1. [Minimum Order Value](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/00065e94-2484-4080-8197-f198c53318c4.md)
             2. [Minimum Order Value Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cd24abfc-4434-47f7-8f22-cf8e83805e23.md)
-        10. Quick Order
+        9. Quick Order
             1. [Quick Order](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ec4233ce-910e-4bfe-adb5-b48b83a23216.md)
             2. [Quick Order Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/92fb8a1c-d5af-4641-9cfc-05eea6ea2d51.md)
-        11. Unique URL per Cart for Easy Sharing
+        10. Unique URL per Cart for Easy Sharing
             1. [Unique URL per Cart for Easy Sharing](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3efd316e-0a45-4b72-b865-e4dd4e421d7c.md)
             2. [Unique URL per Cart for Easy Sharing Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/97c5fe9c-6f0c-45c1-b721-f72ad4af4148.md)
     29. Shopping List
