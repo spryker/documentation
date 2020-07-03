@@ -1336,8 +1336,8 @@
             7. [Heidelpay - Direct Debit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4a6911b7-99b8-45e1-a1ff-624714f73822.md)
             8. [Heidelpay - Easy Credit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ff6398ff-8a51-46e6-8fa0-4dd78784a5f9.md)
             9. [Heidelpay - Paypal Debit Workflow](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0d830bf2-3f62-4fa6-9dc7-a4f954cb832f.md)
-            10. [Heidelay - Sofort (Online Transfer)  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a64cded5-da7c-4e92-9b47-d3d9b42d2f1d.md)
-            11. [Hedelpay - iDeal](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0c6b9c6f-6d54-45d3-a7c8-d204e92358e1.md)
+            10. [Heidelpay - Sofort (Online Transfer)  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a64cded5-da7c-4e92-9b47-d3d9b42d2f1d.md)
+            11. [Heidelpay - iDeal](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0c6b9c6f-6d54-45d3-a7c8-d204e92358e1.md)
             12. [Heidelpay - Invoice Secured B2C](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0888d297-e9a1-48b9-8e88-607796ddf7e9.md)
             13. [Heidelpay - Workflow for Errors  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7b17736d-b6ae-4099-91ba-ae219c71ff65.md)
             14. SCOS Integration
