@@ -432,85 +432,40 @@
                 1. [Punch Out: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/59018f13-538e-479e-a012-624d347708ab.md)
         5. Sales
             1. [Sales](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f6b449f7-e6c3-4122-9794-f5d038925ba3.md)
-            2. Refunds
-                1. [Refunds: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/926e1478-1286-4230-a141-3ff76b147c32.md)
-            3. Reclamations
-                1. [Managing Reclamations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/90c2b15c-6328-4717-be38-0f2b4f272cf0.md)
-                2. References
-                    1. [Reclamations: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c7b38367-d2d1-4822-bd29-ff2e62561e87.md)
-            4. Orders
+            2. Order Matrix
+                1. [Order Matrix: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/711e7334-9923-4eec-90e1-8997c258bf76.md)
+            3. Orders
                 1. [Managing Orders](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/221c24a6-1875-4132-bb46-1dd78305c374.md)
                 2. [Managing Order Shipments](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a7f0e26d-5b66-4765-ab4d-fbd2172ced9c.md)
                 3. References
                     1. [Orders: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f692b3c8-e99f-4326-9a0c-2aa012fe9b76.md)
-            5. Order Matrix
-                1. [Order Matrix: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/711e7334-9923-4eec-90e1-8997c258bf76.md)
-        6. Customers
-            1. [Customers](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/af14811e-d441-4ddf-a3cd-f8a5376d6b5a.md)
-            2. Customers, Customer Access, Customer Groups
+            4. Reclamations
+                1. [Managing Reclamations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/90c2b15c-6328-4717-be38-0f2b4f272cf0.md)
+                2. References
+                    1. [Reclamations: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c7b38367-d2d1-4822-bd29-ff2e62561e87.md)
+            5. Refunds
+                1. [Refunds: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/926e1478-1286-4230-a141-3ff76b147c32.md)
+        6. Customer
+            1. [Customer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/af14811e-d441-4ddf-a3cd-f8a5376d6b5a.md)
+            2. [Company Account](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cb6c5630-0254-44bc-a6aa-4f76e605fc29.md)
+            3. Customer, Customer Access, Customer Groups
                 1. [Managing Customers](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/244d8bc1-ea4b-45a5-b138-a438088272ed.md)
                 2. [Managing Customer Addresses](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69514f54-dedc-416e-9c1e-7e7d03c33f07.md)
                 3. [Managing Customer Access](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bfde5193-60ce-4e5d-bc84-ecc01e2c70b4.md)
                 4. [Managing Customer Groups](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3f4aba49-9b62-4d44-b28b-27ec538fa3ff.md)
-            3. References
+            4. References
                 1. [Customers: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/800cb9ab-9597-44d5-8310-5b5b8389af07.md)
-        7. Category
-            1. [Category](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a30ba237-1363-4620-81cb-453d37333705.md)
-            2. [Creating Categories](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a0f47343-3fb5-46af-946f-0cd12a0b8a76.md)
-            3. [Assigning Products to Categories](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/97d94036-70ae-4c70-896a-106baf695e30.md)
-            4. [Managing Categories](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/77fb55d3-4790-4238-ad0b-d699b48df41b.md)
-            5. References
-                1. [Category: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4fa44865-d668-42f2-97e7-afbdd7b8129b.md)
-        8. Content Management
-            1. [Content Management System](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/80191d58-a5a2-4d82-ab75-913eb10d83ce.md)
-            2. Slots
-                1. [Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/312ae9ee-5566-4955-af79-5eaa37582d0d.md)
-                2. [Adding Content to Storefront Pages Using Templates & Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/eb573db0-c54a-453b-abd6-5498e7fde23d.md)
-                3. [Managing Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2186f1a6-2af2-4211-be3f-5bc88c7bb064.md)
-                4. References
-                    1. [Slots: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0d66fe1-3d10-41c4-a3c6-e584100d0c58.md)
-            3. Blocks
-                1. [CMS Block](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/43d3aede-4d5e-4d8f-8d90-bbf04203eda0.md)
-                2. [Creating a CMS Block](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ccddd931-b24e-44b8-b814-1ba94ddcaa4b.md)
-                3. [Managing CMS Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/25eec4df-1d51-4421-bfc7-e694d3f793fb.md)
-                4. [Assigning Blocks to Category or Product Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9475b047-6c56-44bd-afc0-4ff5d726c5b2.md)
-                5. References
-                    1. [CMS Block: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/460f564b-c8e2-44d7-83d4-11a7d1ac2463.md)
-            4. Pages
-                1. [CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d3166f59-7658-4b58-9145-f3958946622d.md)
-                2. [Creating a CMS Page](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f605473-0fce-4c1f-b107-9f3ad9d71f81.md)
-                3. [Managing CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c853390a-f0fe-4d23-962c-94e7c4901ccd.md)
-                4. [Editing CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f6183f82-b401-421f-bafb-81c773c11097.md)
-                5. [CMS Pages Versioning](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9c85ee62-f39e-4b07-921b-a5735e6baaab.md)
-                6. References
-                    1. [CMS Pages: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/03c29565-6639-44ba-a191-6bd2bac7e20f.md)
-            5. Redirects
-                1. [Redirects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8026fa24-ae50-4b02-87fb-2801cc377e02.md)
-                2. [Creating CMS Redirects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5f3971e8-7f21-4319-814b-f8ff2e6cb31e.md)
-                3. [Managing CMS Redirects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/04fefe04-7910-4f91-8b73-ea35478e398b.md)
-                4. References
-                    1. [CMS Redirects: References](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8d372df2-146b-4dde-816b-b8daff7e724f.md)
-            6. Content Items
-                1. [Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ef7894d5-46b5-4bd8-b58f-833c1e5480b3.md)
-                2. [Creating Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ee692349-f82c-4570-b390-faedacdde7c6.md)
-                3. [Editing Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4405c705-4043-4049-85d8-81286d7dcc34.md)
-                4. [Adding Content Item Widgets to Pages and Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ad66ebbd-edf5-4fa1-850e-5b2d6d964dd6.md)
-                5. [Editing Content Item Widgets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/00f00dbc-2e3b-4dff-9da5-a9a1b3730765.md)
-                6. References
-                    1. [Content Items: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3b4e1dff-22df-4960-968b-0c4c7f357711.md)
-                    2. [Content Item Widgets types: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0fb5471d-1022-4a17-ab19-ef0285f773f9.md)
-                    3. [Content Item Widgets templates: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/acb409dd-0e11-4d17-9ff9-3c3a6f1ef753.md)
-        9. Glossary
-            1. [Glossary](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1436e1c5-438c-4168-9e21-3f6f8c37ae2e.md)
-            2. [Managing Glossary](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/30de4499-add0-49fe-9351-074804a4943d.md)
-        10. Products
-            1. [Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3404db73-d840-49ca-8ba7-13b8a028c3eb.md)
-            2. [Creating Service Offerings](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1428f917-f2a8-4c8a-9898-4b4641dbaa43.md)
-            3. Availability
-                1. [Managing Products Availability](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b1dc725-99c9-4d05-b332-a9d80fb69db1.md)
-                2. References
-                    1. [Availability: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/90109da8-78ab-4275-b59f-eef5298ba254.md)
-            4. Products
+            5. Managing a Company Account
+                1. [Managing Companies](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/84969c7e-55d6-41f5-ac0c-e38ffc256e40.md)
+                2. [Managing Company Units](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bb09ee9f-b86e-48c7-8ee7-a20116aa99e4.md)
+                3. [Managing Company Unit Addresses](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fe7459f9-7023-4828-be58-49e319036819.md)
+                4. [Managing Company Users](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2bb5e4ba-50ef-4963-937e-1d5c16a61d2d.md)
+                5. [Managing Company Roles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0f7f1c1-ab78-4bd6-bf60-6389e76242b6.md)
+            6. References
+                1. [Company Account: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dc26fc5c-b8c9-48d5-94d8-fa420b9c0668.md)
+        7. Catalog
+            1. [Catalog](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3404db73-d840-49ca-8ba7-13b8a028c3eb.md)
+            2. Products
                 1. [Abstract and Concrete Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a94bbee-0948-4b7e-82e6-a3cde72db03d.md)
                 2. Abstract Products
                     1. [Creating an Abstract Product](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/66f9b5bd-6f86-4e4e-9b48-dbb1acf7f555.md)
@@ -528,87 +483,142 @@
                     1. [Products: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e30712cd-13dd-45a0-9614-0be67dda8c87.md)
                     2. [Abstract Product: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/14a7dda5-dfd5-4c51-8723-806b38c12788.md)
                     3. [Concrete Product: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/43b8815b-6ee1-4ebb-bf5d-b1b50053066b.md)
-            5. Attributes
+            3. Category
+                1. [Category](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a30ba237-1363-4620-81cb-453d37333705.md)
+                2. [Creating Categories](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a0f47343-3fb5-46af-946f-0cd12a0b8a76.md)
+                3. [Assigning Products to Categories](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/97d94036-70ae-4c70-896a-106baf695e30.md)
+                4. [Managing Categories](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/77fb55d3-4790-4238-ad0b-d699b48df41b.md)
+                5. References
+                    1. [Category: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4fa44865-d668-42f2-97e7-afbdd7b8129b.md)
+            4. Attributes
                 1. [Attributes](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1502581d-c63d-4dbe-8bae-4a4c3a324c32.md)
                 2. [Creating a Product Attribute](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/718e283f-71de-4ca7-aada-94d3ac2d852a.md)
                 3. [Managing Attributes](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8541388b-389d-4d93-9b31-68ed355534bb.md)
                 4. References
                     1. [Attributes: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/df294d63-05a4-496b-818c-39550e10dba1.md)
-            6. Product Barcode
-                1. [Product Barcodes](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/979e64e8-8f89-4b97-b882-59db3af7fc8b.md)
-            7. Product Labels
-                1. [Product Labels](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/131ff09e-ce1b-4fff-bd6d-a38f032ec850.md)
-                2. [Creating a Product Label](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6a39cd91-ab8d-4a3c-96fa-c32b199fee6f.md)
-                3. [Managing Product Labels](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d56c48e3-2d39-445f-be04-0068e0d2715b.md)
-                4. [Prioritizing Labels](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a596bc4e-620d-4e0b-b279-3be3fd9e7c88.md)
-                5. References
-                    1. [Product Labels: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/df466fe9-63bc-408c-8125-009e019d4caa.md)
+            5. Availability
+                1. [Managing Products Availability](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b1dc725-99c9-4d05-b332-a9d80fb69db1.md)
+                2. References
+                    1. [Availability: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/90109da8-78ab-4275-b59f-eef5298ba254.md)
+            6. Product Reviews
+                1. [Product Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b930af34-6ecb-49bf-ac51-2a295e1ef98f.md)
+                2. [Managing Product Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bb932bde-d873-45ed-845a-1579ad643314.md)
+            7. Product Options
+                1. [Product Options](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d070abc1-e787-46b3-98f2-da21b7b8a752.md)
+                2. [Creating a Product Option](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9d330e5c-aae8-4a45-96b2-f29de65bc2f1.md)
+                3. [Managing Product Options](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c849eadf-ef4d-4897-b6ac-39e811bb2404.md)
+                4. References
+                    1. [Product Options: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d65ab093-8a97-4aaa-8b8b-a6a2fe72e2d5.md)
             8. Product Lists
                 1. [Product Lists](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/688debe5-7a94-41d2-a42e-20c7cb48903c.md)
                 2. [Creating a Product List](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/49b84373-d339-4be6-b6b9-536a07677131.md)
                 3. [Managing Product Lists](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/563c3b35-fc7e-480b-8e1b-11290577c9af.md)
                 4. References
                     1. [Product Lists: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9e31413a-745c-472c-bd62-4b17007ae722.md)
-            9. Product Options
-                1. [Product Options](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d070abc1-e787-46b3-98f2-da21b7b8a752.md)
-                2. [Creating a Product Option](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9d330e5c-aae8-4a45-96b2-f29de65bc2f1.md)
-                3. [Managing Product Options](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c849eadf-ef4d-4897-b6ac-39e811bb2404.md)
+            9. Product Barcodes
+                1. [Product Barcodes](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/979e64e8-8f89-4b97-b882-59db3af7fc8b.md)
+            10. Scheduled Prices
+                1. [Scheduled Prices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/95450aa4-4166-4c7b-b850-bc37a9d9b404.md)
+                2. [Creating Scheduled Prices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/10d46e8c-c8ad-498c-8023-249711b71f8f.md)
+                3. [Managing Scheduled Prices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/46e8694b-aaf6-4283-a6b0-7f5f52ed1197.md)
                 4. References
-                    1. [Product Options: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d65ab093-8a97-4aaa-8b8b-a6a2fe72e2d5.md)
-            10. Product Relations
+                    1. [Scheduled Prices: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e22f405d-0fe3-4ea8-8a5f-e5cc5402c7da.md)
+        8. Content
+            1. [Content](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/80191d58-a5a2-4d82-ab75-913eb10d83ce.md)
+            2. Content Items
+                1. [Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ef7894d5-46b5-4bd8-b58f-833c1e5480b3.md)
+                2. [Creating Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ee692349-f82c-4570-b390-faedacdde7c6.md)
+                3. [Editing Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4405c705-4043-4049-85d8-81286d7dcc34.md)
+                4. [Adding Content Item Widgets to Pages and Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ad66ebbd-edf5-4fa1-850e-5b2d6d964dd6.md)
+                5. [Editing Content Item Widgets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/00f00dbc-2e3b-4dff-9da5-a9a1b3730765.md)
+                6. References
+                    1. [Content Items: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3b4e1dff-22df-4960-968b-0c4c7f357711.md)
+                    2. [Content Item Widgets types: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0fb5471d-1022-4a17-ab19-ef0285f773f9.md)
+                    3. [Content Item Widgets templates: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/acb409dd-0e11-4d17-9ff9-3c3a6f1ef753.md)
+            3. Blocks
+                1. [CMS Block](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/43d3aede-4d5e-4d8f-8d90-bbf04203eda0.md)
+                2. [Creating a CMS Block](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ccddd931-b24e-44b8-b814-1ba94ddcaa4b.md)
+                3. [Managing CMS Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/25eec4df-1d51-4421-bfc7-e694d3f793fb.md)
+                4. [Assigning Blocks to Category or Product Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9475b047-6c56-44bd-afc0-4ff5d726c5b2.md)
+                5. References
+                    1. [CMS Block: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/460f564b-c8e2-44d7-83d4-11a7d1ac2463.md)
+            4. Pages
+                1. [CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d3166f59-7658-4b58-9145-f3958946622d.md)
+                2. [Creating a CMS Page](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f605473-0fce-4c1f-b107-9f3ad9d71f81.md)
+                3. [Managing CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c853390a-f0fe-4d23-962c-94e7c4901ccd.md)
+                4. [Editing CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f6183f82-b401-421f-bafb-81c773c11097.md)
+                5. [CMS Pages Versioning](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9c85ee62-f39e-4b07-921b-a5735e6baaab.md)
+                6. References
+                    1. [CMS Pages: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/03c29565-6639-44ba-a191-6bd2bac7e20f.md)
+            5. Navigation
+                1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8e7a489d-fc62-424a-b145-1f5cf74a20b8.md)
+                2. [Managing Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/61489c1c-4484-4f90-be01-057af60a0312.md)
+                3. References
+                    1. [Navigation Node Types](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a1a2cca-764d-4451-975c-e0896c2d0210.md)
+            6. Slots
+                1. [Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/312ae9ee-5566-4955-af79-5eaa37582d0d.md)
+                2. [Adding Content to Storefront Pages Using Templates & Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/eb573db0-c54a-453b-abd6-5498e7fde23d.md)
+                3. [Managing Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2186f1a6-2af2-4211-be3f-5bc88c7bb064.md)
+                4. References
+                    1. [Slots: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0d66fe1-3d10-41c4-a3c6-e584100d0c58.md)
+            7. Redirects
+                1. [Redirects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8026fa24-ae50-4b02-87fb-2801cc377e02.md)
+                2. [Creating CMS Redirects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5f3971e8-7f21-4319-814b-f8ff2e6cb31e.md)
+                3. [Managing CMS Redirects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/04fefe04-7910-4f91-8b73-ea35478e398b.md)
+                4. References
+                    1. [CMS Redirects: References](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8d372df2-146b-4dde-816b-b8daff7e724f.md)
+            8. File Manager
+                1. [File Manager](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3ecef1bc-435e-44ab-a0ba-68753fb9b9d1.md)
+                2. [Managing File Tree](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cf64954d-7d20-463a-b4d3-b6eabac90c34.md)
+                3. [Managing File List](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ca78a22-d300-4e29-ada5-50d08d61ba8b.md)
+        9. Merchandising
+            1. Discount
+                1. [Discount](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a65c8995-6c24-492c-a803-ac3ecca408aa.md)
+                2. [Managing Discounts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a2b03a98-db95-4dc0-a2a8-3fc2c2c8f0c5.md)
+                3. Creating a Discount
+                    1. [Creating a Voucher](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bbabd9c6-72b1-462e-9119-037fb86b48de.md)
+                    2. [Creating a Cart Rule](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7be9fdee-9276-4831-b79a-9a42597440b5.md)
+                4. References
+                    1. [Discount: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3635575d-4a68-4b72-a142-8a1dc8c81bb1.md)
+                    2. [Discount Calculation: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aec8800e-aee3-4798-b0ba-93e6df077452.md)
+                    3. [Discount Conditions: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3054db01-edd6-4a2f-9aba-9ac401cb18ff.md)
+                    4. [Voucher Codes: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4f46a5a6-d2a8-4d36-b5ef-ca1bd41464e8.md)
+                    5. [Token Description Tables](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ea6a80d-1042-4168-b200-b5d7be5682f7.md)
+            2. Product Labels
+                1. [Product Labels](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/131ff09e-ce1b-4fff-bd6d-a38f032ec850.md)
+                2. [Creating a Product Label](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6a39cd91-ab8d-4a3c-96fa-c32b199fee6f.md)
+                3. [Managing Product Labels](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d56c48e3-2d39-445f-be04-0068e0d2715b.md)
+                4. [Prioritizing Labels](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a596bc4e-620d-4e0b-b279-3be3fd9e7c88.md)
+                5. References
+                    1. [Product Labels: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/df466fe9-63bc-408c-8125-009e019d4caa.md)
+            3. Product Relations
                 1. [Product Relations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/895cbfac-815a-448f-9419-2e4520aba1e7.md)
                 2. [Creating a Product Relation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4bcf55a0-546d-430f-9707-fd1c29d57150.md)
                 3. [Managing Product Relations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/59d23285-22c6-4441-9f64-78035e3932a3.md)
                 4. References
                     1. [Product Relations: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1d377dda-f91e-4387-8f24-3640b5392e21.md)
-            11. Product Reviews
-                1. [Product Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b930af34-6ecb-49bf-ac51-2a295e1ef98f.md)
-                2. [Managing Product Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bb932bde-d873-45ed-845a-1579ad643314.md)
-            12. Product Sets
+            4. Product Sets
                 1. [Product Sets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9ac6473c-5ab7-4887-8513-4da1be42e3ae.md)
                 2. [Creating a Product Set](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9c83ebbc-ad07-4aa0-b23e-d9f37207d964.md)
                 3. [Managing Product Sets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5cd422ba-931b-4165-bbcd-89db03a488cc.md)
                 4. References
                     1. [Product Sets: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d6abd17a-9937-4d65-b7de-a07871de23f3.md)
-            13. Configurable Bundle Templates
+            5. Configurable Bundle Templates
                 1. [Configurable Bundle Templates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e48dc7fa-5fed-4542-a612-348de5010d72.md)
                 2. [Creating Configurable Bundle Templates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0fa0908e-875c-40af-9720-f30d23873d86.md)
                 3. [Managing Configurable Bundle Templates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3fa9ed2b-7971-445d-83ed-f74292a4bd7c.md)
                 4. References
                     1. [Configurable Bundle Templates: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f8c63686-9b38-44e8-96f4-2788085457b8.md)
-        11. Search and Filters
-            1. [Search and Filters](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f140dfe-5be5-48c1-98cc-16bcfa0d4791.md)
-            2. [Managing Filter Preferences](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/49badead-ebff-42ab-b159-79d536c36a4c.md)
-            3. [Managing Category Filters](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/01f685eb-64e5-4663-9ff3-1517c85ac881.md)
-            4. [Managing Search Preferences](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/412efda2-783e-4876-b617-ee27dd0a7626.md)
-            5. References
-                1. [Search Preferences Types](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d5ba2c2a-0c6e-4cd5-b19c-ea381a12eba9.md)
-                2. [Reference: Search Preferences](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f17ffbec-aab7-4b8b-8db5-202d8a249380.md)
-        12. Discount
-            1. [Discount](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a65c8995-6c24-492c-a803-ac3ecca408aa.md)
-            2. [Managing Discounts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a2b03a98-db95-4dc0-a2a8-3fc2c2c8f0c5.md)
-            3. Creating a Discount
-                1. [Creating a Voucher](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bbabd9c6-72b1-462e-9119-037fb86b48de.md)
-                2. [Creating a Cart Rule](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7be9fdee-9276-4831-b79a-9a42597440b5.md)
-            4. References
-                1. [Discount: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3635575d-4a68-4b72-a142-8a1dc8c81bb1.md)
-                2. [Discount Calculation: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aec8800e-aee3-4798-b0ba-93e6df077452.md)
-                3. [Discount Conditions: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3054db01-edd6-4a2f-9aba-9ac401cb18ff.md)
-                4. [Voucher Codes: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4f46a5a6-d2a8-4d36-b5ef-ca1bd41464e8.md)
-                5. [Token Description Tables](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ea6a80d-1042-4168-b200-b5d7be5682f7.md)
-        13. Navigation
-            1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8e7a489d-fc62-424a-b145-1f5cf74a20b8.md)
-            2. [Managing Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/61489c1c-4484-4f90-be01-057af60a0312.md)
-            3. References
-                1. [Navigation Node Types](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a1a2cca-764d-4451-975c-e0896c2d0210.md)
-        14. Taxes
-            1. [Taxes](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/09f3c698-8819-4087-a1bb-6e046469e1e3.md)
-            2. Tax Rates and Tax Sets
-                1. [Managing Tax Rates and Sets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8e2ab836-79e9-4738-93a7-c92b16b79de4.md)
-                2. References
-                    1. [Taxes: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1fdf18f1-ca07-42df-b181-8232f113b2ab.md)
-        15. Users Control
-            1. [Users Control](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/88c1dd5f-0588-43c1-bf05-ec84d4d39ccc.md)
+            6. Search and Filters
+                1. [Search and Filters](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f140dfe-5be5-48c1-98cc-16bcfa0d4791.md)
+                2. [Managing Filter Preferences](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/49badead-ebff-42ab-b159-79d536c36a4c.md)
+                3. [Managing Category Filters](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/01f685eb-64e5-4663-9ff3-1517c85ac881.md)
+                4. [Managing Search Preferences](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/412efda2-783e-4876-b617-ee27dd0a7626.md)
+                5. References
+                    1. [Search Preferences Types](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d5ba2c2a-0c6e-4cd5-b19c-ea381a12eba9.md)
+                    2. [Reference: Search Preferences](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f17ffbec-aab7-4b8b-8db5-202d8a249380.md)
+        10. Users
+            1. [Users](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/88c1dd5f-0588-43c1-bf05-ec84d4d39ccc.md)
             2. Roles, Groups and Users
                 1. [Managing Roles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f4a79959-905b-4ea6-9f64-efbd3d894092.md)
                 2. [Managing Groups](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a1a8458b-9586-4761-8c18-b82308e75e53.md)
@@ -616,63 +626,54 @@
                 4. References
                     1. [Roles: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/56089189-7aeb-4f21-8413-156c9f1a371f.md)
                     2. [User: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fe6c97b0-e3d7-46ea-9621-1954008a6763.md)
-        16. Company Account
-            1. [Company Account](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cb6c5630-0254-44bc-a6aa-4f76e605fc29.md)
-            2. Managing a Company Account
-                1. [Managing Companies](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/84969c7e-55d6-41f5-ac0c-e38ffc256e40.md)
-                2. [Managing Company Units](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bb09ee9f-b86e-48c7-8ee7-a20116aa99e4.md)
-                3. [Managing Company Unit Addresses](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fe7459f9-7023-4828-be58-49e319036819.md)
-                4. [Managing Company Roles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0f7f1c1-ab78-4bd6-bf60-6389e76242b6.md)
-                5. [Managing Company Users](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2bb5e4ba-50ef-4963-937e-1d5c16a61d2d.md)
-            3. References
-                1. [Company Account: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dc26fc5c-b8c9-48d5-94d8-fa420b9c0668.md)
-        17. Maintenance
+        11. Products
+            1. [Creating Service Offerings](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1428f917-f2a8-4c8a-9898-4b4641dbaa43.md)
+        12. Maintenance
             1. [Maintenance](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/db621e1b-4822-4b5c-a616-111bd3698d06.md)
-        18. File Manager
-            1. [File Manager](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3ecef1bc-435e-44ab-a0ba-68753fb9b9d1.md)
-            2. [Managing File Tree](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cf64954d-7d20-463a-b4d3-b6eabac90c34.md)
-            3. [Managing File List](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ca78a22-d300-4e29-ada5-50d08d61ba8b.md)
-            4. [Managing MIME Type Settings](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ea51cb4f-e006-4055-a62c-9fc955b9c6f4.md)
-        19. Merchants
-            1. [Merchants](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/428a6445-3961-4857-b5fd-fac486682ff7.md)
+        13. Marketplace
+            1. [Marketplace](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/428a6445-3961-4857-b5fd-fac486682ff7.md)
             2. Merchants and Merchant Relations
                 1. [Managing Merchants](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/258477d1-08cb-43c5-b045-08c5f13e88b0.md)
                 2. [Managing Merchant Relations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f8f926ac-a51e-4144-8f5a-0c8e36428c7e.md)
-        20. Thresholds
-            1. [Threshold](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d094f194-9769-45fe-b800-d5f173735acb.md)
-            2. Merchant Relationships
-                1. [Managing Merchant Relationships Thresholds](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aac905b3-b9d7-42ea-b146-60fbc63e2b11.md)
-            3. Global Threshold
-                1. [Managing Global Threshold](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8811380a-016b-4c5e-993c-84cb0097b508.md)
-            4. Threshold Settings
-                1. [Managing Threshold Settings](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/65b87456-b373-44c2-8934-215f8a364099.md)
-            5. References
-                1. [Threshold: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/77337abe-f555-41f8-89e0-eea52b7a0983.md)
-        21. Price
-            1. Scheduled Prices
-                1. [Scheduled Prices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/95450aa4-4166-4c7b-b850-bc37a9d9b404.md)
-                2. [Creating Scheduled Prices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/10d46e8c-c8ad-498c-8023-249711b71f8f.md)
-                3. [Managing Scheduled Prices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/46e8694b-aaf6-4283-a6b0-7f5f52ed1197.md)
-                4. References
-                    1. [Scheduled Prices: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e22f405d-0fe3-4ea8-8a5f-e5cc5402c7da.md)
-        22. Administration
+        14. Administration
             1. [Administration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/acbf86b9-8718-451e-adad-9362e1c8e557.md)
             2. [Stores](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dc93b4c3-d9c0-4a90-af1b-da5624cef112.md)
-            3. Payment Management
-                1. [Managing Payment Methods](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/73a0628f-4ad1-439a-80d9-d2730376d532.md)
-                2. References
-                    1. [Payment Methods: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/44d0f2fd-1637-4979-9774-8c3cec6a9d74.md)
-            4. Shipment
-                1. [Shipment](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/92f1d52c-e3ee-4e27-9b59-64ca44fc0b25.md)
-                2. [Creating a Carrier Company](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b7bba1a3-c1e8-43fe-92be-a347a4a3997b.md)
-                3. [Creating and Managing Delivery Methods](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/611f30cf-44b0-4aae-b72f-7c53344dd605.md)
-                4. References
-                    1. [Delivery Methods: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4ec93e76-d5a3-46fb-9354-355b94c85387.md)
-            5. Warehouses
+            3. Warehouses
                 1. [Creating a Warehouse](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/113f7a9d-02fc-4cab-af5b-51984f51bd33.md)
                 2. [Managing Warehouses](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/62c81dbe-96fd-40fb-8721-cc5768b42102.md)
                 3. References
                     1. [Warehouses: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/33ecb94b-1b7b-45f5-bf36-dcfd9793fc68.md)
+            4. Payment Methods
+                1. [Managing Payment Methods](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/73a0628f-4ad1-439a-80d9-d2730376d532.md)
+                2. References
+                    1. [Payment Methods: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/44d0f2fd-1637-4979-9774-8c3cec6a9d74.md)
+            5. Delivery Methods
+                1. [Delivery Methods](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/92f1d52c-e3ee-4e27-9b59-64ca44fc0b25.md)
+                2. [Creating a Carrier Company](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b7bba1a3-c1e8-43fe-92be-a347a4a3997b.md)
+                3. [Creating and Managing Delivery Methods](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/611f30cf-44b0-4aae-b72f-7c53344dd605.md)
+                4. References
+                    1. [Delivery Methods: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4ec93e76-d5a3-46fb-9354-355b94c85387.md)
+            6. Glossary
+                1. [Glossary](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1436e1c5-438c-4168-9e21-3f6f8c37ae2e.md)
+                2. [Managing Glossary](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/30de4499-add0-49fe-9351-074804a4943d.md)
+            7. Taxes
+                1. [Taxes](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/09f3c698-8819-4087-a1bb-6e046469e1e3.md)
+                2. Tax Rates and Tax Sets
+                    1. [Managing Tax Rates and Sets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8e2ab836-79e9-4738-93a7-c92b16b79de4.md)
+                    2. References
+                        1. [Taxes: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1fdf18f1-ca07-42df-b181-8232f113b2ab.md)
+            8. Thresholds
+                1. [Threshold](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d094f194-9769-45fe-b800-d5f173735acb.md)
+                2. Merchant Relationships
+                    1. [Managing Merchant Relationships Thresholds](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aac905b3-b9d7-42ea-b146-60fbc63e2b11.md)
+                3. Global Threshold
+                    1. [Managing Global Threshold](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8811380a-016b-4c5e-993c-84cb0097b508.md)
+                4. Threshold Settings
+                    1. [Managing Threshold Settings](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/65b87456-b373-44c2-8934-215f8a364099.md)
+                5. References
+                    1. [Threshold: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/77337abe-f555-41f8-89e0-eea52b7a0983.md)
+            9. MIME Type Settings
+                1. [Managing MIME Type Settings](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ea51cb4f-e006-4055-a62c-9fc955b9c6f4.md)
     3. Shop User Guide
         1. [About Shop User Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cac94a6e-79bb-4aa1-b85d-c222d91f2681.md)
         2. [Shop Guide - Approval Process](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9c4b8126-9e50-4e37-a49f-1554f9933ba6.md)
