@@ -775,7 +775,8 @@
     1. [About the Developer Guides](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/df9f7085-ea2f-4405-aa4c-f21a842d3672.md)
     2. [Developer Getting Started Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e74e1446-0ea9-4423-92e2-624551df2b06.md)
     3. [Updating a Spryker-Based Project](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c3a1ad21-5834-4798-9d78-00c0e9373e28.md)
-    4. Installation
+    4. [Code Contribution Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/054a3d36-b67c-4fae-b9dc-c786497e1b9a.md)
+    5. Installation
         1. [About the Installation Guides](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3480d8d0-506c-4b4c-9a60-33993a68f09d.md)
         2. [Composer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e577f346-6ae9-4dda-9bbe-719938f34ba1.md)
         3. [Configuring the Database Server](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fbf8c280-7656-4658-8e4d-3b3ce7348030.md)
@@ -821,7 +822,7 @@
         14. Debugging
             1. [Debugging Setup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/721e3804-7508-4866-a089-9721e394e387.md)
             2. [Debugging Setup for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9bd41e9c-c76b-415b-be51-b94a8cece9e6.md)
-    5. Architecture Guide
+    6. Architecture Guide
         1. [About the Architecture Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cc52e0b2-7387-412a-8052-8a12d1186e6d.md)
         2. [Technology Stack](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3f3ad8af-4f1e-4462-aeb5-98f531f4516e.md)
         3. [Commerce OS and Frontend Apps](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c777120b-6697-4ddd-a35f-2bc686fe61ac.md)
@@ -833,7 +834,7 @@
             2. [Semantic Versioning: Major vs. Minor vs. Patch Release](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8bc04c7d-4c69-45aa-85f2-2c1bd2867783.md)
             3. [Using ~ Composer Constraint for Customized Modules](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/390f4d39-b33a-4b27-b979-6629873cc3ad.md)
             4. [Performance and Scalability](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/580103f8-9cfa-4380-9484-e14235719f8d.md)
-    6. Development Guide
+    7. Development Guide
         1. [About the Development Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cf72a618-a0b3-4443-abcc-c020bd1d5c83.md)
         2. [Session Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/22abd1d7-c227-4a00-93e3-d28cf997edb8.md)
         3. Back-End
