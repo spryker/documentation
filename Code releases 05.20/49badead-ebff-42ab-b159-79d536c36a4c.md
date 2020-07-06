@@ -1,6 +1,6 @@
 This article describes how to manage filter preferences.
 
-To start working with the filter preferences, navigate to the **Search and Filters** > **Filter Preferences** section.
+To start working with the filter preferences, navigate to the **Merchandising** > **Filter Preferences** section.
 ***
 ## Prerequisites
 Make sure that the attribute you are going to create a filter preference for is created and assigned to a product.
