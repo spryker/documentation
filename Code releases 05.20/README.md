@@ -539,8 +539,7 @@
                 1. [CMS Block](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/43d3aede-4d5e-4d8f-8d90-bbf04203eda0.md)
                 2. [Creating a CMS Block](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ccddd931-b24e-44b8-b814-1ba94ddcaa4b.md)
                 3. [Managing CMS Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/25eec4df-1d51-4421-bfc7-e694d3f793fb.md)
-                4. [Assigning Blocks to Category or Product Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9475b047-6c56-44bd-afc0-4ff5d726c5b2.md)
-                5. References
+                4. References
                     1. [CMS Block: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/460f564b-c8e2-44d7-83d4-11a7d1ac2463.md)
             4. Pages
                 1. [CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d3166f59-7658-4b58-9145-f3958946622d.md)
