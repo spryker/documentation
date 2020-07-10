@@ -447,22 +447,23 @@
                 1. [Refunds: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/926e1478-1286-4230-a141-3ff76b147c32.md)
         6. Customer
             1. [Customer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/af14811e-d441-4ddf-a3cd-f8a5376d6b5a.md)
-            2. [Company Account](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cb6c5630-0254-44bc-a6aa-4f76e605fc29.md)
-            3. Customer, Customer Access, Customer Groups
+            2. Customer, Customer Access, Customer Groups
                 1. [Managing Customers](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/244d8bc1-ea4b-45a5-b138-a438088272ed.md)
                 2. [Managing Customer Addresses](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69514f54-dedc-416e-9c1e-7e7d03c33f07.md)
                 3. [Managing Customer Access](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bfde5193-60ce-4e5d-bc84-ecc01e2c70b4.md)
                 4. [Managing Customer Groups](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3f4aba49-9b62-4d44-b28b-27ec538fa3ff.md)
-            4. References
+            3. References
                 1. [Customers: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/800cb9ab-9597-44d5-8310-5b5b8389af07.md)
-            5. Managing a Company Account
-                1. [Managing Companies](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/84969c7e-55d6-41f5-ac0c-e38ffc256e40.md)
-                2. [Managing Company Units](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bb09ee9f-b86e-48c7-8ee7-a20116aa99e4.md)
-                3. [Managing Company Unit Addresses](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fe7459f9-7023-4828-be58-49e319036819.md)
-                4. [Managing Company Users](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2bb5e4ba-50ef-4963-937e-1d5c16a61d2d.md)
-                5. [Managing Company Roles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0f7f1c1-ab78-4bd6-bf60-6389e76242b6.md)
-            6. References
-                1. [Company Account: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dc26fc5c-b8c9-48d5-94d8-fa420b9c0668.md)
+            4. Company Account
+                1. [Company Account](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cb6c5630-0254-44bc-a6aa-4f76e605fc29.md)
+                2. Managing a Company Account
+                    1. [Managing Companies](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/84969c7e-55d6-41f5-ac0c-e38ffc256e40.md)
+                    2. [Managing Company Units](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bb09ee9f-b86e-48c7-8ee7-a20116aa99e4.md)
+                    3. [Managing Company Unit Addresses](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fe7459f9-7023-4828-be58-49e319036819.md)
+                    4. [Managing Company Users](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2bb5e4ba-50ef-4963-937e-1d5c16a61d2d.md)
+                    5. [Managing Company Roles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0f7f1c1-ab78-4bd6-bf60-6389e76242b6.md)
+                3. References
+                    1. [Company Account: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dc26fc5c-b8c9-48d5-94d8-fa420b9c0668.md)
         7. Catalog
             1. [Catalog](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3404db73-d840-49ca-8ba7-13b8a028c3eb.md)
             2. Products
