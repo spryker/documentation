@@ -526,23 +526,24 @@
                     1. [Scheduled Prices: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e22f405d-0fe3-4ea8-8a5f-e5cc5402c7da.md)
         8. Content
             1. [Content](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/80191d58-a5a2-4d82-ab75-913eb10d83ce.md)
-            2. Content Items
+            2. [Adding Content to Storefront Pages Using Templates & Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/eb573db0-c54a-453b-abd6-5498e7fde23d.md)
+            3. Content Items
                 1. [Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ef7894d5-46b5-4bd8-b58f-833c1e5480b3.md)
                 2. [Creating Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ee692349-f82c-4570-b390-faedacdde7c6.md)
                 3. [Editing Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4405c705-4043-4049-85d8-81286d7dcc34.md)
-                4. [Adding Content Item Widgets to Pages and Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ad66ebbd-edf5-4fa1-850e-5b2d6d964dd6.md)
-                5. [Editing Content Item Widgets](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/00f00dbc-2e3b-4dff-9da5-a9a1b3730765.md)
+                4. [Adding Content Items to CMS Pages and Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ad66ebbd-edf5-4fa1-850e-5b2d6d964dd6.md)
+                5. [Editing Content Items in CMS Pages and Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/00f00dbc-2e3b-4dff-9da5-a9a1b3730765.md)
                 6. References
                     1. [Content Items: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3b4e1dff-22df-4960-968b-0c4c7f357711.md)
                     2. [Content Item Widgets types: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0fb5471d-1022-4a17-ab19-ef0285f773f9.md)
                     3. [Content Item Widgets templates: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/acb409dd-0e11-4d17-9ff9-3c3a6f1ef753.md)
-            3. Blocks
+            4. Blocks
                 1. [CMS Block](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/43d3aede-4d5e-4d8f-8d90-bbf04203eda0.md)
                 2. [Creating a CMS Block](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ccddd931-b24e-44b8-b814-1ba94ddcaa4b.md)
                 3. [Managing CMS Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/25eec4df-1d51-4421-bfc7-e694d3f793fb.md)
                 4. References
                     1. [CMS Block: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/460f564b-c8e2-44d7-83d4-11a7d1ac2463.md)
-            4. Pages
+            5. Pages
                 1. [CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d3166f59-7658-4b58-9145-f3958946622d.md)
                 2. [Creating a CMS Page](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f605473-0fce-4c1f-b107-9f3ad9d71f81.md)
                 3. [Managing CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c853390a-f0fe-4d23-962c-94e7c4901ccd.md)
@@ -550,24 +551,23 @@
                 5. [CMS Pages Versioning](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9c85ee62-f39e-4b07-921b-a5735e6baaab.md)
                 6. References
                     1. [CMS Pages: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/03c29565-6639-44ba-a191-6bd2bac7e20f.md)
-            5. Navigation
+            6. Navigation
                 1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8e7a489d-fc62-424a-b145-1f5cf74a20b8.md)
                 2. [Managing Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/61489c1c-4484-4f90-be01-057af60a0312.md)
                 3. References
                     1. [Navigation Node Types](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a1a2cca-764d-4451-975c-e0896c2d0210.md)
-            6. Slots
+            7. Slots
                 1. [Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/312ae9ee-5566-4955-af79-5eaa37582d0d.md)
-                2. [Adding Content to Storefront Pages Using Templates & Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/eb573db0-c54a-453b-abd6-5498e7fde23d.md)
-                3. [Managing Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2186f1a6-2af2-4211-be3f-5bc88c7bb064.md)
-                4. References
+                2. [Managing Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2186f1a6-2af2-4211-be3f-5bc88c7bb064.md)
+                3. References
                     1. [Slots: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0d66fe1-3d10-41c4-a3c6-e584100d0c58.md)
-            7. Redirects
+            8. Redirects
                 1. [Redirects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8026fa24-ae50-4b02-87fb-2801cc377e02.md)
                 2. [Creating CMS Redirects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5f3971e8-7f21-4319-814b-f8ff2e6cb31e.md)
                 3. [Managing CMS Redirects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/04fefe04-7910-4f91-8b73-ea35478e398b.md)
                 4. References
                     1. [CMS Redirects: References](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8d372df2-146b-4dde-816b-b8daff7e724f.md)
-            8. File Manager
+            9. File Manager
                 1. [File Manager](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3ecef1bc-435e-44ab-a0ba-68753fb9b9d1.md)
                 2. [Managing File Tree](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cf64954d-7d20-463a-b4d3-b6eabac90c34.md)
                 3. [Managing File List](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ca78a22-d300-4e29-ada5-50d08d61ba8b.md)
