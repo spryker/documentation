@@ -468,19 +468,20 @@
             1. [Catalog](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3404db73-d840-49ca-8ba7-13b8a028c3eb.md)
             2. Products
                 1. [Abstract and Concrete Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a94bbee-0948-4b7e-82e6-a3cde72db03d.md)
-                2. Abstract Products
+                2. [Creating Service Offerings](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1428f917-f2a8-4c8a-9898-4b4641dbaa43.md)
+                3. Abstract Products
                     1. [Creating an Abstract Product](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/66f9b5bd-6f86-4e4e-9b48-dbb1acf7f555.md)
                     2. [Editing an Abstract Product](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3bbebdf6-a1d1-4c19-9251-4f1b1c2ec875.md)
-                3. Concrete Products
+                4. Concrete Products
                     1. [Creating a Product Variant](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d01e697e-6bd3-448e-911e-c0d2c0d10b99.md)
                     2. [Updating a Product Variant](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f3882798-07ed-4664-b666-064702425a57.md)
-                4. Managing Products
+                5. Managing Products
                     1. [Managing Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e3ff6656-5ca8-470d-9d2a-d1f0018ecb40.md)
                     2. [Discontinuing a Product](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/190c4376-7215-4c72-b8b2-ee052e095b91.md)
                     3. [Creating Product Bundles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7df569ee-3e01-4bfe-a0de-c63bde54e144.md)
                     4. [Adding Product Alternatives](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9c487346-474d-45ac-8741-21f8c782a8d7.md)
                     5. [Adding Volume Prices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/080e6510-22a9-4be6-ad53-e679beb7e209.md)
-                5. References
+                6. References
                     1. [Products: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e30712cd-13dd-45a0-9614-0be67dda8c87.md)
                     2. [Abstract Product: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/14a7dda5-dfd5-4c51-8723-806b38c12788.md)
                     3. [Concrete Product: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/43b8815b-6ee1-4ebb-bf5d-b1b50053066b.md)
@@ -626,16 +627,14 @@
                 4. References
                     1. [Roles: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/56089189-7aeb-4f21-8413-156c9f1a371f.md)
                     2. [User: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fe6c97b0-e3d7-46ea-9621-1954008a6763.md)
-        11. Products
-            1. [Creating Service Offerings](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1428f917-f2a8-4c8a-9898-4b4641dbaa43.md)
-        12. Maintenance
+        11. Maintenance
             1. [Maintenance](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/db621e1b-4822-4b5c-a616-111bd3698d06.md)
-        13. Marketplace
+        12. Marketplace
             1. [Marketplace](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/428a6445-3961-4857-b5fd-fac486682ff7.md)
             2. Merchants and Merchant Relations
                 1. [Managing Merchants](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/258477d1-08cb-43c5-b045-08c5f13e88b0.md)
                 2. [Managing Merchant Relations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f8f926ac-a51e-4144-8f5a-0c8e36428c7e.md)
-        14. Administration
+        13. Administration
             1. [Administration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/acbf86b9-8718-451e-adad-9362e1c8e557.md)
             2. [Stores](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dc93b4c3-d9c0-4a90-af1b-da5624cef112.md)
             3. Warehouses
