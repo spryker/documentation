@@ -892,7 +892,7 @@
                         3. [Flysystem](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/71e80537-5ce5-4cb1-8e2f-02116a7ced12.md)
                         4. [File System](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/de88b552-a9b0-4f8a-ae2b-033194bfb86c.md)
                 5. Data Enrichment
-                    1. [Adding Navigation in Zed](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/138631ac-23d6-4552-90d4-397ba32a3336.md)
+                    1. [Adding Navigation in the Back Office](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/138631ac-23d6-4552-90d4-397ba32a3336.md)
                     2. [Implementing and Using Plugins](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/33c0bce3-561b-4952-80a3-faea530bb103.md)
                     3. [Session Handlers](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6f16122d-100d-4243-a9c0-82ed4a1a475d.md)
                     4. Extending Spryker
