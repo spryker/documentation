@@ -1123,13 +1123,14 @@
                     2. [File details: comment.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1facba35-37d7-420f-a9f2-fdb7a0bd3d91.md)
                     3. [File details: mime_type.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9e8f470c-153e-4792-95db-28889f514520.md)
         7. Guidelines
-            1. [Project Development Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d64d4dec-9d9b-437f-9446-6d3d6fd22876.md)
-            2. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
-            3. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
-            4. [Guidelines for New GDPR Rules](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/79110638-4628-4168-8f71-68f7aa6375b9.md)
-            5. [Performance Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/daba1c6f-cf44-4da3-a2f2-630b862c37b5.md)
-            6. [Testing Concepts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d875c391-99cd-425e-b9c5-97de3abaf9f4.md)
-            7. Coding Guidelines
+            1. [Data Processing Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/06a283c0-6f37-4add-8993-434c6ec8255b.md)
+            2. [Project Development Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d64d4dec-9d9b-437f-9446-6d3d6fd22876.md)
+            3. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
+            4. [Module Configuration Convention](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fdf7ed87-b5c9-4295-84da-a485db767494.md)
+            5. [Guidelines for New GDPR Rules](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/79110638-4628-4168-8f71-68f7aa6375b9.md)
+            6. [Performance Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/daba1c6f-cf44-4da3-a2f2-630b862c37b5.md)
+            7. [Testing Concepts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d875c391-99cd-425e-b9c5-97de3abaf9f4.md)
+            8. Coding Guidelines
                 1. [Code Architecture Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7cc84ab2-eb0c-4944-a600-80b6d7845e72.md)
                 2. [Code Quality](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4bcc176e-771d-4e92-90f3-3466e2d14293.md)
                 3. [Code Style Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a46e301-e584-4e6a-93b9-df557be520b2.md)
