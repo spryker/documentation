@@ -687,10 +687,11 @@
             2. [Shop Guide - Managing Agent Account](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6ae7d37c-7a1f-40e4-ad17-9b800f59bbfe.md)
         10. Shop Guide - Checkout
             1. [Shop Guide - Checkout](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ead39673-f6ad-423f-9783-8783e83fda75.md)
-            2. [Shop Guide - Address Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/65a152a5-e32f-4ff9-a430-e11694225bd0.md)
-            3. [Shop Guide - Shipment Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7990faed-410f-44cc-8720-e91682d81f83.md)
-            4. [Shop Guide - Payment Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6d7c02e8-dd74-4e66-9c35-6fb8e766e7f2.md)
-            5. [Shop Guide - Summary Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8a76f122-f78a-4d21-95e2-0f69220b152f.md)
+            2. [Shop Guide - Login Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e367704a-ab8e-4819-8344-65bed5e19131.md)
+            3. [Shop Guide - Address Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/65a152a5-e32f-4ff9-a430-e11694225bd0.md)
+            4. [Shop Guide - Shipment Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7990faed-410f-44cc-8720-e91682d81f83.md)
+            5. [Shop Guide - Payment Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6d7c02e8-dd74-4e66-9c35-6fb8e766e7f2.md)
+            6. [Shop Guide - Summary Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8a76f122-f78a-4d21-95e2-0f69220b152f.md)
         11. Shop Guide - Comments
             1. [Shop Guide - Comments](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/31b082cd-b2ff-4e6f-b093-4f3745c437dc.md)
             2. [Shop Guide - Managing Comments](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ff46d215-8c0d-4fae-b883-68c06a895d56.md)
