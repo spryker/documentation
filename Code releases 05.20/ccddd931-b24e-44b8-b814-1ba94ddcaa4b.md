@@ -12,10 +12,6 @@ To create a CMS block:
 * Template
 * Name
 * Valid from and Valid to
-* Categories: top
-* Categories: middle
-* Categories: bottom
-* Products
 
 @(Info)()(Templates are project-specific and are usually created by a developer and a business person. If you are missing a CMS Block template, contact them and refer to the [HowTo - Create a CMS Block template](https://documentation.spryker.com/docs/ht-create-cms-templates#adding-a-template-for-a-cms-block).)
 
