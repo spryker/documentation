@@ -777,20 +777,18 @@
     4. [Code Contribution Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/054a3d36-b67c-4fae-b9dc-c786497e1b9a.md)
     5. Installation
         1. [About the Installation Guides](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3480d8d0-506c-4b4c-9a60-33993a68f09d.md)
-        2. [Composer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e577f346-6ae9-4dda-9bbe-719938f34ba1.md)
-        3. [Configuring the Database Server](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fbf8c280-7656-4658-8e4d-3b3ce7348030.md)
-        4. [Installing Spryker with Custom Set of Modules](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f89512ed-170d-4345-afa0-b459c93ac332.md)
-        5. [Supported Browsers](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f2ec786d-d871-4ce8-b490-dca3acd16ff6.md)
+        2. [Post-Installation Steps and Additional Info](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ec0eccc8-ccff-49e6-b271-16bb64087967.md)
+        3. [Composer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e577f346-6ae9-4dda-9bbe-719938f34ba1.md)
+        4. [Configuring the Database Server](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fbf8c280-7656-4658-8e4d-3b3ce7348030.md)
+        5. [Installing Spryker with Custom Set of Modules](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f89512ed-170d-4345-afa0-b459c93ac332.md)
         6. [System Requirements](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5415aefc-891c-49f1-9d64-ad00860e6638.md)
-        7. [Post-Installation Steps and Additional Info](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ec0eccc8-ccff-49e6-b271-16bb64087967.md)
-        8. [Virtual Machine Cleanup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fb20a38d-43fe-4b11-8ecc-e34c6c71f958.md)
-        9. [Redis Configuration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a30db29a-2696-4818-be00-5d1221ff2b77.md)
-        10. [Troubleshooting](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c917b496-0b44-4119-bb83-43d9451e73d5.md)
-        11. Spryker in Docker
+        7. [Redis Configuration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a30db29a-2696-4818-be00-5d1221ff2b77.md)
+        8. [Troubleshooting](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c917b496-0b44-4119-bb83-43d9451e73d5.md)
+        9. Spryker in Docker
             1. [Getting Started with Docker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/75b5467f-e328-433b-ad2f-59438fe58412.md)
             2. [Docker Environment Infrustructure](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4522f09b-3adc-4703-af50-273fd7454939.md)
             3. [Troubleshooting](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d08ec72a-4b81-4cd6-8ae3-fb0c57557c06.md)
-            4. [Debugging Setup in Docker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2da65b72-267d-4d1b-a1b7-c5c4656b86ea.md)
+            4. [Debugger Setup in Docker](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2da65b72-267d-4d1b-a1b7-c5c4656b86ea.md)
             5. Docker SDK
                 1. [Docker SDK](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/47cb7364-6eab-490a-9a90-73b42658e03b.md)
                 2. [Deploy File Reference - 1.0](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/71f6c7e1-d7e8-4233-8f1b-3fd3d06f9e2d.md)
@@ -810,17 +808,17 @@
                 1. [Services](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0e4f58e4-8a89-44e9-96ff-864c483461a0.md)
                 2. [Self-signed SSL Certificate Setup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b3ac051-6265-456c-8218-301c60097f00.md)
                 3. [Additional DevOPS Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0dd3014a-8cd9-46b6-b049-6aba95efd27d.md)
-        12. B2B Demo Shop Installation Guides
-            1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69743fc8-99e0-4006-b88d-b83b4c49001d.md)
-            2. [B2B Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0e297577-c395-4ac9-8372-64d8ad72c9ed.md)
-            3. [B2B Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/39f89608-4b7a-43c9-9cf9-ad9e42ae1411.md)
-        13. B2C Demo Shop Installation Guides
-            1. [B2C Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4f50a9af-f0e6-4a7c-9221-2d895ab42079.md)
-            2. [B2C Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8908e469-b869-4e38-8d5c-3e4a7076c0b8.md)
-            3. [B2C Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0996ed97-acdc-4a89-95df-223c96f4bcd5.md)
-        14. Debugging
-            1. [Debugging Setup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/721e3804-7508-4866-a089-9721e394e387.md)
-            2. [Debugging Setup for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9bd41e9c-c76b-415b-be51-b94a8cece9e6.md)
+        10. Spryker in Vagrant
+            1. [Virtual Machine Cleanup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fb20a38d-43fe-4b11-8ecc-e34c6c71f958.md)
+            2. B2B Demo Shop Installation Guides
+                1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69743fc8-99e0-4006-b88d-b83b4c49001d.md)
+                2. [B2B Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/39f89608-4b7a-43c9-9cf9-ad9e42ae1411.md)
+            3. B2C Demo Shop Installation Guides
+                1. [B2C Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0996ed97-acdc-4a89-95df-223c96f4bcd5.md)
+                2. [B2C Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8908e469-b869-4e38-8d5c-3e4a7076c0b8.md)
+            4. Debugger
+                1. [Debugger Setup in Vagrant](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/721e3804-7508-4866-a089-9721e394e387.md)
+                2. [Debugger Setup in Vagrant for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9bd41e9c-c76b-415b-be51-b94a8cece9e6.md)
     6. Architecture Guide
         1. [About the Architecture Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cc52e0b2-7387-412a-8052-8a12d1186e6d.md)
         2. [Technology Stack](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3f3ad8af-4f1e-4462-aeb5-98f531f4516e.md)
