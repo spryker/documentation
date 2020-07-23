@@ -823,11 +823,10 @@
     6. Architecture Guide
         1. [About the Architecture Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cc52e0b2-7387-412a-8052-8a12d1186e6d.md)
         2. [Technology Stack](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3f3ad8af-4f1e-4462-aeb5-98f531f4516e.md)
-        3. [Commerce OS and Frontend Apps](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c777120b-6697-4ddd-a35f-2bc686fe61ac.md)
-        4. [Conceptual Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/30de0519-bb76-4e73-8d37-c063d0bc4bd4.md)
-        5. [Modularity and Shop Suite](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9ebb0b8b-a3c9-4797-928e-43b5b9bfd3ea.md)
-        6. [Programming Concepts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/56251b67-5700-4539-934f-51b197bfe10c.md)
-        7. Module API
+        3. [Conceptual Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/30de0519-bb76-4e73-8d37-c063d0bc4bd4.md)
+        4. [Modularity and Shop Suite](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9ebb0b8b-a3c9-4797-928e-43b5b9bfd3ea.md)
+        5. [Programming Concepts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/56251b67-5700-4539-934f-51b197bfe10c.md)
+        6. Module API
             1. [Definition of Module API](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/15f2fc9a-73d5-498e-93d7-8a906e08733f.md)
             2. [Semantic Versioning: Major vs. Minor vs. Patch Release](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8bc04c7d-4c69-45aa-85f2-2c1bd2867783.md)
             3. [Using ~ Composer Constraint for Customized Modules](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/390f4d39-b33a-4b27-b979-6629873cc3ad.md)
