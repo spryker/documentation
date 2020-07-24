@@ -145,6 +145,7 @@
             2. [Customer Module Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/119fad7b-c05f-4797-965c-75d3fea94e71.md)
         6. Password Management
             1. [Password Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/edc1d69f-bbce-4abd-94a3-589ca49b874f.md)
+            2. [Password Management Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7e757e97-b24a-419b-925c-2d7ca25f4a46.md)
     8. Cross-sell and Up-sell
         1. [Cross-sell and Up-sell](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7389c4e1-a8a0-4a4a-8cd4-0f9ea95ffa6d.md)
     9. SDK
@@ -814,6 +815,7 @@
             2. B2B Demo Shop Installation Guides
                 1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69743fc8-99e0-4006-b88d-b83b4c49001d.md)
                 2. [B2B Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/39f89608-4b7a-43c9-9cf9-ad9e42ae1411.md)
+                3. [B2B Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b5e4141e-3e0f-413b-8ee3-7ac295539bb9.md)
             3. B2C Demo Shop Installation Guides
                 1. [B2C Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3d5dff19-2bf1-447c-80cd-b1fd78d4404f.md)
                 2. [B2C Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0996ed97-acdc-4a89-95df-223c96f4bcd5.md)
@@ -1121,7 +1123,8 @@
                     1. [Miscellaneous](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/21cd7d59-300f-4c76-9f9a-6ff25fc7cc64.md)
                     2. [File details: comment.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1facba35-37d7-420f-a9f2-fdb7a0bd3d91.md)
                     3. [File details: mime_type.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9e8f470c-153e-4792-95db-28889f514520.md)
-        7. Guidelines
+        7. Data Export
+        8. Guidelines
             1. [Data Processing Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/06a283c0-6f37-4add-8993-434c6ec8255b.md)
             2. [Project Development Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d64d4dec-9d9b-437f-9446-6d3d6fd22876.md)
             3. [Making Your Spryker Shop Secure ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3791f30d-2779-4826-ac1e-43c738c6491b.md)
@@ -1134,7 +1137,7 @@
                 2. [Code Quality](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4bcc176e-771d-4e92-90f3-3466e2d14293.md)
                 3. [Code Style Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a46e301-e584-4e6a-93b9-df557be520b2.md)
                 4. [Secure Coding Practices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2844d203-5dff-457e-bfff-a286a4cd5d4c.md)
-        8. Best Practices
+        9. Best Practices
             1. [Coding Best Practices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/51c42e8e-e71a-42a8-9c1f-b4c187969c4a.md)
             2. Search Best Practices
                 1. [On-Site Search](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b7bc5ba8-995c-454e-a2f9-f78ae22dccb5.md)
