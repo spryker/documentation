@@ -139,11 +139,12 @@
         1. [Customer Relationship Management (CRM)](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c2034e91-3b96-4319-ba9f-cb7ae456de04.md)
         2. [Customer Accounts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/88823f33-da87-45c0-b6c0-b780bafabeb4.md)
         3. [Login & Registration Forms](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/da778eb0-482c-423c-9f03-335aa1bafa43.md)
-        4. [Password Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/edc1d69f-bbce-4abd-94a3-589ca49b874f.md)
-        5. [User and Rights Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a69cd3a2-7ca5-4881-b611-e44ac9ab3b16.md)
-        6. Customer Groups
+        4. [User and Rights Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a69cd3a2-7ca5-4881-b611-e44ac9ab3b16.md)
+        5. Customer Groups
             1. [Customer Groups](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1d3e0530-abaa-4c22-8398-30617e200c53.md)
             2. [Customer Module Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/119fad7b-c05f-4797-965c-75d3fea94e71.md)
+        6. Password Management
+            1. [Password Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/edc1d69f-bbce-4abd-94a3-589ca49b874f.md)
     8. Cross-sell and Up-sell
         1. [Cross-sell and Up-sell](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7389c4e1-a8a0-4a4a-8cd4-0f9ea95ffa6d.md)
     9. SDK
