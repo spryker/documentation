@@ -1,9 +1,43 @@
-All accounts are password protected. Therefore all customers are asked to provide their unique passwords during the registration. As well as each time a customer logs into the store, the email address and password values must be provided.
+The *Password Management* feature enables the basic password security for customer accounts. It allows customers to:
 
-If the customer account is created in the Back Office, a store administrator selects the **Send password token through email** check-box and the new customer receives an email with a link to the page where the password can be changed.
+* Specify the account password when registering. 
+* Change the password in their customer account.
+* Request a password reset email.
 
-![Password protection](https://spryker.s3.eu-central-1.amazonaws.com/docs/Features/Customer+Relationship+Management/Password+Management/password_protection.gif){height="" width=""}
+Also, it allows you to manage customer access, request a password change or even change it on your side.
 
-Also, passwords can easily be restored with a restore-password link.
+## If you are:
 
-![Restore a password](https://spryker.s3.eu-central-1.amazonaws.com/docs/Features/Customer+Relationship+Management/Password+Management/password_restore.gif){height="" width=""}
+<div class="mr-container">
+    <div class="mr-list-container">
+        <!-- col1 -->
+        <div class="mr-col">
+            <ul class="mr-list mr-list-green">
+                <li class="mr-title">Developer</li>
+                <li><a href="https://documentation.spryker.com/docs/
+password-management-feature-overview" class="mr-link">Get a general idea of the Password Management feature</a></li>
+                  <li><a href="https://documentation.spryker.com/docs/customer-account-management-feature-integration" class="mr-link">Integrate the Password Management feature into your project</a></li>
+                <li><a href="https://documentation.spryker.com/docs/managing-customers-api#changing-customer-s-password" class="mr-link">Change a customer’s password via Glue API</a></li>
+                                <li><a href="https://documentation.spryker.com/docs/managing-customers-api#resetting-customer-s-password" class="mr-link">Reset a customer’s password via Glue API</a></li>
+            </ul>
+        </div>
+ <!-- col2 -->
+        <div class="mr-col">
+            <ul class="mr-list mr-list-blue">
+                <li class="mr-title"> Back Office User</li>
+                                <li><a href="https://documentation.spryker.com/docs/
+password-management-feature-overview">Get a general idea of the Password Management feature</a></li>
+                 <li><a href="https://documentation.spryker.com/docs/managing-customers" class="mr-link">Manage customers</a></li>
+            </ul>
+        </div>
+        <!-- col3 -->
+        <div class="mr-col">
+            <ul class="mr-list mr-list-blue">
+                <li class="mr-title"> Shop User</li>
+                 <li><a href="https://documentation.spryker.com/docs/
+password-management-feature-overview">Get a general idea of the Password Management feature</a></li>               
+                <li><a href="https://documentation.spryker.com/docs/shop-guide-customer-profile" class="mr-link">Shop Guide - Customer Profile</a></li>
+            </ul>
+        </div>
+           </div>  
+     </div>
