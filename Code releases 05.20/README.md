@@ -155,14 +155,15 @@
         4. [Cronjob Scheduling](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aaa02977-37c0-4c41-a6e0-1899fede0e14.md)
         5. [Spryk Code Generator](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/449d5c16-0752-46a3-9783-9410f70bb740.md)
         6. [Data Import](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cbead472-a3cc-4f5e-94fc-2a44f4b4124a.md)
-        7. [CSS Class Customization](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7df9572c-6b23-4bf8-8df6-36ecde2ac714.md)
-        8. Development Tools
+        7. [Data Export](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/957e00dc-8861-4f29-847c-de1e89b31656.md)
+        8. [CSS Class Customization](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7df9572c-6b23-4bf8-8df6-36ecde2ac714.md)
+        9. Development Tools
             1. [Development Tools](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/618e1260-8d42-47f7-b71f-3aa710879034.md)
             2. [Code Sniffer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c1a2289b-adce-4f7e-941a-8c7a95145c15.md)
             3. [Architecture Sniffer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7888aa52-c651-4ce5-b6a3-79d19cf7d8ed.md)
             4. [PHPStan](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0831566c-c368-44f1-87bb-b6f1b7c7566a.md)
             5. [Tooling config file](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4062eb40-8a79-4053-834c-f163539f1cca.md)
-        9. Zed API
+        10. Zed API
             1. [Zed API Configuration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3ab7826c-b6b8-4bb9-95dd-ff75f24d110b.md)
             2. [CRUD Functionality - Zed API](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/539982e7-6cc7-4876-95c4-be988f158b83.md)
     10. Gift Cards
@@ -1125,6 +1126,7 @@
                     3. [File details: mime_type.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9e8f470c-153e-4792-95db-28889f514520.md)
         7. Data Export
             1. [Exporting Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b97e760e-9445-4fe6-a799-158a6247f8c4.md)
+            2. [Data Export Orders .csv Files Format](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f95897ec-f411-4f43-a70a-1ae6152b1efd.md)
         8. Guidelines
             1. [Data Processing Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/06a283c0-6f37-4add-8993-434c6ec8255b.md)
             2. [Project Development Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d64d4dec-9d9b-437f-9446-6d3d6fd22876.md)
