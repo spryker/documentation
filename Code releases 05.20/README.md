@@ -1124,6 +1124,7 @@
                     2. [File details: comment.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1facba35-37d7-420f-a9f2-fdb7a0bd3d91.md)
                     3. [File details: mime_type.csv](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9e8f470c-153e-4792-95db-28889f514520.md)
         7. Data Export
+            1. [Exporting Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b97e760e-9445-4fe6-a799-158a6247f8c4.md)
         8. Guidelines
             1. [Data Processing Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/06a283c0-6f37-4add-8993-434c6ec8255b.md)
             2. [Project Development Guidelines](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d64d4dec-9d9b-437f-9446-6d3d6fd22876.md)
