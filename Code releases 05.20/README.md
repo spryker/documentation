@@ -804,7 +804,6 @@
                 3. [Installation Guide - Demo Mode](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fca332e7-6016-41e7-bd22-e380b8949de6.md)
                 4. [Integrating Docker into Existing Projects](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/93586183-8f75-44bc-bd33-85b600412b4e.md)
                 5. [Running Production](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/919beb8f-9c2e-43e9-8f60-696a61dea10a.md)
-                6. [Getting Started with Docker Old](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/49b05ed8-2433-4bf0-90af-34b1f41423bd.md)
             8. Configuration
                 1. [Services](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0e4f58e4-8a89-44e9-96ff-864c483461a0.md)
                 2. [Self-signed SSL Certificate Setup](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b3ac051-6265-456c-8218-301c60097f00.md)
@@ -815,8 +814,9 @@
                 1. [B2B Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/69743fc8-99e0-4006-b88d-b83b4c49001d.md)
                 2. [B2B Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/39f89608-4b7a-43c9-9cf9-ad9e42ae1411.md)
             3. B2C Demo Shop Installation Guides
-                1. [B2C Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0996ed97-acdc-4a89-95df-223c96f4bcd5.md)
-                2. [B2C Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8908e469-b869-4e38-8d5c-3e4a7076c0b8.md)
+                1. [B2C Demo Shop Installation: Mac OS or Linux, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3d5dff19-2bf1-447c-80cd-b1fd78d4404f.md)
+                2. [B2C Demo Shop Installation: Without Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0996ed97-acdc-4a89-95df-223c96f4bcd5.md)
+                3. [B2C Demo Shop Installation: Windows, with Development Virtual Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8908e469-b869-4e38-8d5c-3e4a7076c0b8.md)
             4. Debugger
                 1. [Debugger Setup in Vagrant](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/721e3804-7508-4866-a089-9721e394e387.md)
                 2. [Debugger Setup in Vagrant for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9bd41e9c-c76b-415b-be51-b94a8cece9e6.md)
