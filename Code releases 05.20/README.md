@@ -1140,6 +1140,7 @@
                 2. [Code Quality](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4bcc176e-771d-4e92-90f3-3466e2d14293.md)
                 3. [Code Style Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a46e301-e584-4e6a-93b9-df557be520b2.md)
                 4. [Secure Coding Practices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2844d203-5dff-457e-bfff-a286a4cd5d4c.md)
+            9. Testing concepts
         9. Best Practices
             1. [Coding Best Practices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/51c42e8e-e71a-42a8-9c1f-b4c187969c4a.md)
             2. Search Best Practices
