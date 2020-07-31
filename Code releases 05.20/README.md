@@ -226,7 +226,8 @@
         6. [URL](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8af947ab-4639-4960-96fc-ce8272d24c53.md)
         7. [Offer Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a70dbffd-edb5-42f7-917b-6884399aadf3.md)
         8. Order Cancellation
-            1. [Order Cancellation Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/751e653f-3086-451a-b099-a3b33ecd65b4.md)
+            1. [Order Cancellation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ae2e2339-620b-4819-a844-12c4ca91837c.md)
+            2. [Order Cancellation Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/751e653f-3086-451a-b099-a3b33ecd65b4.md)
         9. Splittable Order Items
             1. [Splittable Order Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/417255e8-7372-4d5d-8526-130a38e392d4.md)
             2. [Splittable Order Items Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/77ef463f-7d37-427d-88e0-c84fe6941e26.md)
