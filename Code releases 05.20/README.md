@@ -690,31 +690,28 @@
         7. [Shop Guide - Managing Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/431d485b-b207-43e7-af59-929be2b5dd9d.md)
         8. [Shop Guide - Quick Order](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/83272228-96a8-4c9c-a611-923ee33766d9.md)
         9. [Shop Guide - Searching within CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ce6e7eca-c23c-4eed-bb72-057e0539d389.md)
-        10. Shop Guide - Returns Management
-            1. [Shop Guide - Creating a Return](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2912886c-7abc-48df-a373-85c7c946ed20.md)
-            2. [Shop Guide - Printing a Return Slip](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f453ab9-9f84-43d4-b84d-1f23d25c9853.md)
-        11. Shop Guide - Agent Account
+        10. Shop Guide - Agent Account
             1. [Shop Guide - Agent Account](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/22f2d0ca-b0aa-42e4-b27e-d9659a8606b0.md)
             2. [Shop Guide - Managing Agent Account](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6ae7d37c-7a1f-40e4-ad17-9b800f59bbfe.md)
-        12. Shop Guide - Checkout
+        11. Shop Guide - Checkout
             1. [Shop Guide - Checkout](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ead39673-f6ad-423f-9783-8783e83fda75.md)
             2. [Shop Guide - Login Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e367704a-ab8e-4819-8344-65bed5e19131.md)
             3. [Shop Guide - Address Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/65a152a5-e32f-4ff9-a430-e11694225bd0.md)
             4. [Shop Guide - Shipment Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7990faed-410f-44cc-8720-e91682d81f83.md)
             5. [Shop Guide - Payment Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6d7c02e8-dd74-4e66-9c35-6fb8e766e7f2.md)
             6. [Shop Guide - Summary Step](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8a76f122-f78a-4d21-95e2-0f69220b152f.md)
-        13. Shop Guide - Comments
+        12. Shop Guide - Comments
             1. [Shop Guide - Comments](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/31b082cd-b2ff-4e6f-b093-4f3745c437dc.md)
             2. [Shop Guide - Managing Comments](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ff46d215-8c0d-4fae-b883-68c06a895d56.md)
-        14. Shop Guide - Company Roles
+        13. Shop Guide - Company Roles
             1. [Shop Guide - Creating a New Company Role](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d717777d-b2cc-48a0-82f4-ee8a66ab2b9b.md)
             2. [Shop Guide - Managing Company Roles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6ed0a682-0f29-447e-a813-9b8fb824844d.md)
             3. References 
                 1. [Company Roles: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1e596019-73ed-47c7-8a5d-50ad8043db0b.md)
-        15. Shop Guide - Configurator
+        14. Shop Guide - Configurator
             1. [Shop Guide - Configurator](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bfe228e1-b80e-4b58-9fa5-7e43a2629928.md)
             2. [Shop Guide - Managing Configurable Bundles](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/67cfb6eb-de98-4f28-aec6-c3b080670fad.md)
-        16. Shop Guide - Customer Account
+        15. Shop Guide - Customer Account
             1. [Shop Guide - Customer Account Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f6eb3a83-134c-4397-ad7e-0a75c975cc39.md)
             2. [Shop Guide - Customer Profile](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/52b5fa02-cab2-4fca-8708-e2044e86f418.md)
             3. [Shop Guide - Customer Addresses](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e6d211cd-e665-4c47-a652-0914a4d407e2.md)
@@ -722,21 +719,25 @@
             5. [Shop Guide - Newsletter](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a86667b8-6c4b-4de8-acd4-8e9432d9af42.md)
             6. [Shop Guide - Wishlists](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c2bb243c-bdd6-48dd-96df-15e2bf91779d.md)
             7. [Shop Guide - Shopping Lists](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/db6f52aa-4503-4340-906e-bfee40f69fa8.md)
-            8. Shop Guide - Shopping Carts
+            8. Shop Guide - Returns Management
+                1. [Shop Guide - Creating a Return](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2912886c-7abc-48df-a373-85c7c946ed20.md)
+                2. [Shop Guide - Printing a Return Slip](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f453ab9-9f84-43d4-b84d-1f23d25c9853.md)
+            9. Shop Guide - Shopping Carts
                 1. [Shopping Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4b49609c-ce11-4698-92ac-158c304dce5c.md)
                 2. [Shop Guide - Creating a Shopping Cart](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ae99abba-ee78-4218-af03-531803787d3a.md)
                 3. [Shop Guide - Managing Multiple Shopping Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/efa68d41-79a9-4274-88ab-4f360342bb3e.md)
                 4. [Shop Guide - Managing a Shopping Cart](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/964ec032-2a62-446f-93d4-ee77247d597f.md)
-            9. Shop Guide -  Quote Requests
+            10. Shop Guide -  Quote Requests
                 1. [Shop Guide - Request for Quote](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/57620107-9550-4001-9b81-aa44ab6b63bf.md)
                 2. [Shop Guide - Creating a Request for Quote](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c8d0fdd6-1640-41c7-b618-c7918434497a.md)
                 3. [Shop Guide - Managing Requests for Quotes for a Buyer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c70d37b0-fcfa-41bf-b7a2-f945e194f0a1.md)
                 4. [Shop Guide - Managing Requests for Quotes for a Sales Representative](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8adce809-98b4-44e8-bdda-6201a3940942.md)
-            10. References
+            11. References
                 1. [Addresses: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f8e811a8-3bf9-4541-8be1-0b59d1c9af76.md)
                 2. [Order History: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b98b87fc-ed6d-45f2-881d-1d1ee89b8b58.md)
-                3. [Shopping Carts: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1c873945-2fc7-42de-8be3-434411ca2654.md)
-                4. [Request for Quote: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/650264cc-3888-4dd3-9ef9-78decd7fcd24.md)
+                3. [Return Details: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/590c4b7e-f4e9-4568-ae0b-fffb0ba1a97f.md)
+                4. [Shopping Carts: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1c873945-2fc7-42de-8be3-434411ca2654.md)
+                5. [Request for Quote: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/650264cc-3888-4dd3-9ef9-78decd7fcd24.md)
 4. Glue API Guides
     1. [Glue REST API](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/99a9f086-004b-4881-af70-e00f008363df.md)
     2. [REST API Reference](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/59a0fb96-4694-4cb4-885e-a18b0fdab225.md)
