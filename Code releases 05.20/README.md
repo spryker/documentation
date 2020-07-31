@@ -439,18 +439,21 @@
                 1. [Punch Out: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/59018f13-538e-479e-a012-624d347708ab.md)
         5. Sales
             1. [Sales](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f6b449f7-e6c3-4122-9794-f5d038925ba3.md)
-            2. Order Matrix
+            2. Returns
+                1. References
+                    1. [Returns: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/984cf6f9-27d0-46ea-a1f6-48265bdbe57b.md)
+            3. Order Matrix
                 1. [Order Matrix: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/711e7334-9923-4eec-90e1-8997c258bf76.md)
-            3. Orders
+            4. Orders
                 1. [Managing Orders](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/221c24a6-1875-4132-bb46-1dd78305c374.md)
                 2. [Managing Order Shipments](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a7f0e26d-5b66-4765-ab4d-fbd2172ced9c.md)
                 3. References
                     1. [Orders: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f692b3c8-e99f-4326-9a0c-2aa012fe9b76.md)
-            4. Reclamations
+            5. Reclamations
                 1. [Managing Reclamations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/90c2b15c-6328-4717-be38-0f2b4f272cf0.md)
                 2. References
                     1. [Reclamations: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c7b38367-d2d1-4822-bd29-ff2e62561e87.md)
-            5. Refunds
+            6. Refunds
                 1. [Refunds: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/926e1478-1286-4230-a141-3ff76b147c32.md)
         6. Customer
             1. [Customer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/af14811e-d441-4ddf-a3cd-f8a5376d6b5a.md)
