@@ -691,7 +691,8 @@
         8. [Shop Guide - Quick Order](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/83272228-96a8-4c9c-a611-923ee33766d9.md)
         9. [Shop Guide - Searching within CMS Pages](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ce6e7eca-c23c-4eed-bb72-057e0539d389.md)
         10. Shop Guide - Returns Management
-            1. [Shop Guide - Printing a Return Slip](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f453ab9-9f84-43d4-b84d-1f23d25c9853.md)
+            1. [Shop Guide - Creating a Return](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2912886c-7abc-48df-a373-85c7c946ed20.md)
+            2. [Shop Guide - Printing a Return Slip](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f453ab9-9f84-43d4-b84d-1f23d25c9853.md)
         11. Shop Guide - Agent Account
             1. [Shop Guide - Agent Account](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/22f2d0ca-b0aa-42e4-b27e-d9659a8606b0.md)
             2. [Shop Guide - Managing Agent Account](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6ae7d37c-7a1f-40e4-ad17-9b800f59bbfe.md)
