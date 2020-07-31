@@ -537,7 +537,7 @@
 4. Developer Guides
     1. [About the Developer Guides](https://github.com/spryker/documentation/blob/master/201811.0/ca0f8946-b496-4e04-b7b5-de498f93ea45.md)
     2. Installation
-        1. [About the Installation Guides](https://github.com/spryker/documentation/blob/master/201811.0/ba72f4a0-e398-432d-a852-b8b3ef9e96c3.md)
+        1. [About Installation](https://github.com/spryker/documentation/blob/master/201811.0/ba72f4a0-e398-432d-a852-b8b3ef9e96c3.md)
         2. [Developer Getting Started Guide](https://github.com/spryker/documentation/blob/master/201811.0/7fe8d7ff-1a31-46e9-a99d-74a4d8e98e0a.md)
         3. [System Requirements](https://github.com/spryker/documentation/blob/master/201811.0/d4e8f992-d704-48ab-a3b8-33c4ef6b5b94.md)
         4. [Composer](https://github.com/spryker/documentation/blob/master/201811.0/f706e383-ae40-443c-9a50-64dd344bfe20.md)
@@ -668,7 +668,7 @@
                         1. [Queue](https://github.com/spryker/documentation/blob/master/201811.0/77232c08-46e6-48b6-91d6-07a8109acc58.md)
                         2. [Queue Pool](https://github.com/spryker/documentation/blob/master/201811.0/87e182d0-541d-4b95-b63e-8cc33abf6786.md)
                 7. Data Interaction
-                    1. [Transfering Data Between Yves and Zed](https://github.com/spryker/documentation/blob/master/201811.0/5d8f05fb-be18-4ded-973b-e4ac7ca0a12e.md)
+                    1. [Tutorial - Transfering Data Between Yves and Zed](https://github.com/spryker/documentation/blob/master/201811.0/5d8f05fb-be18-4ded-973b-e4ac7ca0a12e.md)
                     2. [Defining the Module Dependencies: Dependency Provider ](https://github.com/spryker/documentation/blob/master/201811.0/e66581a0-e816-45ac-85fd-290b39d4d2b8.md)
                     3. Search
                         1. [Configuring Elasticsearch](https://github.com/spryker/documentation/blob/master/201811.0/f94dd0c4-133a-48cb-af86-359ba9ac9ac6.md)
@@ -687,19 +687,19 @@
                 9. Payment Methods
                     1. [Implementing a New Dummy Payment Method](https://github.com/spryker/documentation/blob/master/201811.0/9ef340bf-6ffe-4fa2-ad1f-8caf64c8e962.md)
                     2. Direct Debit Example Implementation
-                        1. [Implementing Direct Debit Payment](https://github.com/spryker/documentation/blob/master/201811.0/4b320192-5e44-4e1d-bc4c-1b71887be330.md)
-                        2. [Implementation of Direct Debit in Yves](https://github.com/spryker/documentation/blob/master/201811.0/69c6a0f4-85ff-4807-b10c-f4c60862ddeb.md)
-                        3. [Integrate Direct Debit into Checkout](https://github.com/spryker/documentation/blob/master/201811.0/7a3219de-c48f-4fd0-98fa-88e0283a0d09.md)
+                        1. [HowTo - Implement Direct Debit Payment](https://github.com/spryker/documentation/blob/master/201811.0/4b320192-5e44-4e1d-bc4c-1b71887be330.md)
+                        2. [HowTo - Implement the Direct Debit in Front-end ](https://github.com/spryker/documentation/blob/master/201811.0/69c6a0f4-85ff-4807-b10c-f4c60862ddeb.md)
+                        3. [HowTo - Integrate the Direct Debit into Checkout](https://github.com/spryker/documentation/blob/master/201811.0/7a3219de-c48f-4fd0-98fa-88e0283a0d09.md)
                         4. [Implementation of Direct Debit in Zed](https://github.com/spryker/documentation/blob/master/201811.0/d65d6ffb-79ea-470f-9bf2-e0a1b78a9703.md)
-                        5. [Implementation of Direct Debit in the Shared Layer](https://github.com/spryker/documentation/blob/master/201811.0/51daae8c-d1ce-4f07-8fd3-a4080be271dc.md)
-                        6. [Testing Your Direct Debit Implementation](https://github.com/spryker/documentation/blob/master/201811.0/273bb625-c9a9-4e61-a7b5-355f427ee539.md)
+                        5. [HowTo - Implement the Direct Debit in Shared Layer](https://github.com/spryker/documentation/blob/master/201811.0/51daae8c-d1ce-4f07-8fd3-a4080be271dc.md)
+                        6. [HowTo - Test the Direct Debit Implementation](https://github.com/spryker/documentation/blob/master/201811.0/273bb625-c9a9-4e61-a7b5-355f427ee539.md)
                     3. Invoice 
                         1. [Implementing Invoice Payment](https://github.com/spryker/documentation/blob/master/201811.0/9e614940-891e-45b2-9449-1d00b2e71921.md)
                         2. [Implementing Invoice Payment in Front End](https://github.com/spryker/documentation/blob/master/201811.0/7566ad17-f408-4440-b310-cddf6ee92a79.md)
                         3. [Integrating Invoice Payment into Checkout](https://github.com/spryker/documentation/blob/master/201811.0/8ad67ccb-7a28-4dbd-99ba-bf9b6dca72e4.md)
                         4. [Implementing Invoice Payment in Back End](https://github.com/spryker/documentation/blob/master/201811.0/89891900-a5b3-4747-acb5-439f06659291.md)
                         5. [Implementing Invoice Payment in Shared Layer](https://github.com/spryker/documentation/blob/master/201811.0/ce399dde-cdfc-4619-86a0-0734d3384cb4.md)
-                        6. [Testing the Invoice Payment Implementation](https://github.com/spryker/documentation/blob/master/201811.0/13adc3dc-0763-426f-8a97-11fb82e91372.md)
+                        6. [HowTo - Test the Invoice Payment Implementation](https://github.com/spryker/documentation/blob/master/201811.0/13adc3dc-0763-426f-8a97-11fb82e91372.md)
                     4. Prepayment
                         1. [Implementing Prepayment](https://github.com/spryker/documentation/blob/master/201811.0/6ed2a503-0116-4400-b6b1-1868b5e1b342.md)
                         2. [Implement Prepayment in Front End](https://github.com/spryker/documentation/blob/master/201811.0/5e14d108-d55e-44a1-9801-70300a53c9a4.md)
@@ -715,9 +715,9 @@
                     2. [Tutorial - Customize Spryker Frontend](https://github.com/spryker/documentation/blob/master/201811.0/226a74a2-f358-4403-a169-f6b4817b3983.md)
                     3. [Integrating JQuery into Atomic Frontend](https://github.com/spryker/documentation/blob/master/201811.0/8951753d-7e17-407c-9b71-d8aac4d19a16.md)
                     4. Managing the Components
-                        1. [Creating a Component](https://github.com/spryker/documentation/blob/master/201811.0/bdf4eb54-2744-48b0-8de5-5eb13acbd0b5.md)
-                        2. [Using a Component](https://github.com/spryker/documentation/blob/master/201811.0/0383b979-5454-4b30-b51c-4cd351e4335a.md)
-                        3. [Extending a Component](https://github.com/spryker/documentation/blob/master/201811.0/410c6b4c-c3ed-4988-98f0-c774050607f2.md)
+                        1. [Tutorial - Frontend - Create a Component](https://github.com/spryker/documentation/blob/master/201811.0/bdf4eb54-2744-48b0-8de5-5eb13acbd0b5.md)
+                        2. [Tutorial - Frontend - Use a Component](https://github.com/spryker/documentation/blob/master/201811.0/0383b979-5454-4b30-b51c-4cd351e4335a.md)
+                        3. [Tutorial - Frontend - Extend a Component](https://github.com/spryker/documentation/blob/master/201811.0/410c6b4c-c3ed-4988-98f0-c774050607f2.md)
                         4. [Overriding a Component](https://github.com/spryker/documentation/blob/master/201811.0/8d3077ca-2996-49d2-8462-0dd56097fdf9.md)
             2. Zed
                 1. [Oryx Builder Overview and Setup](https://github.com/spryker/documentation/blob/master/201811.0/6e829edb-07a8-448b-a6fa-721c26a710e2.md)
@@ -863,7 +863,7 @@
         1. [Billie](https://github.com/spryker/documentation/blob/master/201811.0/9fb3e50f-7d04-4036-8371-7b2e33affbfe.md)
         2. [Powerpay](https://github.com/spryker/documentation/blob/master/201811.0/3193e936-956a-4dfc-ad50-c7ae3033233d.md)
         3. Adyen
-            1. [Adyen](https://github.com/spryker/documentation/blob/master/201811.0/b95776d7-0906-4299-bdaf-7fab25b0ddde.md)
+            1. [Payment Integration - Adyen](https://github.com/spryker/documentation/blob/master/201811.0/b95776d7-0906-4299-bdaf-7fab25b0ddde.md)
             2. [Adyen - Installation and Configuration](https://github.com/spryker/documentation/blob/master/201811.0/ff6765b6-058f-44a6-85d0-9d1270b7910d.md)
             3. [Adyen - Filtering Payment Methods](https://github.com/spryker/documentation/blob/master/201811.0/aa8afe2d-898d-4f41-b605-ee6136561f88.md)
             4. [Adyen - Integration](https://github.com/spryker/documentation/blob/master/201811.0/7001977b-8419-49bb-9a0e-e04d6567271a.md)
