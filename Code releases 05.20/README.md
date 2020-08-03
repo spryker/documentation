@@ -443,6 +443,7 @@
                 1. [Managing Returns](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b6d7196b-c370-4168-8d59-0a73228ba91c.md)
                 2. References
                     1. [Returns: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/984cf6f9-27d0-46ea-a1f6-48265bdbe57b.md)
+                    2. [Return Item States: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f994f1c2-87dd-4ef2-b82c-10f638fc515c.md)
             3. Order Matrix
                 1. [Order Matrix: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/711e7334-9923-4eec-90e1-8997c258bf76.md)
             4. Orders
