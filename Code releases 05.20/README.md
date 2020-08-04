@@ -568,7 +568,7 @@
                     1. [CMS Pages: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/03c29565-6639-44ba-a191-6bd2bac7e20f.md)
             6. Navigation
                 1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8e7a489d-fc62-424a-b145-1f5cf74a20b8.md)
-                2. [Managing Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/61489c1c-4484-4f90-be01-057af60a0312.md)
+                2. [Managing Navigation Elements](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/61489c1c-4484-4f90-be01-057af60a0312.md)
                 3. References
                     1. [Navigation Node Types](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a1a2cca-764d-4451-975c-e0896c2d0210.md)
             7. Slots
