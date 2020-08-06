@@ -106,8 +106,6 @@
             1. [Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3bdaab44-8d4b-4c78-bd4d-5e08887071c4.md)
             2. [Content Items Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/65048009-2690-45b0-867b-7d41caa500ef.md)
             3. [Content Item Types: Module Relations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5798f27e-2d26-48d3-af19-04465e75eb8e.md)
-        10. Navigation
-            1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d5408bdd-c501-4cf9-aa92-ffe32284c79f.md)
     6. Company Account Management
         1. [Company Account Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/35a321f0-8bcc-493a-bed1-bc269572a830.md)
         2. Agent Assist
@@ -219,6 +217,8 @@
         1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/307650e6-3e5e-4af9-8ba9-9643fab4ecf8.md)
         2. [Hierarchical Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7e2dc823-46fb-4077-a2eb-1a308d1ebde4.md)
         3. [Navigation Module](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b364090a-6042-4b3b-b76a-059be3284b46.md)
+        4. Navigation
+            1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d5408bdd-c501-4cf9-aa92-ffe32284c79f.md)
     17. Order Management
         1. [Order Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/935f9583-8619-488c-92af-1df5f36519f2.md)
         2. [Sales](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7985e95a-f58b-4c1a-af9b-86cfaee4617d.md)
