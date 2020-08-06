@@ -106,6 +106,8 @@
             1. [Content Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3bdaab44-8d4b-4c78-bd4d-5e08887071c4.md)
             2. [Content Items Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/65048009-2690-45b0-867b-7d41caa500ef.md)
             3. [Content Item Types: Module Relations](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5798f27e-2d26-48d3-af19-04465e75eb8e.md)
+        10. Navigation
+            1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d5408bdd-c501-4cf9-aa92-ffe32284c79f.md)
     6. Company Account Management
         1. [Company Account Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/35a321f0-8bcc-493a-bed1-bc269572a830.md)
         2. Agent Assist
@@ -570,7 +572,7 @@
                 1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8e7a489d-fc62-424a-b145-1f5cf74a20b8.md)
                 2. [Managing Navigation Elements](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/61489c1c-4484-4f90-be01-057af60a0312.md)
                 3. References
-                    1. [Navigation Node Types](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a1a2cca-764d-4451-975c-e0896c2d0210.md)
+                    1. [Navigation: Reference Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6f2ccc34-b591-4a73-a081-110fd5530ad6.md)
             7. Slots
                 1. [Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/312ae9ee-5566-4955-af79-5eaa37582d0d.md)
                 2. [Managing Slots](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2186f1a6-2af2-4211-be3f-5bc88c7bb064.md)
@@ -898,10 +900,8 @@
                     2. [Adding Indexes to Foreign Key Columns: Index Generator](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f85c4c5c-3370-4ee7-a164-656309e62a52.md)
             5. Data Manipulation
                 1. [Configuration Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/41d124cc-de09-4114-84df-dfc33af220d8.md)
-                2. [Running and Reverting a Database Migration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2942e07b-e044-4f6a-8a1d-2db99ef2fa48.md)
-                3. Order Management System
-                    1. [Creating an Order Management System - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7368e990-ecaa-45e9-b7e6-84032ac1f616.md)
-                    2. [Creating an Order Management System - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0bcb5450-378b-4de9-a5f1-6696d4e434eb.md)
+                2. [Creating an Order Management System - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7368e990-ecaa-45e9-b7e6-84032ac1f616.md)
+                3. [Running and Reverting a Database Migration](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2942e07b-e044-4f6a-8a1d-2db99ef2fa48.md)
                 4. Data Ingestion
                     1. [Spryker Middleware](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cc6aaccf-32c7-48b2-b3d4-100891d75db5.md)
                     2. Structural Preparations
@@ -1299,14 +1299,10 @@
             3. [Billpay - Integration   ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e7f0f510-4f41-4a7e-951c-25024bebcf79.md)
         8. Braintree
             1. [Braintree](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/09dd4f68-46a8-4524-91ef-5bb906a2d3d3.md)
-            2. Legacy Demoshop Integration
-                1. [Braintree - Configuration for the Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8a933f63-7d2a-4178-a01d-03566c5d010b.md)
-                2. [Braintree - Performing Requests for the Legacy Demoshop  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/414e8315-7dfc-4f0c-b87b-654e528b4d3d.md)
-                3. [Braintree - Workflow for Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3442af3a-2973-40c9-8bc8-53757d9bd9e5.md)
-            3. SCOS Integration
-                1. [Braintree - Configuration for SCOS ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e7838a29-b3fa-4780-a1bd-ef31cfcc0cd6.md)
-                2. [Braintree - Performing Requests for SCOS ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/90009c74-d477-4516-82d0-9d78ab328ba3.md)
-                3. [Braintree - Workflow for SCOS ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/de1d1ff6-f069-46b6-b6ec-92779cfb46a5.md)
+            2. Integration
+                1. [Braintree - Configuration ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e7838a29-b3fa-4780-a1bd-ef31cfcc0cd6.md)
+                2. [Braintree - Performing Requests](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/90009c74-d477-4516-82d0-9d78ab328ba3.md)
+                3. [Braintree - Workflow ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/de1d1ff6-f069-46b6-b6ec-92779cfb46a5.md)
         9. BS Payone
             1. [BS Payone](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d52a4f20-f706-44ed-973b-738d7eca17ee.md)
             2. Legacy Demoshop Integration
@@ -1354,18 +1350,17 @@
         12. Heidelpay
             1. [Heidelpay](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e600bc5f-1777-4d33-96d1-0c5877aea1d4.md)
             2. [Heidelpay - Installation  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/67bcd483-2e01-4784-8db0-7971fb288eec.md)
-            3. [Heidelpay - Integration into the Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9103dac4-cc38-4f17-9fa4-70fd1a70a2ce.md)
-            4. [Heidelpay - Paypal Authorize  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cca1472a-1775-4b02-9545-454b3e1326a8.md)
-            5. [Heidelpay - Credit Card Secure](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/462d69ef-ef32-44ac-968f-6e9b0ef40db5.md)
-            6. [Heidelpay - Split-payment Marketplace](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a9903cbd-4eca-4432-8af0-291a2afa5ec3.md)
-            7. [Heidelpay - Direct Debit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4a6911b7-99b8-45e1-a1ff-624714f73822.md)
-            8. [Heidelpay - Easy Credit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ff6398ff-8a51-46e6-8fa0-4dd78784a5f9.md)
-            9. [Heidelpay - Paypal Debit Workflow](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0d830bf2-3f62-4fa6-9dc7-a4f954cb832f.md)
-            10. [Heidelpay - Sofort (Online Transfer)  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a64cded5-da7c-4e92-9b47-d3d9b42d2f1d.md)
-            11. [Heidelpay - iDeal](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0c6b9c6f-6d54-45d3-a7c8-d204e92358e1.md)
-            12. [Heidelpay - Invoice Secured B2C](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0888d297-e9a1-48b9-8e88-607796ddf7e9.md)
-            13. [Heidelpay - Workflow for Errors  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7b17736d-b6ae-4099-91ba-ae219c71ff65.md)
-            14. SCOS Integration
+            3. [Heidelpay - Paypal Authorize  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cca1472a-1775-4b02-9545-454b3e1326a8.md)
+            4. [Heidelpay - Credit Card Secure](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/462d69ef-ef32-44ac-968f-6e9b0ef40db5.md)
+            5. [Heidelpay - Split-payment Marketplace](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a9903cbd-4eca-4432-8af0-291a2afa5ec3.md)
+            6. [Heidelpay - Direct Debit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/4a6911b7-99b8-45e1-a1ff-624714f73822.md)
+            7. [Heidelpay - Easy Credit](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ff6398ff-8a51-46e6-8fa0-4dd78784a5f9.md)
+            8. [Heidelpay - Paypal Debit Workflow](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0d830bf2-3f62-4fa6-9dc7-a4f954cb832f.md)
+            9. [Heidelpay - Sofort (Online Transfer)  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a64cded5-da7c-4e92-9b47-d3d9b42d2f1d.md)
+            10. [Heidelpay - iDeal](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0c6b9c6f-6d54-45d3-a7c8-d204e92358e1.md)
+            11. [Heidelpay - Invoice Secured B2C](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0888d297-e9a1-48b9-8e88-607796ddf7e9.md)
+            12. [Heidelpay - Workflow for Errors  ](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7b17736d-b6ae-4099-91ba-ae219c71ff65.md)
+            13. SCOS Integration
                 1. [Heidelpay - Configuration for SCOS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/27085e8b-e45d-4801-b5b3-dd32c53ec77c.md)
                 2. [Heidelpay - Integration into SCOS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ae1be6c7-db19-4b46-9e12-d173acf18ed6.md)
         13. Klarna
@@ -1749,35 +1744,25 @@
     2. Introduction 
         1. [Introduction Tutorials](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/33208d00-fe60-4cc0-93ff-7de8c7a4a0ff.md)
         2. [Tutorial - Architectural Walkthrough - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a106494a-2dfe-4971-bd1a-873e7cae99c6.md)
-        3. [Tutorial - Architectural Walkthrough - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/12c7f95d-8175-49c5-ac12-a73b6205c199.md)
-        4. [Tutorial - Checkout and Step Engine - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e87068ad-ead9-4652-8fa9-d3b8186d9e50.md)
-        5. [Tutorial - Checkout - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/0d4a7e61-a36d-4abe-97ed-85a52a4c5c79.md)
-        6. [Tutorial - CMS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5cf07387-1d2e-4c13-9768-7a1199c79670.md)
-        7. [Tutorial - Dynamic Content Page - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9263aebc-65d5-4054-8f81-2f66df3069e2.md)
-        8. [Tutorial - Set Up a "Hello World" Queue - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a87ae1bc-9246-493c-9279-c6f716a7fd01.md)
-        9. [Tutorial - Sending a Mail](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b5c287c0-eec0-425a-8647-986f97744d7b.md)
-        10. [Tutorial - Content and Search - Personalized Catalog Pages - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7601c216-b834-430b-af55-82145dbc3453.md)
-        11. [Tutorial - Testing and TDD - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/de483441-76fe-4c06-95e2-e2f8c63b607a.md)
-        12. [Tutorial - Handling New Types of Entity URLs - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/089cb7ba-50ff-43a6-afde-8911732c02a3.md)
-        13. Glue API
+        3. [Tutorial - Checkout and Step Engine - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e87068ad-ead9-4652-8fa9-d3b8186d9e50.md)
+        4. [Tutorial - CMS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5cf07387-1d2e-4c13-9768-7a1199c79670.md)
+        5. [Tutorial - Different Sores Different Logic - Landing Pages - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a2f1eda-ce11-4fc4-93e7-b46209eece11.md)
+        6. [Tutorial - Handling Data - Publish and Synchronization - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d1a244f6-3ecf-46fe-b0e2-cef62245ec3c.md)
+        7. [Tutorial - Hello World - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dd1d1d6d-bda1-4cdb-b09d-7e252f49191d.md)
+        8. [Tutorial - Sending a Mail](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b5c287c0-eec0-425a-8647-986f97744d7b.md)
+        9. [Tutorial - Content and Search - Personalized Catalog Pages - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7601c216-b834-430b-af55-82145dbc3453.md)
+        10. [Tutorial - Testing and TDD - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/de483441-76fe-4c06-95e2-e2f8c63b607a.md)
+        11. [Tutorial - Handling New Types of Entity URLs - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/089cb7ba-50ff-43a6-afde-8911732c02a3.md)
+        12. Glue API
             1. [Glue API Tutorials](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/79a7cf1c-fe05-44e4-bed4-438f4c5d35c4.md)
             2. [Implementing a REST API Resource](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8d0126d6-8aac-4c54-a3c7-81fc77539f36.md)
             3. [Documenting GLUE API Resources](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/63abb51c-44f7-45e1-ab60-09f3750baa2e.md)
             4. [Extending a REST API Resource](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a1cbff34-df63-4296-a806-1485043d0abb.md)
             5. [Validating REST Request Format](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/bcb2134a-05a0-4779-b18d-340109cdbfc7.md)
             6. [Versioning REST API Resources](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e362b950-0da9-4dff-bb8e-a9647658e2c0.md)
-        14. Tutorial - Hello World - Spryker Commerce OS
-            1. [Tutorial - Hello World - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dd1d1d6d-bda1-4cdb-b09d-7e252f49191d.md)
-            2. [Tutorial - Hello World - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/355dc693-3ab5-4f19-8be5-69f599d86f9c.md)
-        15. Tutorial - Content and Search - Attribute-Cart-Based Catalog Personalization - Spryker Commerce OS
+        13. Tutorial - Content and Search - Attribute-Cart-Based Catalog Personalization - Spryker Commerce OS
             1. [Tutorial - Content and Search - Attribute-Cart-Based Catalog Personalization - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/63073c4f-b3c6-411f-94b2-8acb61b9a533.md)
             2. [Tutorial - Boosting Cart Based Search](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b8d9a9e3-ee62-4717-b0e2-4a56326d9b6e.md)
-        16. Tutorial - Different Sores Different Logic - Landing Pages - Spryker Commerce OS
-            1. [Tutorial - Different Sores Different Logic - Landing Pages - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5a2f1eda-ce11-4fc4-93e7-b46209eece11.md)
-            2. [Tutorial - Stores - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/eb043c41-27f8-4d7c-bf61-b1c5b1a212da.md)
-        17. Tutorial - Handling Data - Publish and Synchronization - Spryker Commerce OS
-            1. [Tutorial - Handling Data - Publish and Synchronization - Spryker Commerce OS](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d1a244f6-3ecf-46fe-b0e2-cef62245ec3c.md)
-            2. [Tutorial - Handling Data - Publish and Synchronization - Legacy Demoshop](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b6f994a1-1465-4319-a2b2-6ec63e3ec600.md)
     3. HowTos
         1. [About HowTos](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c7ba3e57-072d-4a85-b27e-05b354de7f39.md)
         2. [HowTo - Get Ready for VAT (tax) Changes in Germany](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/77925e4c-c31c-4bf5-b589-98fd5c80a124.md)
