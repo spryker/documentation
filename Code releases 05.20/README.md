@@ -1793,16 +1793,17 @@
             5. [HowTo - Make a Product Searchable and Shown on the Storefront](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e6b2bcaa-df7a-40d0-aba4-d58c57fd8421.md)
             6. [HowTo -  Render Configurable Bundle Templates in the Storefront](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/851519e7-ad21-412f-99fa-131eda034388.md)
             7. [HowTo - Schedule Cron Job for Scheduled Prices](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/55d9572c-1914-4a3f-88f3-17fbd46e59aa.md)
-            8. [HowTo - Configure the Product Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/713bfe2a-78b6-488a-a925-bfcc89b54f17.md)
-            9. [HowTo - Use Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c863840e-9055-4ff3-85b0-fc17ddb8a7b6.md)
-            10. [HowTo - Manage a Big Number of Categories](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/817cf311-6afe-4003-94e5-75f04742a388.md)
-            11. [HowTo - Disable Split Delivery in Yves Interface](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d93b8180-7ab5-4ca3-88e2-402f52f06daa.md)
-            12. [HowTo - Implement Customer Approval Process Based on a Generic State Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cde100c9-3444-4618-81ef-853d72e9194c.md)
-            13. CMS
+            8. [HowTo - Set Number of Days for a Return Policy](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ee3b765d-16b1-4108-9bfd-6545be4e91b0.md)
+            9. [HowTo - Configure the Product Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/713bfe2a-78b6-488a-a925-bfcc89b54f17.md)
+            10. [HowTo - Use Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c863840e-9055-4ff3-85b0-fc17ddb8a7b6.md)
+            11. [HowTo - Manage a Big Number of Categories](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/817cf311-6afe-4003-94e5-75f04742a388.md)
+            12. [HowTo - Disable Split Delivery in Yves Interface](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d93b8180-7ab5-4ca3-88e2-402f52f06daa.md)
+            13. [HowTo - Implement Customer Approval Process Based on a Generic State Machine](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cde100c9-3444-4618-81ef-853d72e9194c.md)
+            14. CMS
                 1. [HowTo - Create a Content Item](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d3a5d88e-bd9c-4e3e-9f61-d0efd420922e.md)
                 2. [ HowTo - Create a Visibility Condition for CMS Blocks](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/541f4f6d-0dd5-41ac-920f-fd043e184e75.md)
                 3. [HowTo - Create CMS Templates](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8328a9ac-386e-4300-bfc9-d83bb4925cce.md)
-            14. Data Imports
+            15. Data Imports
                 1. [HowTo - Import Delivery Methods Linked to Store](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f0ea7587-9774-46a0-9e12-9e32ff22e864.md)
                 2. [HowTo - Import Packaging Units](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1ff8c433-cddd-4b82-aa52-d8c58129abe6.md)
                 3. [HowTo - Import Payment Method Store Relation Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/49e34e0f-34e3-4382-aeaf-edfdefdaa001.md)
