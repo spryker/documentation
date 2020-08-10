@@ -765,37 +765,39 @@
     17. [Retrieving Customer's Order History](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3989ca5d-b1c1-4929-bfff-cf7a3540b1dc.md)
     18. [Using Search Engine Friendly URLs](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fde85b1f-cc09-46d7-a990-3e52367db1f2.md)
     19. [Ratings and Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c078943-f7b0-4db0-8dcf-5d015d04e739.md)
-    20. B2B Account Management
+    20. Retrieving Return Management Information
+    21. B2B Account Management
         1. [B2B Account Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0f3ad8d-d91e-401b-b0c6-e48cb13df5e8.md)
         2. [Logging In as Company User](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b2183ab-7d17-45cf-9a53-e2f3bb48e579.md)
         3. [Retrieving Company User Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f84a4096-0877-4370-8df2-52ba5b6c4b93.md)
         4. [Retrieving Company Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c919a004-8d7f-4573-9014-73949cf1eb8f.md)
         5. [Retrieving Business Unit Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1325e7e7-044d-4272-9587-fafc8a9cb928.md)
         6. [Retrieving Company Role Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/722b3bc5-1ec4-4b5a-aa11-9b26373bdfa0.md)
-    21. Managing Products
+    22. Managing Products
         1. [Retrieving Product Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b3b5a044-f7aa-40d4-8006-2c8460e86e29.md)
         2. [Accessing Product Labels](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c5dc18d6-5967-43ba-88a4-6df66ea431ac.md)
         3. [Retrieving Related Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e46eed39-3641-4e35-9014-89c27fe73b4c.md)
         4. [Retrieving Alternative Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/242c2c18-c58d-4fd9-b2cb-51b17329072e.md)
         5. [Retrieving and Applying Product Options](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e6b8bc1c-46dc-4116-bbcd-4905bd2c9347.md)
-    22. Managing Carts
+    23. Managing Carts
         1. [Managing Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c915be34-8ca5-4d7e-8900-226e7a286011.md)
         2. [Managing Guest Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/794ed6c0-fdea-48d5-bb63-5909ee093a2f.md)
         3. [Managing Carts of Registered Users](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f6b9b11-3875-4241-85fa-ac02fbe45ca5.md)
         4. [Sharing Company User Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a3b21add-72fb-42a5-ab1e-3b57f53d195b.md)
-    23. Retrieving Content Item Data
+    24. Retrieving Content Item Data
         1. [Retrieving Content Item Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/57751ebd-4cae-4a61-b90f-c3a5013d7c08.md)
         2. [Retrieving Banner Content Item Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e88d1d57-9e00-4579-a64d-b646e5d270cd.md)
         3. [Getting Abstract Product List Content Item Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a6e9bd31-eedd-4e71-abbf-5e96ffc2256f.md)
-    24. Discounts and Promotions
+    25. Discounts and Promotions
         1. [Retrieving Discounts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1afa9ae5-e357-4616-bd9b-8667501ea502.md)
         2. [Retrieving Promotional Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5fc82c18-743b-4de9-bed3-17153448b25a.md)
 5. Developer Guides
     1. [About the Developer Guides](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/df9f7085-ea2f-4405-aa4c-f21a842d3672.md)
     2. [Developer Getting Started Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e74e1446-0ea9-4423-92e2-624551df2b06.md)
     3. [Updating a Spryker-Based Project](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c3a1ad21-5834-4798-9d78-00c0e9373e28.md)
-    4. [Code Contribution Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/054a3d36-b67c-4fae-b9dc-c786497e1b9a.md)
-    5. Installation
+    4. [Migrating Your Project to the Latest Spryker Version with Spryker Jarvis](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aa20307c-8d6c-4016-b2a0-d884787a252b.md)
+    5. [Code Contribution Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/054a3d36-b67c-4fae-b9dc-c786497e1b9a.md)
+    6. Installation
         1. [About the Installation Guides](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3480d8d0-506c-4b4c-9a60-33993a68f09d.md)
         2. [Post-Installation Steps and Additional Info](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/ec0eccc8-ccff-49e6-b271-16bb64087967.md)
         3. [Composer](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e577f346-6ae9-4dda-9bbe-719938f34ba1.md)
@@ -840,7 +842,7 @@
             4. Debugger
                 1. [Debugger Setup in Vagrant](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/721e3804-7508-4866-a089-9721e394e387.md)
                 2. [Debugger Setup in Vagrant for VM Prior Version 91](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9bd41e9c-c76b-415b-be51-b94a8cece9e6.md)
-    6. Architecture Guide
+    7. Architecture Guide
         1. [About the Architecture Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cc52e0b2-7387-412a-8052-8a12d1186e6d.md)
         2. [Technology Stack](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3f3ad8af-4f1e-4462-aeb5-98f531f4516e.md)
         3. [Conceptual Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/30de0519-bb76-4e73-8d37-c063d0bc4bd4.md)
@@ -851,7 +853,7 @@
             2. [Semantic Versioning: Major vs. Minor vs. Patch Release](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/8bc04c7d-4c69-45aa-85f2-2c1bd2867783.md)
             3. [Using ~ Composer Constraint for Customized Modules](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/390f4d39-b33a-4b27-b979-6629873cc3ad.md)
             4. [Performance and Scalability](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/580103f8-9cfa-4380-9484-e14235719f8d.md)
-    7. Development Guide
+    8. Development Guide
         1. [About the Development Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/cf72a618-a0b3-4443-abcc-c020bd1d5c83.md)
         2. [Session Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/22abd1d7-c227-4a00-93e3-d28cf997edb8.md)
         3. Back-End
