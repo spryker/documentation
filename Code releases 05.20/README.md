@@ -795,7 +795,7 @@
     1. [About the Developer Guides](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/df9f7085-ea2f-4405-aa4c-f21a842d3672.md)
     2. [Developer Getting Started Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e74e1446-0ea9-4423-92e2-624551df2b06.md)
     3. [Updating a Spryker-Based Project](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c3a1ad21-5834-4798-9d78-00c0e9373e28.md)
-    4. [Migrating Your Project to the Latest Spryker Version with Spryker Jarvis](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aa20307c-8d6c-4016-b2a0-d884787a252b.md)
+    4. [Migrating Projects to the Latest Spryker Version with Spryker Jarvis](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/aa20307c-8d6c-4016-b2a0-d884787a252b.md)
     5. [Code Contribution Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/054a3d36-b67c-4fae-b9dc-c786497e1b9a.md)
     6. Installation
         1. [About the Installation Guides](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3480d8d0-506c-4b4c-9a60-33993a68f09d.md)
