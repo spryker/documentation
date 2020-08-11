@@ -768,6 +768,7 @@
     20. Retrieving Return Management Information
         1. [Retrieving Return Management Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c3cb4b5-714d-44a4-95b6-8a0c5abb43b7.md)
         2. [Retrieving Returnable Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ede8cf4-3a79-43ab-8da1-f5b75655a463.md)
+        3. [Creating a Return](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a8b3f4ad-1427-4497-ad15-a78fc1b11b15.md)
     21. B2B Account Management
         1. [B2B Account Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0f3ad8d-d91e-401b-b0c6-e48cb13df5e8.md)
         2. [Logging In as Company User](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b2183ab-7d17-45cf-9a53-e2f3bb48e579.md)
