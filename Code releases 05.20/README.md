@@ -770,6 +770,7 @@
         2. [Retrieving Returnable Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ede8cf4-3a79-43ab-8da1-f5b75655a463.md)
         3. [Creating a Return](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a8b3f4ad-1427-4497-ad15-a78fc1b11b15.md)
         4. [Retrieving the Returned Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/05d1d519-3862-47d4-8afe-1a94e737060c.md)
+        5. [Retrieving the Return Reasons](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6013be3e-9de7-40ec-88f6-e68b39454d5a.md)
     21. B2B Account Management
         1. [B2B Account Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0f3ad8d-d91e-401b-b0c6-e48cb13df5e8.md)
         2. [Logging In as Company User](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b2183ab-7d17-45cf-9a53-e2f3bb48e579.md)
