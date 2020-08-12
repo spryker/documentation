@@ -23,7 +23,7 @@ The *Pages* and *Widgets* concept offers a solution to tailor projects to their 
 When you get the general understanding of the Pages/Widgets concept, its time to investigate how the *Pages* module looks like, why and how the module can be extended.
 
 ### Page Module Appearance and Pages Extension
-A Page module typically contains a `ControllerProvider` plugin for routing (see [URL Routing](https://documentation.spryker.com/docs/yves-url-routing)) and some Controllers with their twig templates (see [Controllers and Actions](https://documentation.spryker.com/docs/yves-controllers-actions)). The implementation scope of a *Page* module should be decided individually, depending on its need of re-usability. 
+A Page module typically contains a `RouteProviderPlugin` plugin for routing (see [URL Routing](https://documentation.spryker.com/docs/yves-url-routing)) and some Controllers with their twig templates (see [Controllers and Actions](https://documentation.spryker.com/docs/yves-controllers-actions)). The implementation scope of a *Page* module should be decided individually, depending on its need of re-usability. 
 
 @(Info)()(The more generic a Page module is the more it can be reused, but also it needs more extension points this way.)
 
