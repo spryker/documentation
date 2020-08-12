@@ -765,37 +765,37 @@
     17. [Retrieving Customer's Order History](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3989ca5d-b1c1-4929-bfff-cf7a3540b1dc.md)
     18. [Using Search Engine Friendly URLs](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/fde85b1f-cc09-46d7-a990-3e52367db1f2.md)
     19. [Ratings and Reviews](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c078943-f7b0-4db0-8dcf-5d015d04e739.md)
-    20. Retrieving Return Management Information
-        1. [Retrieving Return Management Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c3cb4b5-714d-44a4-95b6-8a0c5abb43b7.md)
-        2. [Retrieving Returnable Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ede8cf4-3a79-43ab-8da1-f5b75655a463.md)
-        3. [Creating a Return](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a8b3f4ad-1427-4497-ad15-a78fc1b11b15.md)
-        4. [Retrieving the Returned Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/05d1d519-3862-47d4-8afe-1a94e737060c.md)
-        5. [Retrieving the Return Reasons](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6013be3e-9de7-40ec-88f6-e68b39454d5a.md)
-    21. B2B Account Management
+    20. B2B Account Management
         1. [B2B Account Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d0f3ad8d-d91e-401b-b0c6-e48cb13df5e8.md)
         2. [Logging In as Company User](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6b2183ab-7d17-45cf-9a53-e2f3bb48e579.md)
         3. [Retrieving Company User Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/f84a4096-0877-4370-8df2-52ba5b6c4b93.md)
         4. [Retrieving Company Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c919a004-8d7f-4573-9014-73949cf1eb8f.md)
         5. [Retrieving Business Unit Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1325e7e7-044d-4272-9587-fafc8a9cb928.md)
         6. [Retrieving Company Role Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/722b3bc5-1ec4-4b5a-aa11-9b26373bdfa0.md)
-    22. Managing Products
+    21. Managing Products
         1. [Retrieving Product Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b3b5a044-f7aa-40d4-8006-2c8460e86e29.md)
         2. [Accessing Product Labels](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c5dc18d6-5967-43ba-88a4-6df66ea431ac.md)
         3. [Retrieving Related Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e46eed39-3641-4e35-9014-89c27fe73b4c.md)
         4. [Retrieving Alternative Products](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/242c2c18-c58d-4fd9-b2cb-51b17329072e.md)
         5. [Retrieving and Applying Product Options](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e6b8bc1c-46dc-4116-bbcd-4905bd2c9347.md)
-    23. Managing Carts
+    22. Managing Carts
         1. [Managing Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/c915be34-8ca5-4d7e-8900-226e7a286011.md)
         2. [Managing Guest Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/794ed6c0-fdea-48d5-bb63-5909ee093a2f.md)
         3. [Managing Carts of Registered Users](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/9f6b9b11-3875-4241-85fa-ac02fbe45ca5.md)
         4. [Sharing Company User Carts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a3b21add-72fb-42a5-ab1e-3b57f53d195b.md)
-    24. Retrieving Content Item Data
+    23. Retrieving Content Item Data
         1. [Retrieving Content Item Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/57751ebd-4cae-4a61-b90f-c3a5013d7c08.md)
         2. [Retrieving Banner Content Item Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e88d1d57-9e00-4579-a64d-b646e5d270cd.md)
         3. [Getting Abstract Product List Content Item Data](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a6e9bd31-eedd-4e71-abbf-5e96ffc2256f.md)
-    25. Discounts and Promotions
+    24. Discounts and Promotions
         1. [Retrieving Discounts](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/1afa9ae5-e357-4616-bd9b-8667501ea502.md)
         2. [Retrieving Promotional Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/5fc82c18-743b-4de9-bed3-17153448b25a.md)
+    25. Retrieving Return Management Information
+        1. [Retrieving Return Management Information](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/3c3cb4b5-714d-44a4-95b6-8a0c5abb43b7.md)
+        2. [Retrieving Returnable Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/2ede8cf4-3a79-43ab-8da1-f5b75655a463.md)
+        3. [Creating a Return](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/a8b3f4ad-1427-4497-ad15-a78fc1b11b15.md)
+        4. [Retrieving the Returned Items](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/05d1d519-3862-47d4-8afe-1a94e737060c.md)
+        5. [Retrieving the Return Reasons](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/6013be3e-9de7-40ec-88f6-e68b39454d5a.md)
 5. Developer Guides
     1. [About the Developer Guides](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/df9f7085-ea2f-4405-aa4c-f21a842d3672.md)
     2. [Developer Getting Started Guide](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/e74e1446-0ea9-4423-92e2-624551df2b06.md)
