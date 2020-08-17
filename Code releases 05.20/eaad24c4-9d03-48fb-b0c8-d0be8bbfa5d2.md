@@ -15,7 +15,6 @@ Add sub form plugins and payment method handlers:
 namespace Pyz\Yves\CheckoutPage;
  
 ...
-use Spryker\Yves\StepEngine\Dependency\Plugin\Form\SubFormPluginCollection;
 use SprykerEco\Shared\Adyen\AdyenConfig;
 use SprykerEco\Yves\Adyen\Plugin\AdyenPaymentHandlerPlugin;
 use SprykerEco\Yves\Adyen\Plugin\StepEngine\AdyenCreditCardSubFormPlugin;
