@@ -217,6 +217,7 @@
         2. [Navigation Module](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b364090a-6042-4b3b-b76a-059be3284b46.md)
         3. Navigation
             1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d5408bdd-c501-4cf9-aa92-ffe32284c79f.md)
+            2. [Navigation Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dabe92b6-d8dc-42b0-8e3c-146d26c851bc.md)
     17. Order Management
         1. [Order Management](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/935f9583-8619-488c-92af-1df5f36519f2.md)
         2. [Sales](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/7985e95a-f58b-4c1a-af9b-86cfaee4617d.md)
