@@ -214,8 +214,7 @@
             2. [Multi-Theme Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/defa72e8-02bd-4f1f-a44f-ed2e6fc66ffb.md)
     16. Navigation
         1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/307650e6-3e5e-4af9-8ba9-9643fab4ecf8.md)
-        2. [Navigation Module](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/b364090a-6042-4b3b-b76a-059be3284b46.md)
-        3. Navigation
+        2. Navigation
             1. [Navigation](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/d5408bdd-c501-4cf9-aa92-ffe32284c79f.md)
             2. [Navigation Feature Overview](https://github.com/spryker/documentation/blob/master/Code+releases+05.20/dabe92b6-d8dc-42b0-8e3c-146d26c851bc.md)
     17. Order Management
