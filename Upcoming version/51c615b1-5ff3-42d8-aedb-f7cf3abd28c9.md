@@ -1,0 +1,1 @@
+You can fully customize the storefront appearance to match your CI using the CSS Classes.
