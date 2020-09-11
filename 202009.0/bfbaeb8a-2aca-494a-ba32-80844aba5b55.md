@@ -1,12 +1,12 @@
 At its core, Product Restrictions allow merchants to define the products that are available to each of their B2B customers.
 
-In terms of [Merchant concept](https://documentation.spryker.com/v4/docs/merchants-and-merchant-relations-overview), the **merchant** is the one who sells products on a marketplace and can set prices.
+In terms of [Merchant concept](https://documentation.spryker.com/docs/merchants-and-merchant-relations-overview), the **merchant** is the one who sells products on a marketplace and can set prices.
 
 The diagram below shows product restrictions relations within the Merchant concept:
 
 ![product-restrictions-model.png](https://spryker.s3.eu-central-1.amazonaws.com/docs/Features/Company+Account+Management/Product+Restrictions+from+Merchant+to+Buyer/Product+Restrictions+from+Merchant+to+Buyer+Overview/product-restrictions-model.png){height="" width=""}
 
-Product Restrictions from Merchant to Buyer give merchants [another layer](https://documentation.spryker.com/v4/docs/hide-content-from-logged-out-users) of control over the information, a customer can see in the shop application. Based on product restrictions, you can:
+Product Restrictions from Merchant to Buyer give merchants [another layer](https://documentation.spryker.com/docs/hide-content-from-logged-out-users) of control over the information, a customer can see in the shop application. Based on product restrictions, you can:
 
 * create a list of products;
 * hide the product information for the products (pricing, appearance in the search/filters), and limit access to a product details page.
@@ -15,9 +15,9 @@ Product Restriction feature works on the basis of whitelist/blacklist lists. Tha
 
 To restrict the products, a Shop Administrator needs to create a product list, include the necessary products to the list and blacklist them for a specific merchant relationship. All other products will be available for that merchant relationship.
 
-To create product lists, follow the [guideline for the Back Office](https://documentation.spryker.com/v4/docs/creating-a-product-list).
+To create product lists, follow the [guideline for the Back Office](https://documentation.spryker.com/docs/creating-a-product-list).
 
-You can check more cases of product restrictions workflow on the [Restricted Products Behavior](https://documentation.spryker.com/v4/docs/restricted-products-behavior) page.
+You can check more cases of product restrictions workflow on the [Restricted Products Behavior](https://documentation.spryker.com/docs/restricted-products-behavior) page.
 
 ## Current Constraints
 - Currently, in the situation, when a single product from the product set is blacklisted, the other items are displayed in the shop. We are going to update the logic in a way, that in case any of the items in the product set gets blacklisted, all relevant product sets containing this item will get blacklisted too.
