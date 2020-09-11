@@ -24,7 +24,7 @@ This CMS Pages feature is ideal for specific landing pages with dedicated URLs t
  <li><a href="https://documentation.spryker.com/docs/mg-cmsstorage#upgrading-from-version-1---to-version-2--" class="mr-link">Migrate the CmsStorage module from version 1.* to version 2.*</a></li>
                 <li><a href="https://documentation.spryker.com/docs/migration-guide-cmsgui#upgrading-from-version-4---to-version-5--" class="mr-link">Migrate the CmsGui module from version 4.* to version 5.*</a></li>
  </li><li><a href="https://documentation.spryker.com/docs/mg-cmspagesearch#upgrading-from-version-1---to-version-2--" class="mr-link">Migrate the CmsPageSearch module from version 1.* to version 2.*</a></li> 
- </li><li><a href="https://documentation.spryker.com/docs/cms-feature-integration-guide-201903" class="mr-link">Integrate the CMS feature into your project </a></li>
+ </li><li><a href="https://documentation.spryker.com/docs/cms-feature-integration-guide" class="mr-link">Integrate the CMS feature into your project </a></li>
   </li><li><a href="https://documentation.spryker.com/docs/cms-page-search-product-lists-catalog-feature-integration-201903" class="mr-link">Integrate the CMS Page Search + Product Lists + Catalog Feature into your project </a></li> 
   </li><li><a href="https://documentation.spryker.com/docs/cms-pages-in-search-results-integration-201903" class="mr-link">Integrate the CMS Page Search + Catalog Feature into your project</a></li> 
    </ul>
