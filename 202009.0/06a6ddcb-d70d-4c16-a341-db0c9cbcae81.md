@@ -36,4 +36,4 @@ This CMS Pages feature is ideal for specific landing pages with dedicated URLs t
      </li><li><a href="https://documentation.spryker.com/docs/managing-cms-pages" class="mr-link">Manage a CMS Page</a></li> 
   </li><li><a href="https://documentation.spryker.com/docs/editing-cms-pages" class="mr-link">Edit a CMS Page</a></li> 
     </li><li><a href="https://documentation.spryker.com/docs/cms-pages-versioning" class="mr-link">Manage Versions of a CMS Page</a></li>
-    </li><li><a href="https://documentation.spryker.com/docs/assigning-blocks-to-category-and-product-pages" class="mr-link">Assigning Blocks to Category and Product Pages</a></li> 
+    </li><!---<li><a href="https://documentation.spryker.com/docs/assigning-blocks-to-category-and-product-pages" class="mr-link">Assign Blocks to Category and Product Pages</a></li> -->
