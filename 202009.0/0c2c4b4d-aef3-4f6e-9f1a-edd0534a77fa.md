@@ -2,7 +2,7 @@ Any version control tool is designed to provide you with a full control of the i
 
 With Spryker Commerce OS, while editing pages, you have several options to manage versions, drafts, and live versions.
 
-In the [Version History in the Back Office](https://documentation.spryker.com/v4/docs/cms-pages-versioning), you can see and compare all published versions of a CMS Page and quickly **roll back** to an earlier version with a simple click **Rollback to Selected Version** option.
+In the [Version History in the Back Office](https://documentation.spryker.com/docs/cms-pages-versioning), you can see and compare all published versions of a CMS Page and quickly **roll back** to an earlier version with a simple click **Rollback to Selected Version** option.
 
 <!-- src="../../resources/images/cms/version-history-gif.gif" -->
 
