@@ -13,7 +13,7 @@ The main benefit of the Code Releases is that customers who urgently need this n
 
 We are making sure to provide draft documentation for the new functionality, as well as a module-level migration guide. Still, we cannot deliver full documentation and training materials at that time. Our QA team validates the newly released functionality and overall quality of the module, but cannot thoroughly check new module compatibility with other modules in all required combinations.
 
-Also, Code Releases are not incorporated into the [Demo Shops](https://documentation.spryker.com/docs/demoshops) and can contain beta versions on modules.
+Also, Code Releases are not incorporated into the Demo Shops and can contain beta versions on modules.
 
 ## Product Releases
 Product Release is done every several months. The Product Release has its own version and is accompanied by the [Release Notes](https://documentation.spryker.com/docs/release-notes).  The Product Release code is stored in our [B2B Demo Shop repository](https://github.com/spryker-shop/b2b-demo-shop) and [B2C Demo Shop repository](https://github.com/spryker-shop/b2c-demo-shop) and includes a specific feature set that we believe is best suitable for each vertical.
