@@ -65,6 +65,6 @@ Currently, only a single resource supports concurrent requests with ETag header
 
 | Endpoint | Methods | Resource |
 | --- | --- | --- |
-| [/carts](https://documentation.spryker.com/docs/rest-api-reference#/carts) | PATCH, DELETE | Registered user's cart. |
+| [/carts](https://documentation.spryker.com/docs/en/en/rest-api-reference#/carts) | PATCH, DELETE | Registered user's cart. |
 
 @(Info)(Info)(The list of resources supporting concurrent requests can vary depending on your project implementation.)
