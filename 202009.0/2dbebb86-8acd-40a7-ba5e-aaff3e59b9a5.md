@@ -9,9 +9,7 @@ B2B commerce is all about commerce transactions between businesses or companies 
             <ul class="mr-list mr-list-green">
                 <li class="mr-title">Developer</li>
                 <li><a href="https://documentation.spryker.com/docs/merchants-and-merchant-relations-overview" class="mr-link">Get a general idea of the Merchants and Merchant Relations feature</a></li>
-                <li><a href="https://documentation.spryker.com/docs/howto-import-merchants-and-merchant-relations#importing-merchants">Import merchants into the system</a></li>
-                <li><a href="https://documentation.spryker.com/docs/howto-import-merchants-and-merchant-relations#importing-merchant-relations" class="mr-link">Import merchant relations into the system</a></li>
-                <li><a href="https://documentation.spryker.com/docs/merchant-contracts-feature-integration-201903" class="mr-link">Integrate the Merchant Contracts v. 201903.0 into your project</a></li>
+                <li><a href="https://documentation.spryker.com/docs/merchant-contracts-feature-integration-201903" class="mr-link">Integrate the Merchant Contracts into your project</a></li>
             </ul>
         </div>
          <!-- col2 -->
