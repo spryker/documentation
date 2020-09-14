@@ -27,11 +27,11 @@ This will insert a content item widget with the following details:
 * Name
 * Template
 
-@(Info)()(Templates are project-specific and are usually created by a developer and a business person. If you are missing a Content Item Widget template, contact them and refer to [HowTo - Create a Content Item Widget template](https://documentation.spryker.com/v4/docs/ht-create-cms-templates#adding-a-template-for-a-content-item-widget).)
+@(Info)()(Templates are project-specific and are usually created by a developer and a business person. If you are missing a Content Item Widget template, contact them and refer to [HowTo - Create a Content Item Widget template](https://documentation.spryker.com/docs/en/en/ht-create-cms-templates#adding-a-template-for-a-content-item-widget).)
 
 6. Click **Save**. A new content item widget will be added to the page.
 
-@(Info)()(You can preview the page to see how the content item widget will be displayed on the website or publish it. See  [Managing CMS Pages](https://documentation.spryker.com/v4/docs/managing-cms-pages) to learn how to preview and publish the page.)
+@(Info)()(You can preview the page to see how the content item widget will be displayed on the website or publish it. See  [Managing CMS Pages](https://documentation.spryker.com/docs/en/en/managing-cms-pages) to learn how to preview and publish the page.)
 
 ## Adding Content Item Widgets to Blocks
 To add a content item widget to a block:
@@ -55,9 +55,9 @@ To add a content item widget to a block:
 
 6. Click **Save**. The new content item widget will be added to the block. 
 
-@(Info)()(You can preview how the content item widget will be displayed on the website by following the steps described in  [Managing CMS Blocks](https://documentation.spryker.com/v4/docs/managing-cms-blocks).)
+@(Info)()(You can preview how the content item widget will be displayed on the website by following the steps described in  [Managing CMS Blocks](https://documentation.spryker.com/docs/en/en/managing-cms-blocks).)
 ***
 **What's next?**
-To know more about how to edit a content item widget, see  [Editing Content Item Widgets](https://documentation.spryker.com/v4/docs/editing-content-item-widgets).
+To know more about how to edit a content item widget, see  [Editing Content Item Widgets](https://documentation.spryker.com/docs/en/en/editing-content-item-widgets).
 
-To learn more about types of content item widgets and their templates, see articles in the [References](https://documentation.spryker.com/v4/docs/content-item-widgets-templates-reference-information) section.
+To learn more about types of content item widgets and their templates, see articles in the [References](https://documentation.spryker.com/docs/en/en/content-item-widgets-templates-reference-information) section.
