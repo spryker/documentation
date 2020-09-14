@@ -12,7 +12,7 @@ These are the header fields to be included in the .csv file:
 ## Dependencies
 
 This file has the following dependencies:
-*    [cms_block.csv](https://documentation.spryker.com/docs/file-details-cms-blockcsv)
+*    [cms_block.csv](https://documentation.spryker.com/docs/en/file-details-cms-blockcsv)
 *     *stores.php* configuration file of the demo shop PHP project
 
 ## Template File & Content Example
