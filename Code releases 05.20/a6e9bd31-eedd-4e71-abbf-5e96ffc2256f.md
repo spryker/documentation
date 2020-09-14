@@ -11,10 +11,10 @@ In particular, you can:
 
 In your development, these resources can help you get relevant information for your product list and the product detail pages for all or a specific locale.
 
-@(Info)()(See [Content Items](https://documentation.spryker.com/docs/content-items) to learn how to create and manage content items in the Back Office.)
+@(Info)()(See [Content Items](https://documentation.spryker.com/docs/en/en/content-items) to learn how to create and manage content items in the Back Office.)
 
 ## Installation
-For details on the modules that provide the API functionality and how to install them, see [Content Items API](https://documentation.spryker.com/docs/content-items-api-feature-integration).
+For details on the modules that provide the API functionality and how to install them, see [Content Items API](https://documentation.spryker.com/docs/en/en/content-items-api-feature-integration).
 
 ## Retrieving Abstract Product List Content Item Data
 To retrieve the full information on the abstract product list by the content item key, send a GET request to the following endpoint:
