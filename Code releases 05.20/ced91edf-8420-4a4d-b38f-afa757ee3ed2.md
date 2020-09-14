@@ -1,7 +1,7 @@
 Usually, the first step of the Direct Debit payment method implementation is set-up on Yves. This article provides step-by-step instructions on how to do that.
 
 ## Prerequisites
-Prior to proceeding with the first step, the form creation, add a new module on the project level in Yves - for example, the `PaymentMethods` module. If you haven't had any experience in creating a new module yet, see [Tutorial - Adding a New Module](https://documentation.spryker.com/v4/docs/t-add-new-bundle). Create a *Form* folder in the module.
+Prior to proceeding with the first step, the form creation, add a new module on the project level in Yves - for example, the `PaymentMethods` module. If you haven't had any experience in creating a new module yet, see [Tutorial - Adding a New Module](https://documentation.spryker.com/docs/en/t-add-new-bundle). Create a *Form* folder in the module.
 
 ## Creating a Form
 The starting point is to create the form in Yves.
@@ -402,4 +402,4 @@ To create the Direct Debit twig template, do the following:
 ***
 **What's next?**
 
-After the form has been created and the payment handler has been set up, you need to [integrate them into the Checkout module](https://documentation.spryker.com/v4/docs/dd-checkout-implementation).
+After the form has been created and the payment handler has been set up, you need to [integrate them into the Checkout module](https://documentation.spryker.com/docs/en/dd-checkout-implementation).
