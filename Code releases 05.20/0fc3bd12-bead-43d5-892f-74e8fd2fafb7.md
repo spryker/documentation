@@ -13,31 +13,31 @@ Check out this video tutorial on how to set up Company structure:
         <div class="mr-col">
             <ul class="mr-list mr-list-green">
                 <li class="mr-title">Developer</li>
-                <li><a href="https://documentation.spryker.com/v4/docs/company-account-general-organizational-structure" class="mr-link">Get a general idea of the Company Account organizational structure</a></li>
-                <li><a href="https://documentation.spryker.com/v2/docs/mg-companyuser#upgrading-from-version-1-0-0-to-version-2-0-0" class="mr-link">Migrate the CompanyUser module from version 1.* to version 2.*</a></li>
-                <li><a href="https://documentation.spryker.com/v3/docs/company-account-integration-201907" class="mr-link">Integrate the Company Account v. 201907.0 into your project</a></li>
-                <!-- <li><a href="https://documentation.spryker.com/v4/docs/db-schema-company-account#company" class="mr-link">Learn the database schema for Company Account</a></li>-->
+                <li><a href="https://documentation.spryker.com/docs/en/company-account-general-organizational-structure" class="mr-link">Get a general idea of the Company Account organizational structure</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/mg-companyuser#upgrading-from-version-1-0-0-to-version-2-0-0" class="mr-link">Migrate the CompanyUser module from version 1.* to version 2.*</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/company-account-integration-201907" class="mr-link">Integrate the Company Account v. 201907.0 into your project</a></li>
+                <!-- <li><a href="https://documentation.spryker.com/docs/en/db-schema-company-account#company" class="mr-link">Learn the database schema for Company Account</a></li>-->
             </ul>
         </div>
         <!-- col2 -->
         <div class="mr-col">
             <ul class="mr-list mr-list-blue">
                 <li class="mr-title"> Back Office User</li>
-                <li><a href="https://documentation.spryker.com/v4/docs/company-account-general-organizational-structure" class="mr-link">Get a general idea of the Company Account organizational structure</a></li>
-                <li><a href="https://documentation.spryker.com/v4/docs/managing-companies" class="mr-link">Create and manage Companies</a></li>
-                <li><a href="https://documentation.spryker.com/v4/docs/managing-company-units" class="mr-link">Create and manage Business Units</a></li>
-                <li><a href="https://documentation.spryker.com/v4/docs/managing-company-unit-addresses" class="mr-link">Create and manage Company Unit Addresses</a></li>
-                <li><a href="https://documentation.spryker.com/v4/docs/managing-company-users" class="mr-link">Create and manage Company Users</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/company-account-general-organizational-structure" class="mr-link">Get a general idea of the Company Account organizational structure</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/managing-companies" class="mr-link">Create and manage Companies</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/managing-company-units" class="mr-link">Create and manage Business Units</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/managing-company-unit-addresses" class="mr-link">Create and manage Company Unit Addresses</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/managing-company-users" class="mr-link">Create and manage Company Users</a></li>
             </ul>
         </div>
         <!-- col3 -->
         <div class="mr-col">
             <ul class="mr-list mr-list-red">
                 <li class="mr-title">Shop User</li>
-                <li><a href="https://documentation.spryker.com/v4/docs/company-account-general-organizational-structure" class="mr-link">Get a general idea of the Company Account organizational structure</a></li>
-                <li><a href="https://documentation.spryker.com/v4/docs/company-account-shop-guide" class="mr-link">Create a new Company</a></li>
-                <li><a href="https://documentation.spryker.com/v4/docs/company-users-shop-guide" class="mr-link">Create a new Company User</a></li>
-                <li><a href="https://documentation.spryker.com/v4/docs/company-roles-shop-guide" class="mr-link">Create a Company Role</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/company-account-general-organizational-structure" class="mr-link">Get a general idea of the Company Account organizational structure</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/company-account-shop-guide" class="mr-link">Create a new Company</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/company-users-shop-guide" class="mr-link">Create a new Company User</a></li>
+                <li><a href="https://documentation.spryker.com/docs/en/company-roles-shop-guide" class="mr-link">Create a Company Role</a></li>
             </ul>
         </div>
     </div>
