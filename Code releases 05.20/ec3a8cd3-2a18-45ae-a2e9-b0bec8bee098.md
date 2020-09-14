@@ -166,6 +166,6 @@ $jobs[] = [
 ?>
 ```
 
-@(Info)()(For more information and examples of how to get started with the Queue module, see [Tutorial - Set Up a "Hello World" Queue](https://documentation.spryker.com/v4/docs/setup-hello-world-queue).)
+@(Info)()(For more information and examples of how to get started with the Queue module, see [Tutorial - Set Up a "Hello World" Queue](https://documentation.spryker.com/docs/en/setup-hello-world-queue).)
 
 <!-- Last review date: Apr 9, 2019 by Ehsan Zanjani and Dmitry Beirak -->
