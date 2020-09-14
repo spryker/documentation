@@ -1,4 +1,4 @@
-B2C API React Example can be installed inside [Spryker Development Virtual Machine](https://documentation.spryker.com/v4/docs/devvm) (VM) or on a separate dedicated server. Below, you will find detailed steps on how to perform both the installation scenarios.
+B2C API React Example can be installed inside [Spryker Development Virtual Machine](https://documentation.spryker.com/docs/en/en/devvm) (VM) or on a separate dedicated server. Below, you will find detailed steps on how to perform both the installation scenarios.
 
 @(Info)()(Installation inside the VM ensures quicker roll out as the VM has all the required components installed.)
 
@@ -8,7 +8,7 @@ B2C API React Example can be installed inside [Spryker Development Virtual Machi
 
 To perform the app installation on the VM:
 
-1. Make sure that you have Spryker Glue REST API [installed and working](https://documentation.spryker.com/v4/docs/glue-api-installation-and-configuration).
+1. Make sure that you have Spryker Glue REST API [installed and working](https://documentation.spryker.com/docs/en/en/glue-api-installation-and-configuration).
 2. Log in to the VM. For this purpose, execute the following command on the host where the VM runs:
 `vagrant ssh`
 3. After logging in to the VM, the current directory will be the folder where your Spryker project is installed, which is /data/shop/development/current by default. Go one directory up. To do this, execute the following command:
@@ -98,7 +98,7 @@ Sample local_inside_vm.env file implementation for a VM running B2C Demo Shop:
 ## Installation on a Dedicated Server
 To perform the app installation on a dedicated web server:
 
-1. Make sure that you have Spryker Glue REST API [installed and working](https://documentation.spryker.com/v4/docs/glue-api-installation-and-configuration).
+1. Make sure that you have Spryker Glue REST API [installed and working](https://documentation.spryker.com/docs/en/en/glue-api-installation-and-configuration).
 2. Make sure that the following prerequisites are installed on the server:
     * [Node 8.9.3](https://nodejs.org/en/) or newer.
 
