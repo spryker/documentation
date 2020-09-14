@@ -104,4 +104,4 @@ You might use the following definitions to generate related code:
 * `vendor/bin/console spryk:run AddZedCommunicationController` - Add Zed Communication Controller
 * `vendor/bin/console spryk:run AddZedCommunicationControllerAction` - Add Zed Communication Controller Method
 
-See the [Spryk](https://documentation.spryker.com/v2/docs/spryk-201903) documentation for details.
+See the [Spryk](https://documentation.spryker.com/docs/en/spryk-201903) documentation for details.
