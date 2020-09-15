@@ -1,14 +1,14 @@
 When setting up a Spryker’s Demo Shop, data content sample is imported while executing a sequence of data importers. The data importer is a PHP class which handles the data import. Each data importer uses a .csv file to load data that will then be imported into the Demo Dhop database(s). The importing order of the .csv files is dependent on the order the data importers are executed. 
 
 :::(Info) (Info)
-The order of data importers is defined in the [.yml configuration file](https://documentation.spryker.com/docs/importing-data).
+The order of data importers is defined in the [.yml configuration file](https://documentation.spryker.com/docs/en/importing-data).
 :::
 
 This operation has some dependencies, as data importers execution follows certain precedences. For example, you can not import Concrete products before importing the Abstract products, as Concrete products can not exists without Abstracts.
 
 The list below illustrates the order followed to run the data importers, and import the: Commerce shop configuration setup data, product catalog data, and other content.
 
-**1. [Commerce Setup](https://documentation.spryker.com/docs/commerce-setup) data import**
+**1. [Commerce Setup](https://documentation.spryker.com/docs/en/commerce-setup) data import**
 
   1. store
   2. currency

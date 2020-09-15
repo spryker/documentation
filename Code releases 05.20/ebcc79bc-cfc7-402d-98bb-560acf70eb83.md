@@ -20,9 +20,9 @@ Incorporate your pricing strategy into your Commerce OS effortlessly and save va
 
 **Features**:
 <div>
-<a class="feature-link" href="https://documentation.spryker.com/v4/docs/auto-detect-currency">Auto-Detect of Currency</a>
-<a class="feature-link" href="https://documentation.spryker.com/v4/docs/net-gross-price">Net & Gross Prices</a>
-<a class="feature-link" href="https://documentation.spryker.com/v3/docs/scheduled-prices-201907">Scheduled Prices</a>
-<a class="feature-link" href="https://documentation.spryker.com/v4/docs/volume-prices">Volume Prices</a>
-    <a class="feature-link" href="https://documentation.spryker.com/v4/docs/price-per-merchant-relation">Prices per Merchant Relation \(Customer specific prices\)</a> 
+<a class="feature-link" href="https://documentation.spryker.com/docs/en/auto-detect-currency">Auto-Detect of Currency</a>
+<a class="feature-link" href="https://documentation.spryker.com/docs/en/net-gross-price">Net & Gross Prices</a>
+<a class="feature-link" href="https://documentation.spryker.com/docs/en/scheduled-prices-201907">Scheduled Prices</a>
+<a class="feature-link" href="https://documentation.spryker.com/docs/en/volume-prices">Volume Prices</a>
+    <a class="feature-link" href="https://documentation.spryker.com/docs/en/price-per-merchant-relation">Prices per Merchant Relation \(Customer specific prices\)</a> 
 </div>

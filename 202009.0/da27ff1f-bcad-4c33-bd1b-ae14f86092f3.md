@@ -1,0 +1,16 @@
+The **Scheduled Prices** section in the Back Office is mostly used by Product Catalog Managers.
+
+This section is designed to import predefined product price schedules which are to be applied to existing products automatically.
+
+The primary uses of scheduled prices are to automate price changes and enable Back Office users to prepare for major events beforehand.
+
+
+---
+**What’s next?**
+
+To learn how to create and manage scheduled prices, see the following articles:
+
+*     [Creating Scheduled Prices](https://documentation.spryker.com/docs/creating-scheduled-prices)
+*     [Managing Scheduled Prices](https://documentation.spryker.com/docs/managing-scheduled-prices)
+
+To learn about the attributes you use to manage scheduled prices, see [Scheduled Prices: Reference Information](https://documentation.spryker.com/docs/scheduled-prices-reference-information)

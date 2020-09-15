@@ -9,7 +9,7 @@ You can find the list of all the modules related to the service below:
 
 ### Installation
 
-For information on the installtion, see [Migration Guide - Router](https://documentation.spryker.com/docs/migration-guide-router). 
+For information on the installtion, see [Migration Guide - Router](https://documentation.spryker.com/docs/en/migration-guide-router). 
 
 Additionally, you need to add the following plugins to the `\Pyz\Zed\EventDispatcher\EventDispatcherDependencyProvider`:
 

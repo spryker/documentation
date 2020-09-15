@@ -1,4 +1,4 @@
-This article contains content of the **content_banner.csv** file to configure [Content Banner](https://documentation.spryker.com/docs/content-items-feature-overview#content-item) information on your Spryker Demo Shop.
+This article contains content of the **content_banner.csv** file to configure [Content Banner](https://documentation.spryker.com/docs/en/content-items-feature-overview#content-item) information on your Spryker Demo Shop.
 
 ## Headers & Mandatory Fields 
 These are the header fields to be included in the .csv file:
@@ -24,7 +24,7 @@ Default subtitle of the content. |
 ## Dependencies
 
 This file has the following dependencies:
-*    [glossary.csv](https://documentation.spryker.com/docs/file-details-glossarycsv) 
+*    [glossary.csv](https://documentation.spryker.com/docs/en/file-details-glossarycsv) 
 
 ## Template File & Content Example
 A template and an example of the *content_banner.csv*  file can be downloaded here:
