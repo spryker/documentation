@@ -1,6 +1,6 @@
 ## Upgrading from Version 4.* to Version 5.*
 
-Version 5 of the CMSGui module introduces the [multi-store functionality](https://documentation.spryker.com/docs/en/en/multi-store-cms-pages-201903). The multi-store CMS page feature enables management of CMS page display per store via a store toggle control in the Back Office.
+Version 5 of the CMSGui module introduces the [multi-store functionality](https://documentation.spryker.com/docs/en/multi-store-cms-pages-201903). The multi-store CMS page feature enables management of CMS page display per store via a store toggle control in the Back Office.
 
 @(Error)()(To enable the feature, make sure you have the store relation type plugin. See below for details.)
 
