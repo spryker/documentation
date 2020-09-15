@@ -13,9 +13,9 @@ To create a CMS block:
 * Name
 * Valid from and Valid to
 
-@(Info)()(Templates are project-specific and are usually created by a developer and a business person. If you are missing a CMS Block template, contact them and refer to the [HowTo - Create a CMS Block template](https://documentation.spryker.com/docs/en/en/ht-create-cms-templates#adding-a-template-for-a-cms-block).)
+@(Info)()(Templates are project-specific and are usually created by a developer and a business person. If you are missing a CMS Block template, contact them and refer to the [HowTo - Create a CMS Block template](https://documentation.spryker.com/docs/en/ht-create-cms-templates#adding-a-template-for-a-cms-block).)
 
-See [CMS Blocks: Reference Information](https://documentation.spryker.com/docs/en/en/cms-block-reference-information) to learn more about CMS blocks attributes.)
+See [CMS Blocks: Reference Information](https://documentation.spryker.com/docs/en/cms-block-reference-information) to learn more about CMS blocks attributes.)
 
 3. To save the changes, click **Save**. This will successfully create a block and take you to the **Edit Block Glossary** page.
 
@@ -24,4 +24,4 @@ See [CMS Blocks: Reference Information](https://documentation.spryker.com/docs/e
 
 A new block has been created. Now, you can add the content if needed.
 
-* To learn more about edititing a CMS block, see the [Editing CMS Blocks](https://documentation.spryker.com/docs/en/en/managing-cms-blocks#editing-blocks).
+* To learn more about edititing a CMS block, see the [Editing CMS Blocks](https://documentation.spryker.com/docs/en/managing-cms-blocks#editing-blocks).
