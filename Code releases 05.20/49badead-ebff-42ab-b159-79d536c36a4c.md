@@ -39,4 +39,4 @@ To edit a filter preference:
 **What's next?**
 Once the filter preference is created, you can use it in the **Category Filters** section. That is done to enable specific category(s) to which the product with this attribute is assigned, to be filtered based on this specific filter.
 
-See [Managing Category Filters](https://documentation.spryker.com/v4/docs/managing-category-filters) to know how to set up the category filters.
+See [Managing Category Filters](https://documentation.spryker.com/docs/en/managing-category-filters) to know how to set up the category filters.

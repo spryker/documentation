@@ -34,8 +34,8 @@ API URLs:
 | Sandbox URL | `https://integration.risk-solution-services.de/rss-services/risk-solution-services.v2.1` |
 
 Services:
-* [Risk Check](https://documentation.spryker.com/v4/docs/arvato-risk-check-2-0)
-* [Store Order](https://documentation.spryker.com/v4/docs/arvato-store-order-2-0)
+* [Risk Check](https://documentation.spryker.com/docs/en/arvato-risk-check-2-0)
+* [Store Order](https://documentation.spryker.com/docs/en/arvato-store-order-2-0)
 
 To implement Arvato RSS you should be familiar with concept of extending the
 

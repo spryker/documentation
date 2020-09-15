@@ -1,4 +1,4 @@
-This article contains content of the **product_abstract.csv** file to configure [Abstract Product](https://documentation.spryker.com/docs/product-abstraction) information on your Spryker Demo Shop.
+This article contains content of the **product_abstract.csv** file to configure [Abstract Product](https://documentation.spryker.com/docs/en/product-abstraction) information on your Spryker Demo Shop.
 
 ## Headers & Mandatory Fields 
 These are the header fields to be included in the .csv file:
@@ -33,9 +33,9 @@ These are the header fields to be included in the .csv file:
 
 This file has the following dependencies:
 
-* [ category.csv](https://documentation.spryker.com/docs/file-details-categorycsv)
-* [glossary.csv](https://documentation.spryker.com/docs/file-details-glossarycsv)
-* [tax.csv](https://documentation.spryker.com/docs/file-details-taxcsv)
+* [ category.csv](https://documentation.spryker.com/docs/en/file-details-categorycsv)
+* [glossary.csv](https://documentation.spryker.com/docs/en/file-details-glossarycsv)
+* [tax.csv](https://documentation.spryker.com/docs/en/file-details-taxcsv)
 
 ## Recommendations & Other Information
 For each attribute, where N is a number starting in 1, it is mandatory to have both fields:
