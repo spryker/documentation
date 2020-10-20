@@ -328,4 +328,4 @@ To search by customers, send the request:
 ## Next steps
 
 
-After you’ve found the reference of the customer you want to assist, impersonate the customer to perform any actions available to them. See [\[WIP\] Impersonating customers as an agent assist](https://documentation.spryker.com/docs/impersonating-customers-as-an-agent-assist) for details.
+After you’ve found the reference of the customer you want to assist, impersonate the customer to perform any actions available to them. See [ Impersonating customers as an agent assist](https://documentation.spryker.com/docs/impersonating-customers-as-an-agent-assist) for details.
