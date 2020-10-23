@@ -36,4 +36,5 @@ Blocks help to place content in certain places in your template, so you can easi
                 <li class="mr-title"> Back Office User</li>
                 <li><a href="https://documentation.spryker.com/docs/en/creating-a-cms-block" class="mr-link">Create a CMS Block</a></li>
                 <li><a href="https://documentation.spryker.com/docs/en/managing-cms-blocks" class="mr-link">Manage CMS Blocks</a></li>
-                <li><a href="https://documentation.spryker.com/docs/en/defining-validity-period-for-cms-blocks" class="mr-link">Define validity period for CMS Blocks</a></li>
+        <ul>      
+            </div>
