@@ -40,7 +40,6 @@ console transfer:generate
 ```
 
 :::(Warning) (Verification)
-your content goes here
 
 Ensure that the following changes have been applied in the transfer objects:
 
@@ -81,7 +80,7 @@ Activate the following plugins:
 | AgentRestUserValidatorPlugin | Checks if the `RestRequest.restUser` is an Agent when an agent-only resource is accessed. | None | Spryker\Glue\AgentAuthRestApi\Plugin\GlueApplication |
 | AgentAccessTokenRestUserFinderPlugin | Finds the Rest user for the `X-Agent-Authorization` header. | None | Spryker\Glue\AgentAuthRestApi\Plugin\GlueApplication |
 | AgentAccessTokensResourceRoutePlugin | Provides the `/agent-access-tokens` resource route. | None | Spryker\Glue\AgentAuthRestApi\Plugin\GlueApplication |
-| AgentCustomerImpersonationAccessTokensResourceRoutePlugin | Provides the `/agent-customer-impersonation-access-tokens` resource route. | The Customer impersonation grant type must be configured. See the [Customer account management feature integration - ongoing](https://spryker.atlassian.net/wiki/spaces/DOCS/pages/896830369/Customer+account+management+feature+integration+-+ongoing) for details. | Spryker\Glue\AgentAuthRestApi\Plugin\GlueApplication |
+| AgentCustomerImpersonationAccessTokensResourceRoutePlugin | Provides the `/agent-customer-impersonation-access-tokens` resource route. | The Customer impersonation grant type must be configured. See the [Customer Account Management feature integration](https://documentation.spryker.com/docs/customer-account-management-feature-integration) for details. | Spryker\Glue\AgentAuthRestApi\Plugin\GlueApplication |
 | AgentCustomerSearchResourceRoutePlugin | Provides the `/agent-customer-search` resource route. | None | Spryker\Glue\AgentAuthRestApi\Plugin\GlueApplication |
 
 
