@@ -33,7 +33,7 @@ Check out this video tutorial on how to set up Company structure:
         <!-- col3 -->
         <div class="mr-col">
             <ul class="mr-list mr-list-red">
-                <li class="mr-title">Shop User</li>
+                <li class="mr-title">Storefront User</li>
                 <li><a href="https://documentation.spryker.com/docs/en/company-account-general-organizational-structure" class="mr-link">Get a general idea of the Company Account organizational structure</a></li>
                 <li><a href="https://documentation.spryker.com/docs/en/company-account-shop-guide" class="mr-link">Create a new Company</a></li>
                 <li><a href="https://documentation.spryker.com/docs/en/company-users-shop-guide" class="mr-link">Create a new Company User</a></li>
