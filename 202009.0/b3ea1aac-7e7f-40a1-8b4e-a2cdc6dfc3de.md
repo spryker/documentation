@@ -32,7 +32,7 @@ Therefore, the **Split Delivery** feature is best suited when you want to:
         <!-- col3 -->
         <div class="mr-col">
             <ul class="mr-list mr-list-red">
-                <li class="mr-title">Shop User</li>
+                <li class="mr-title">Storefront User</li>
                <li><a href="https://documentation.spryker.com/docs/split-delivery-overview" class="mr-link">Get a general idea of the Split Delivery feature</a></li>
                 <li><a href="https://documentation.spryker.com/docs/address-step-shop-guide-201911#assign-multiple-delivery-addresses-to-order" class="mr-link">Assign multiple delivery addresses to an order</a></li>
             </ul>
