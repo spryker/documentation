@@ -1,17 +1,17 @@
 
 Search by customers to find out information about them. This endpoint is mostly used by [agent assists](https://documentation.spryker.com/docs/agent-assist-overview) to find out the customer reference needed to [impersonate a customer](https://documentation.spryker.com/docs/impersonating-customers-as-an-agent-assist#impersonate-a-customer).
-<!--
+
 ## Installation
+
 
 
 For detailed information on the modules that provide the API functionality and related installation instructions, see:
 
-*   [\[APPROVED\] GLUE: Agent Assist Feature Integration - ongoing](https://spryker.atlassian.net/wiki/spaces/DOCS/pages/1665597580/%5BAPPROVED%5D+GLUE%3A+Agent+Assist+Feature+Integration+-+ongoing)
+*   [Glue API: Agent Assist feature integration](https://documentation.spryker.com/docs/glue-api-agent-assist-feature-integration)
     
-*   [\[APPROVED\] Customer Account Management + Agent Assist Feature Integration - ongoing](https://spryker.atlassian.net/wiki/spaces/DOCS/pages/1668383069)
+*   [Customer Account Management + Agent Assist feature integration](https://documentation.spryker.com/docs/customer-account-management-agent-assist-feature-integration)
     
-*   [Customer Account Management Feature Integration - ongoing](https://spryker.atlassian.net/wiki/spaces/DOCS/pages/896830369/Customer+Account+Management+Feature+Integration+-+ongoing)
-    -->
+*   [Customer Account Management feature integration](https://documentation.spryker.com/docs/customer-account-management-feature-integration)
 
 ## Search by customers
 
