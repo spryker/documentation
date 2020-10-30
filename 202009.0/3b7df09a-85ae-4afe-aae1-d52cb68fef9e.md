@@ -2,6 +2,8 @@ Regular buyers, and especially B2B wholesale customers, often know what exactly 
 
 Placing an order through the Quick Order page requires significantly less navigation. This adds convenience and saves time for your new and returning customers, encouraging them to come back and buy more.
 
+Check out this video
+
 ## If you are:
 
 <div class="mr-container">
@@ -25,7 +27,7 @@ Placing an order through the Quick Order page requires significantly less naviga
         <!-- col3 -->
         <div class="mr-col">
             <ul class="mr-list mr-list-red">
-                <li class="mr-title">Shop User</li>
+                <li class="mr-title">Storefront User</li>
                 <li><a href="https://documentation.spryker.com/docs/quick-order-shop-guide" class="mr-link">Quick Order GUI</a></li>
                 <li><a href="https://documentation.spryker.com/docs/quick-order-shop-guide#creating-a-new-quick-order" class="mr-link">Create a New Quick Order</a></li>
                 <li><a href="https://documentation.spryker.com/docs/quick-order-shop-guide#adding-a-quick-order-to-a-shopping-list" class="mr-link">Add a Quick Order to a Shopping List</a></li>

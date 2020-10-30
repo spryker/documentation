@@ -1,7 +1,7 @@
 For the new customers registration in a Spryker shop, double opt-in is used. The double opt-in means that when new customers register with your shop, they are required to confirm their email. That is, when they submit the registration form, they receive an email with a confirmation link they must click to verify their account. Only after they click the verification link in the email, they can start using the online store as registered customers.
 
 :::(Info) (Info)
-Customers must always verify their email addresses, irrespective of the fact how they got registered: [by themselves on the Storefront](https://documentation.spryker.com/docs/shop-guide-creating-an-account), [by a Back Office User in the Back Office](https://documentation.spryker.com/docs/en/managing-customers#creating-a-customer), or [via the API](https://documentation.spryker.com/docs/en/managing-customers-api#creating-a-customer).
+Customers must always verify their email addresses, irrespective of the fact how they got registered: [by themselves on the Storefront](https://documentation.spryker.com/docs/shop-guide-creating-an-account), [by a Back Office User in the Back Office](https://documentation.spryker.com/docs/en/managing-customers#creating-a-customer), or [via the API](https://documentation.spryker.com/docs/en/customers#create-a-customer).
 :::
 
 ## Registration Flows
