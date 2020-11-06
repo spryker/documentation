@@ -1,7 +1,7 @@
 ## Prerequisites
 
 To integrate with FACT-Finder, you will need your FACT-Finder account. If you do not have a FACT-Finder account, please contact [FACT-Finder](http://www.fact-finder.de/).
-Make sure, that FactFinder modules were installed and configured before proceeding with the integration.
+Make sure, that FactFinder modules were [installed and configured](https://documentation.spryker.com/docs/fact-finder-installation-and-configuration) before proceeding with the integration.
 
 ### FactFinder Module
 
