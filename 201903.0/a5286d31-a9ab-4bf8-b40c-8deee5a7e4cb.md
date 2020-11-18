@@ -10,8 +10,8 @@ This feature is shipped in a form of a newsletter to which customers can subscri
         <div class="mr-col">
             <ul class="mr-list mr-list-green">
                 <li class="mr-title">Developer</li>
-                <li><a href="https://documentation.spryker.com/v2/docs/product-is-available-again-overview-201903" class="mr-link">Familiarize yourself with the Product Availability feature</a></li> 
-                <li><a href="https://documentation.spryker.com/v2/docs/product-is-available-again-feature-integration-201903" class="mr-link">Integrate the Product is Available Again v.201903.0 feature into your project</a></li>
+                <li><a href="https://documentation.spryker.com/v2/docs/back-in-stock-notification-feature-overview" class="mr-link">Familiarize yourself with the Back in Stock Notification feature</a></li> 
+                <li><a href="https://documentation.spryker.com/v2/docs/product-is-available-again-feature-integration-201903" class="mr-link">Integrate the Back in Stock Notification feature into your project</a></li>
             </ul>
         </div>
         </div>
