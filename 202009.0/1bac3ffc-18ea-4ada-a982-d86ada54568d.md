@@ -30,7 +30,7 @@ Therefore, the **Custom Order Reference** feature is pertinent when you want to:
          <!-- col3 -->
         <div class="mr-col">
             <ul class="mr-list mr-list-red">
-                <li class="mr-title">Shop User</li>
+                <li class="mr-title">Storefront User</li>
                 <li><a href="https://documentation.spryker.com/docs/custom-order-reference-feature-overview" class="mr-link">Get a general idea of the Custom Order Reference feature</a></li>
                 <li><a href="https://documentation.spryker.com/docs/shop-guide-managing-a-shopping-cart" class="mr-link">Manage a Shopping Cart</a></li>
                 <li><a href="https://documentation.spryker.com/docs/shop-guide-shopping-carts-reference-information" class="mr-link">Get some reference information about the Shopping Carts</a></li>
