@@ -83,3 +83,6 @@ Most of the time, you will need to add missing dependencies to your project to b
 
 ![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screenshot+2020-08-06+at+11.02.11.png){height="" width=""}
 
+## Reference
+Check out the [How to use Spryker Jarvis video](https://training.spryker.com/pages/spryker-tv?wchannelid=papy2tx2f6&wmediaid=jtkjogkxht) to see Spryker Jarvis in action.
+
