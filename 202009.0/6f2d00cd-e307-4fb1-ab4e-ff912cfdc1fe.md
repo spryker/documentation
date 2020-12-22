@@ -1,8 +1,15 @@
-[Spryker Jarvis](https://github.com/spryker/jarvis)’s goal is to help you migrate your project to the most up-to-date version of Spryker.
+[Spryker Jarvis](https://github.com/spryker/jarvis) is the command-line tool that allows you to analyze your Spryker-based project and eventually migrate it to the most up-to-date version of Spryker. The tool helps you to quickly get answers to the following questions:
 
-This tool is meant for developers working on the Spryker projects. Spryker Jarvis can also be useful for project managers, as it answers the question “How outdated is the project?“.
+*     How outdated is your project compared to the latest Spryker product release?
+*     What features does your project already use, and what are the other features it could use?
+*     What should you do to update your project to the latest Spryker product release?
+*     How did the new Spryker module version affect your project?
+*     How far are your modules behind the latest Spryker minor and major module versions?
+*     What features are compatible with your current project version?
 
-This article will teach you how to install and use the Spryker Jarvis tool for upgrade and analysis of your project.
+Spryker Jarvis is meant mostly for developers working on the Spryker projects who want to get a clear view of what it takes to update their project to the latest product release version of Spryker. The tools can also be useful for project managers, as it answers the question “How outdated is the project?“ and helps to estimate efforts to update the project.
+
+This article will teach you how to install and use the Spryker Jarvis tool for analysis and upgrade of your project.
 
 ## Prerequisites
 Before you can install Spryker Jarvis, make sure that you have:
@@ -29,22 +36,34 @@ Follow the terminal script about your project name.
 
 Open `http://localhost:7777` in your browser and enjoy the migration analysis.
 
-## Migration Views
-Depending on the specifics of your project and your goals, you can use various migration views available in Jarvis and take necessary actions. There are three views that are meant for the following goals:
+## Jarvis views
+Depending on your project’s specifics and your goals, you can use various migration views available in Jarvis and take necessary actions. There are three views:
 
-* Migration to a newer product release.
-* Upgrading your project modules to their current major versions.
-* Upgrading your project with the compatible Spryker features.
+* *Basic* view - for migrating to a newer product release.
+* *No-features* view - for upgrading your project modules to their current major and minor versions.
+* *Missing-features* view - for upgrading your project with the compatible Spryker features.
 
-### Migration to a Newer Product Release
-Run `node jarvis.js <path to your spryker project folder>` in the terminal to see this view:
-![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screenshot+2020-08-04+at+13.55.08.png){height="" width=""}
+### Basic view: Migrating to a newer product release
+To migrate to a newer product release, use the Jarvis *basic* view. This view lists all the Spryker features that require an upgrade to make your project up-to-date with the latest Spryker version. For each feature, the upgraded and the removed dependencies are listed.
 
-This view lists all the Spryker features for your project, where manual migration is needed. For each feature, we list the upgraded and removed dependencies. Each dependency contains the migration guide that you should follow to migrate. We also show the namespace you should check in your project when a dependency is removed from a feature:
-![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screenshot+2020-08-04+at+13.58.50.png){height="" width=""}
+This view is especially useful when: 
+
+* You have a Spryker-based product and finished the main development part of it.
+* Your project uses feature repositories, or the project is based on the Spyker[ B2B Demo Shop](https://documentation.spryker.com/docs/b2b-suite) or the [B2C Demo Shop](https://documentation.spryker.com/docs/b2c-suite). 
+
+Use this view if you want to stay up-to-date with Spryker and get new features every Spryker product release.
+
+To see this view, run `node jarvis.js <path to your spryker project folder>` in the terminal. This shows you the main Spryker Jarvis page with information about the product release you can upgrade your project to.
+![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screenshot+2020-08-04a+at+13.58.50.png){height="" width=""}
 
 It can be that a dependency has been upgraded, but no migration is needed. In this case, we will highlight it:
-![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screenshot+2020-08-04+at+14.00.13.png){height="" width=""}
+![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screenshot+2020-08-04+at+14.00.13.png){height="428" width="312"}
+
+In this view, under the list of features to upgrade and the dependencies, you can also check the features you don’t use but might be interested in. The recently released features are marked as *New feature*:
+
+![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/unused-features.png){height="" width=""}
+
+ You can go to the repository of each feature by clicking the feature names. 
 
 ### Upgrading Modules to their Current Majors
 
