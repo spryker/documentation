@@ -43,6 +43,8 @@ Depending on your project’s specifics and your goals, you can use various migr
 * *No-features* view - for upgrading your project modules to their current major and minor versions.
 * *Missing-features* view - for upgrading your project with the compatible Spryker features.
 
+<a name="basic"></a>
+
 ### Basic view: Migrating to a newer product release
 To migrate to a newer product release, use the Jarvis *basic* view. This view lists all the Spryker features that require an upgrade to make your project up-to-date with the latest Spryker version. For each feature, the upgraded and the removed dependencies are listed.
 
@@ -65,43 +67,57 @@ In this view, under the list of features to upgrade and the dependencies, you ca
 
  You can go to the repository of each feature by clicking the feature names. 
 
-### Upgrading Modules to their Current Majors
+### No-features view: Upgrading modules to their current versions
 
-Run `node jarvis.js <path to your spryker project folder> --no-features` in the terminal to see this view.
+To upgrade your modules to their current major and minor versions, use the *no-features* view.
 
-This view is only useful when your project does not use Spryker features, as it lists just modules.
+This view provides information about modules that have been upgraded to new versions by Spryker.
+
+The *no-features* view is especially useful when your project does not use any feature repository; you use just modules. This can be the case if, for example, your project is in active development or is very old.
+
+Use this view if you want to understand to what extent your project is outdated and estimate the effort to update it.
+
+:::(Info) ()
+If you use Spryker features and want to be up-to-date with them, we recommend using the [basic view](basic).
+:::
+
+To see this view, run `node jarvis.js <path to your spryker project folder> --no-features` in the terminal. This shows you what modules are behind their minor and major versions, and how far they are behind:
 
 ![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screenshot+2020-08-06+at+09.57.56.png){height="" width=""}
 
-This view allows you to understand to what extent your project is outdated. You can see all modules that are behind majors and minors.
-
-By clicking a module, you will see its detailed view as shown in the video below.
+To see details on a module, such as, what changes have been made in the later versions compared to your module version, click the module:
 
 <video width="720" height="480" controls>
   <source src="https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screen+Recording+2020-08-06+at+10.04.06.mov">
 </video>
 
-The detailed view allows you to migrate your modules to the latest version of their current majors. You can also see the changes between your current version and the latest version of the next major.
+The detailed view of modules allows you to analyze the changes, and if needed, upgrade the modules. To upgrade to the latest minor module versions, run the module [composer update](https://documentation.spryker.com/docs/composer#composer-update) command. To upgrade to a major version, follow the [migration guide](https://documentation.spryker.com/docs/about-migration) of the respective module.
 
-### Upgrading your Project with the Compatible Spryker Features
-Run `node jarvis.js <path to your spryker project folder> --missing-features` in the terminal to see this view.
+### Missing-features view: Upgrading your project with the compatible Spryker features
+To upgrade your project with the compatible Spryker features, use the *missing-features* view.
 
-This view is useful when you want to use Spryker features but do not know which versions are compatible with your project.
+This view shows you what features you could use based on the modules you already have installed. The *missing-features* view tells you which modules you should install to enable the respective Spryker features. So with this view, you can quickly identify what you need to do to replace separate modules with full-fledged features compatible with your project.
 
-![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screenshot+2020-08-06+at+10.42.15.png){height="" width=""}
+The *missing-features* view is especially useful when your project uses just Spryker modules and does not use the Spryker features, but you want to use them. If you want to start keeping your project up-to-date with the Spryker product release, but you do not know which Spryker features of which versions are compatible with your project, this the right view. 
 
-This view allows you to see all Spryker features that are compatible with your project and which minimum version you must take.
-
-Here you can also see what modules are already installed on your project and what are missing. To install the missing modules, follow the [integration guide](https://documentation.spryker.com/docs/about-integration) of the respective feature.
+To see this view, run `node jarvis.js <path to your spryker project folder> --missing-features` in the terminal. This shows you which modules of which features you have installed and what modules you still need to install to be able to use those features. This page tells you which highest versions of the features you can replace the modules with and what [integration guide](https://documentation.spryker.com/docs/about-integration) you should follow to enable the respective features:
 
 <video width="720" height="480" controls>
   <source src="https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screen+Recording+2020-08-06+at+10.50.47.mov">
 </video>
 
-Most of the time, you will need to add missing dependencies to your project to be able to use the Spryker features. But in some cases, you can swap your modules with the Spryker features, because your project already has all the dependencies:
+In most cases, you need to add missing dependencies to your project to be able to use the Spryker features. But sometimes, you can swap your modules with the Spryker features because your project already has all the dependencies, as in this example:
 
 ![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Developer+Guide/Migrating+Your+Project+to+the+Latest+Spryker+Version+with+Spryker+Jarvis/Screenshot+2020-08-06+at+11.02.11.png){height="" width=""}
 
+## Current constraints
+
+For now, you can not do the following things with Jarvis:
+
+* In the no-features view, the starting point for module updates is not provided. So as of now, the tool does not tell you which module to update first.
+* For the basic view, if you use the old Legacy Demoshop, there is no migration path. To migrate such projects, an individual approach is needed. The same is true if you use an old technology of Spryker, like collectors that have been replaced with Publish&Synchronization.
+
+    
 ## Reference
 Check out the [How to use Spryker Jarvis video](https://training.spryker.com/pages/spryker-tv?wchannelid=papy2tx2f6&wmediaid=jtkjogkxht) to see Spryker Jarvis in action.
 
