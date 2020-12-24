@@ -1,5 +1,10 @@
 This endpoint allows authenticating as a company user.
 
+## Installation
+For detailed information on the modules that provide the API functionality and related installation instructions, see [Glue API: Company Account Feature Integration](https://documentation.spryker.com/docs/glue-api-company-account-api-feature-integration).
+
+
+
 ## Authenticate as a company user
 
 To authenticate as a company user, send the request:
