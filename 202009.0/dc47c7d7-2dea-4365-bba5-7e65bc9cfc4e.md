@@ -89,4 +89,9 @@ Request sample:
  
 ##  Next steps
 
+* [Retrieve company users](https://documentation.spryker.com/docs/retrieving-company-users)
+* [Retrieve companies](https://documentation.spryker.com/docs/retrieving-companies)
+* [Retrieve business units](https://documentation.spryker.com/docs/retrieving-business-units)
+* [Retrieve company company roles](https://documentation.spryker.com/docs/retrieving-company-roles)
+* [Retrieve business unit addresses](https://documentation.spryker.com/docs/retrieving-business-unit-addresses)
 * [Manage company user authentication tokens](https://documentation.spryker.com/docs/managing-company-user-authentication-tokens)
