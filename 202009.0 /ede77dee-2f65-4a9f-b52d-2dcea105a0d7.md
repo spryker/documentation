@@ -1,6 +1,6 @@
 This page contains the information on the UI elements and pages that refer to the [Quotation Process & RFQ](https://documentation.spryker.com/docs/quotation-process-rfq-201907).
 ***
-## Quote Requests
+## Quote requests
 *Quote Requests* is the page where you can access all your RFQs. Don't have an RFQ? Start [creating](https://documentation.spryker.com/docs/creating-rfq-shop-guide) it.
 
 On the **Quote Requests** page, you see the following:
@@ -12,7 +12,7 @@ On the **Quote Requests** page, you see the following:
 
 By default, the last created RFQ goes on top of the table.
 ***
-## Quote Request
+## Quote request
 
 Every *Quote Request* page consists of the following parts:
 ![Quote request page](https://spryker.s3.eu-central-1.amazonaws.com/docs/User+Guides/Shop+User+Guides/RFQ/Shop+Guide+-+Request+for+Quote:+Reference+Information/create-rfq.png){height="" width=""}
