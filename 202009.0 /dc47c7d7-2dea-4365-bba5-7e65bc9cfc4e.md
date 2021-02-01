@@ -15,7 +15,7 @@ To authenticate as a company user, send the request:
 
 | Header key | Required | Description |
 | --- | --- | --- |
-| Authorization | v | An alphanumeric string that authorizes the customer to send requests to protected resources. Get it by [authenticating as a customer](https://documentation.spryker.com/authenticating-as-a-customer).  |
+| Authorization | v | Alphanumeric string that authorizes the customer to send requests to protected resources. Get it by [authenticating as a customer](https://documentation.spryker.com/authenticating-as-a-customer).  |
 
 ### Request
 
@@ -70,7 +70,7 @@ Request sample:
 | --- | --- | --- |
 | tokenType | String | Token type. The default value is `Bearer`. |
 | accessToken | String | Authentication token used to send requests to the protected resources available for the company user. |
-| expiresIn | Integer | The time in seconds in which the token expires. The default value is `28800`. |
+| expiresIn | Integer | Time in seconds in which the token expires. The default value is `28800`. |
 | refreshToken | String | Token used to [refresh](https://documentation.spryker.com/docs/managing-company-user-authentication-tokens#refresh-a-company-user-authentication-token) the `accessToken`. |
 
 
@@ -80,9 +80,9 @@ Request sample:
 
 | Code | Reason |
 | --- | --- |
-| 001 | Failed to authenticate a user. This can happen due to the following reasons:<ul><li>The current authenticated customer cannot authenticate as the specified company user;</li><li>The specified Company User does not exist;</li><li>The authentication token provided in the request is incorrect.</li></ul> |
-| 002 | The authentication token is missing in the request. |
-| 901 | The company user Id format is incorrect. |
+| 001 | Failed to authenticate a user. This can happen due to the following reasons:<ul><li>Current authenticated customer cannot authenticate as the specified company user;</li><li>Specified company user does not exist;</li><li>Authentication token provided in the request is incorrect.</li></ul> |
+| 002 | Authentication token is missing in the request. |
+| 901 | Company user Id format is incorrect. |
 
 To view generic errors that originate from the Glue Application, see [Reference information: GlueApplication errors](https://documentation.spryker.com/docs/reference-information-glueapplication-errors).
 
