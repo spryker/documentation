@@ -82,7 +82,7 @@ Request sample:
 | --- | --- |
 | 401 | Failed to authenticate a user. This can happen due to the following reasons:<ul><li>The current authenticated customer cannot authenticate as the specified company user;</li><li>The specified Company User does not exist;</li><li>The authentication token provided in the request is incorrect.</li></ul> |
 | 403 | The authentication token is missing in the request. |
-| 422 | The Company User Id format is incorrect. |
+| 422 | The company user Id format is incorrect. |
 
 To view generic errors that originate from the Glue Application, see [Reference information: GlueApplication errors](https://documentation.spryker.com/docs/reference-information-glueapplication-errors).
 
