@@ -26,7 +26,7 @@ To search by customers, send the request:
 
 | Header key | Type | Required | Description |
 | --- | --- | --- | --- |
-| X-Agent-Authorization | string | &check; |  A string containing digits, letters, and symbols that authorize the agent assist. [Authenticate as an agent assist](https://documentation.spryker.com/docs/authenticating-as-an-agent-assist#authenticate-as-an-agent-assist) to get the value.  |
+| X-Agent-Authorization | string | ✓ |  A string containing digits, letters, and symbols that authorize the agent assist. [Authenticate as an agent assist](https://documentation.spryker.com/docs/authenticating-as-an-agent-assist#authenticate-as-an-agent-assist) to get the value.  |
 
 
 
