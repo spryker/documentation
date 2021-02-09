@@ -324,6 +324,14 @@ To search by customers, send the request:
 | firstName | string | First name of the customer. |
 | lastName | string | Last name of the customer. |
 
+## Possible errors
+
+| Code  | Reason |
+| --- | --- |
+| 001| Access token is invalid|
+| 4103| Action is available to an agent user only.|
+
+To view generic errors that originate from the Glue Application, see [Reference information: GlueApplication errors](https://documentation.spryker.com/docs/reference-information-glueapplication-errors).
 
 ## Next steps
 
