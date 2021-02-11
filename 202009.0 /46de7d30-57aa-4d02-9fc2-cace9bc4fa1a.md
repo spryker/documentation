@@ -329,7 +329,7 @@ To search by customers, send the request:
 | Code  | Reason |
 | --- | --- |
 | 001| Access token is invalid|
-| 4103| Action is available to an agent user only.|
+| 4103| Agent access token is missing.|
 
 To view generic errors that originate from the Glue Application, see [Reference information: GlueApplication errors](https://documentation.spryker.com/docs/reference-information-glueapplication-errors).
 
