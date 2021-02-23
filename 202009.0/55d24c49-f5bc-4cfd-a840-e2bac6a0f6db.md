@@ -2,7 +2,7 @@ Spryker has always prided itself on the fast pace of innovation and rapid develo
 
 Many customers benefit from these continuous releases by having immediate access to new, sometimes even beta versions of the Spryker's modules. At the same time, with the growth of our product, we faced a necessity to also have a more structured and organized release approach. To accommodate both the fast pace of innovation and predictability of the upgrade process, we support two types of releases: Atomic (Code) Releases and Product Releases.
 
-![Product releases flow](https://spryker.s3.eu-central-1.amazonaws.com/docs/About/Releases/Release+notes/image2018-8-10_17-10-26.png){height="" width=""}
+![Product releases flow](https://spryker.s3.eu-central-1.amazonaws.com/docs/About/Releases/Release+notes/image2018-8-10_17-10-26.png)
 
 ## Atomic (Code) Releases
 Atomic, or Code Release approach, implies that we introduce changes gradually and release updates only for the modified modules. So you don’t need to invest time in updating all the modules available in your project every time there is an update. Each Spryker module is released independently and has its own version. Also, every module has its own repository and dependencies declared in a `composer.json` file, which means you can select a specific module version and update it separately.
