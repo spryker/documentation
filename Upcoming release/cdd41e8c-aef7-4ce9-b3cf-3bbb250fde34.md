@@ -10,9 +10,9 @@ Azure Active Directory is Microsoft’s multi-tenant, cloud-based directory and 
 
 The [SprykerEco.Oauth-Azure](https://github.com/spryker-eco/oauth-azure) enables OAuth 2.0 authentication via Microsoft Azure Active Directory.
 
-## Install feature core
+## Integrating Azure Active Directory
 
-Follow the steps below to install the feature core.
+Follow the steps below to integrate Azure Active Directory.
 
 ### Prerequisites
 
