@@ -631,7 +631,7 @@ console data:import product-list-product-concrete
 
 Set up the following behaviors.
 
-## Reading from product storage
+### Reading from product storage
 Add the following plugins to your project:
 
 | Plugin | Specification | Prerequisites | Namespace |
@@ -710,7 +710,7 @@ class ProductStorageDependencyProvider extends SprykerProductStorageDependencyPr
 
 @(Warning)(Verification)(Make sure that features which use Redis to read product data (i.e., Product Details Page, Product relations, etc.) don't show it when a product is restricted for the customer.)
 
-#### Product restrictions in the cart
+### Product restrictions in the cart
 Add the following plugins to handle product restrictions for cart items:
 
 | Plugin |Specification  |Prerequisites  |Namespace  |
