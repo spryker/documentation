@@ -1,12 +1,9 @@
 This page describes the Microsoft Azure Active Directory and how to integrate it into a Spryker project.
 
-## Partner Information
-
-Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses supports, and sells computer software, consumer electronics, personal computers, and related services.
+## General information
 
 Azure Active Directory is Microsoft’s multi-tenant, cloud-based directory and identity management service. For an organization, Azure AD helps employees sign up to multiple services and access them anywhere over the cloud with a single set of login credentials.
 
-## General information
 
 The [SprykerEco.Oauth-Azure](https://github.com/spryker-eco/oauth-azure) enables OAuth 2.0 authentication via Microsoft Azure Active Directory.
 
