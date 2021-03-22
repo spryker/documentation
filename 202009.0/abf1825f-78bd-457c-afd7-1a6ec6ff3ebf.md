@@ -1,5 +1,6 @@
-## Install Feature Core
-### Prerequisites
+This document describes how to integrate the Product Lists feature into a Spryker project. 
+
+## Prerequisites
 To start feature integration, overview and install the necessary features:
 
 | Name | Version |
@@ -8,8 +9,8 @@ To start feature integration, overview and install the necessary features:
 | Product |master |
 | Category Management |master |
 
-### 1) Install the Required Modules Using Composer
-Run the following command(s) to install the required modules:
+## 1) Install the required modules using Composer
+Install the required modules:
 
 ```bash
 composer require spryker-feature/product-lists:"^master" --update-with-dependencies
@@ -28,9 +29,9 @@ Make sure that the following modules have been installed:
 | `ProductStorageExtension` | `vendor/spryker/product-storage-extension` |
 :::
 
-### 2) Set up Database Schema and Transfer Objects
-
-Define the following transfer objects:
+## 2) Set up database schema and transfer objects
+Set up database schema and transfer objects:
+1. Define the following transfer objects:
 
 **src/Pyz/Shared/ProductList/Transfer/product_list.transfer.xml**
 
@@ -57,7 +58,7 @@ Define the following transfer objects:
 </transfers>
  ```
 
-Adjust the schema definition so that entity changes trigger events.
+2. Adjust the schema definition so that entity changes trigger events.
 
 | Affected entity | Triggered events |
 | --- | --- |
@@ -92,7 +93,7 @@ Adjust the schema definition so that entity changes trigger events.
  </database>
 ```
 
-Set up synchronization queue pools so  that non-multistore entities (not store-specific entities) are synchronized among stores:
+3. Set up synchronization queue pools so  that non-multistore entities (not store-specific entities) are synchronized among stores:
 
 **src/Pyz/Zed/ProductListStorage/Persistence/Propel/Schema/spy_product_list_storage.schema.xml**
 
@@ -116,7 +117,7 @@ Set up synchronization queue pools so  that non-multistore entities (not store-s
  </database>
 ```
 
-Run the following commands to apply database changes and generate entity and transfer changes:
+4. Run the following commands to apply database changes and generate entity and transfer changes:
 
 ```bash
 console transfer:generate
@@ -189,9 +190,9 @@ Make sure that the changes have been implemented successfully. For this purpose,
 | `src/Orm/Zed/ProductListStorage/Persistence/Base/SpyProductConcreteProductListStorage.php` | `sendToQueue()` |
 :::
 
-### 3) Add Translations
-
-Append glossary according to your language configuration:
+## 3) Add translations
+Add translations:
+1. Append glossary according to your language configuration:
 
 **src/data/import/glossary.csv**
 
@@ -200,7 +201,7 @@ product-cart.info.restricted-product.removed,"Unavailable item %sku% was removed
 product-cart.info.restricted-product.removed,"Der nicht verfügbare Artikel% sku% wurde aus Ihrem Einkaufswagen entfernt.",de_DE
 ```
 
-Run the following console command to import data:
+2. Run the following console command to import data:
 
 ```bash
 console data:import glossary
@@ -209,9 +210,11 @@ console data:import glossary
 @(Warning)(Verification)(Make sure that the configured data has been added to the `spy_glossary` table  in the database.)
 
 
-### 4) Configure Export to Redis and Elasticsearch
-#### Set up Event Listeners
-With this step, you will be able to publish tables on change (create, edit, delete) to the `spy_product_abstract_product_list_storage`, `spy_product_concrete_product_list_storage` and synchronize the data to Storage and Search.
+## 4) Configure export to Redis and Elasticsearch
+Configure export to Redis and Elasticsearch as follows.
+
+### Set up Event Listeners
+With this step, you publish tables on change (create, edit, delete) to the `spy_product_abstract_product_list_storage`, `spy_product_concrete_product_list_storage` and synchronize the data to Storage and Search.
 
 | Plugin | Specification |Prerequisites  | Namespace |
 | --- | --- | --- | --- |
@@ -295,8 +298,9 @@ Make sure that when a product list is created, updated or deleted, they are expo
 }
 ```
 
-### Prepare Search Data for Export
-With this step, we are extending Elasticsearch documents with product list data. Add the following plugins in your project:
+### Prepare search data for export
+With this step, you extend Elasticsearch documents with product list data. 
+Add the following plugins in your project:
 
 | Plugin | Specification |Prerequisites  |Namespace  |
 | --- | --- | --- | --- |
@@ -405,9 +409,13 @@ class SynchronizationDependencyProvider extends SprykerSynchronizationDependency
 }
 ```
 
-## 5) Import Data
-### Import Product Lists
-Prepare your data according to your requirements using our demo data:
+## 5) Import data
+Import the following data.
+
+### Import product lists
+Import product lists:
+
+1. Prepare your data according to your requirements using our demo data:
 
 **vendor/spryker/product-list-data-import/data/import/product_list.csv**
 
@@ -429,7 +437,7 @@ Prepare your data according to your requirements using our demo data:
 |`name`|mandatory|string|All computers|Custom product list name used to provide a readable title or sentence of what the list contains. Used only for internal representation.|
 |`type`|mandatory|string ("blacklist"/"whitelist")|whitelist|Defines whether the list is a blacklist or a whitelist.|
 
-Register the following plugin to enable data import:
+2. Register the following plugin to enable data import:
 
 | Plugin | Specification | Prerequisites | Namespace |
 | --- | --- | --- | --- |
@@ -460,7 +468,7 @@ class DataImportDependencyProvider extends SprykerDataImportDependencyProvider
 }
 ```
 
-Run the following console command to import data:
+3. Run the following console command to import data:
 
 ```bash
 console data:import product-list
@@ -468,8 +476,10 @@ console data:import product-list
 
 @(Warning)(Verification)(Make sure that the configured data has been added to the `spy_product_list `table in the database.)
 
-#### Import Product List Category Assignments
-Prepare your data according to your requirements using our demo data:
+### Import product list category assignments
+Import product list category assignments:
+
+1. Prepare your data according to your requirements using our demo data:
 
 **vendor/spryker/product-list-data-import/data/import/product_list_to_category.csv**
 
@@ -488,7 +498,7 @@ pl-008,smartwatches
 | `product_list_key` | mandatory | string | pl-001 | An existing product list identifier for the assignment. |
 |`category_key`|mandatory|string|computer|An existing category identifier to be assigned to the product list.|
 
-Register the following plugin to enable data import:
+2. Register the following plugin to enable data import:
 
 | Plugin | Specification | Prerequisites | Namespace |
 | --- | --- | --- | --- |
@@ -518,16 +528,17 @@ class DataImportDependencyProvider extends SprykerDataImportDependencyProvider
 }
 ```
 
-Run the following console command to import data:
+4. Run the following console command to import data:
 
 ```bash
 console data:import product-list-category
 ```
 @(Warning)(Verification)(Make sure that the configured data has been added to the `spy_product_list_category` table in the database.)
 
-#### Import Product List Concrete Product Assignments
+### Import product list concrete product assignments
+Import product list concrete product assignments:
 
-Prepare your data according to your requirements using our demo data:
+1. Prepare your data according to your requirements using our demo data:
 
 **vendor/spryker/product-list-data-import/data/import/product_list_to_concrete_product.csv**
 
@@ -578,7 +589,7 @@ pl-007,177_25913296
 | `product_list_key` | mandatory | string | pl-002 | An existing product list identifier for the assignment. |
 |`concrete_sku`|mandatory|string|166_30230575|An existing concrete product SKU to assign to the product list.|
 
-Register the following plugin to enable data import:
+2. Register the following plugin to enable data import:
 
 | Plugin | Specification | Prerequisites | Namespace |
 | --- | --- | --- | --- |
@@ -608,7 +619,7 @@ class DataImportDependencyProvider extends SprykerDataImportDependencyProvider
 }
 ```
 
-Run the following console command to import data:
+3. Run the following console command to import data:
 
 ```bash
 console data:import product-list-product-concrete
@@ -616,8 +627,11 @@ console data:import product-list-product-concrete
 
 @(Warning)(Verification)(Make sure that the configured data has been added to the `spy_product_list_product_concrete` table in the database.)
 
-## 6) Set up Behavior
-### Reading from Product Storage
+## 6) Set up behavior
+
+Set up the following behaviors.
+
+### Reading from product storage
 Add the following plugins to your project:
 
 | Plugin | Specification | Prerequisites | Namespace |
@@ -696,7 +710,7 @@ class ProductStorageDependencyProvider extends SprykerProductStorageDependencyPr
 
 @(Warning)(Verification)(Make sure that features which use Redis to read product data (i.e., Product Details Page, Product relations, etc.) don't show it when a product is restricted for the customer.)
 
-#### Product Restrictions in the Cart
+### Product restrictions in the cart
 Add the following plugins to handle product restrictions for cart items:
 
 | Plugin |Specification  |Prerequisites  |Namespace  |

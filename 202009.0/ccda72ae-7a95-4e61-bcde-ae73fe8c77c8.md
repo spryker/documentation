@@ -20,7 +20,7 @@ composer require spryker/customer-catalog:"^1.0.0" --update-with-dependencies
 :::(Warning) (Verification)
 Make sure that the following modules were installed:
 
-| Module | Expected Directorz |
+| Module | Expected Directory |
 | --- | --- |
 | CustomerCatalog | vendor/spryker/customer-catalog |
 :::
