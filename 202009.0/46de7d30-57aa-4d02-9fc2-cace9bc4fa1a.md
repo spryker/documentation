@@ -26,7 +26,7 @@ To search by customers, send the request:
 
 | Header key | Type | Required | Description |
 | --- | --- | --- | --- |
-| X-Agent-Authorization | string | v |  A string containing digits, letters, and symbols that authorize the agent assist. [Authenticate as an agent assist](https://documentation.spryker.com/docs/authenticating-as-an-agent-assist#authenticate-as-an-agent-assist) to get the value.  |
+| X-Agent-Authorization | string | ✓ |  String containing digits, letters, and symbols that authorize the agent assist. [Authenticate as an agent assist](https://documentation.spryker.com/docs/authenticating-as-an-agent-assist#authenticate-as-an-agent-assist) to get the value.  |
 
 
 
@@ -324,6 +324,14 @@ To search by customers, send the request:
 | firstName | string | First name of the customer. |
 | lastName | string | Last name of the customer. |
 
+## Possible errors
+
+| Code  | Reason |
+| --- | --- |
+| 001| Access token is invalid.|
+| 4103| Agent access token is missing.|
+
+To view generic errors that originate from the Glue Application, see [Reference information: GlueApplication errors](https://documentation.spryker.com/docs/reference-information-glueapplication-errors).
 
 ## Next steps
 

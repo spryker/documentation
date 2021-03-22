@@ -1,10 +1,10 @@
-In the B2B companies, it is important to control purchases made by employees of the company and add order references to the external systems. To keep the order references in your Spryker-based shop, use the **Custom Order  Reference** feature that allows you to link a reference used in external systems, such as ERP, to your internal order. When can this be useful? For example, your company pays the products with the invoice that has a reference. To make it easier to report and track the operations in your external systems, you, as a buyer, can include this reference number into your order.
+In the B2B companies, it is important to control purchases made by employees of the company and add order references to the external systems. To keep the order references in your Spryker-based shop, use the *Custom Order  Reference* feature that allows you to link a reference used in external systems, such as ERP, to your internal order. When can this be useful? For example, your company pays the products with the invoice that has a reference. To make it easier to report and track the operations in your external systems, you, as a buyer, can include this reference number into your order.
 
-Therefore, the **Custom Order Reference** feature is pertinent when you want to:
+Therefore, the Custom Order Reference feature is pertinent when you want to:
 
-* track and reference external orders
-* find the necessary order easier
-* reconcile and check that purchasing orders have been correctly performed
+* Track and reference external orders.
+* Find the necessary order easier.
+* Reconcile and check that purchasing orders have been correctly performed.
 
 ## If you are:
 
