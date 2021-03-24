@@ -24,17 +24,5 @@ Check out this video
                 <li><a href="https://documentation.spryker.com/docs/quick-order-non-splittable-products-feature-integration-201903" class="mr-link">Integrate the Quick Add to Cart + Non-splittable Products feature into your project</a></li>
             </ul>
         </div>
-        <!-- col3 -->
-        <div class="mr-col">
-            <ul class="mr-list mr-list-red">
-                <li class="mr-title">Storefront User</li>
-                <li><a href="https://documentation.spryker.com/docs/quick-order-shop-guide" class="mr-link">Quick Order GUI</a></li>
-                <li><a href="https://documentation.spryker.com/docs/quick-order-shop-guide#creating-a-new-quick-order" class="mr-link">Create a New Quick Order</a></li>
-                <li><a href="https://documentation.spryker.com/docs/quick-order-shop-guide#adding-a-quick-order-to-a-shopping-list" class="mr-link">Add a Quick Order to a Shopping List</a></li>
-                <li><a href="https://documentation.spryker.com/docs/quick-order-shop-guide#uploading-products-using-upload-form" class="mr-link">Upload Products Using Upload Form</a></li>
-               <li><a href="https://documentation.spryker.com/docs/quick-order-shop-guide#adding-a-quick-order-to-a-shopping-cart" class="mr-link">Add a Quick Order to a Shopping Cart</a></li>
-                <li><a href="https://documentation.spryker.com/docs/quick-order-shop-guide#adding-the-products-into-the-quick-order-form-in-bulk" class="mr-link">Add the products into the Quick Order form in bulk</a></li>
-            </ul>
-        </div>
     </div>
 </div>
