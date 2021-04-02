@@ -24,8 +24,6 @@ The *regular customer registration* implies registration triggered from the regi
 When registering during the checkout, the cart, that the customer created as the guest user, is converted to the registered user’s cart and appears in the customer’s list of shopping carts. The customer proceeds to checkout as a registered user already.
 :::
 
-See [Shop Guide - Creating an Account](https://documentation.spryker.com/docs/shop-guide-creating-an-account) for details on how customers register on the Storefront.
-
 A customer can also be *registered by a Back Office User*. In this case, the customer also receives the double opt-in email for verification. Until the customer verifies their account via the link in the email, their status is *Unverified* in the Back Office. Once the customer clicked the verification link, the status changes to *Verified*.
 
 See [Creating a Customer](https://documentation.spryker.com/docs/en/managing-customers#creating-a-customer) for details on how a Back Office user can create a customer.
