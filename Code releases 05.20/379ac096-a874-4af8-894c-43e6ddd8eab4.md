@@ -1,7 +1,7 @@
 ## Upgrading from Version 4.* to Version 5.*
 Version 4 of the Refund module no longer uses `SalesAggregatorFacade` , it was replaced with `SalesFacade`.
 The `RefundCalculator` business class must now replace `RefundToSalesAggregatorInterface` with the `RefundToSalesInterface` bridge.
-To learn more see [Migration Guide - Calculation](https://docs.demo-spryker.com/v3/docs/mg-calculation). 
+To learn more see [Migration Guide - Calculation](https://documentation.spryker.com/v3/docs/mg-calculation). 
 
 ## Upgrading from Version 2.* to Version 3.*
 To migrate the Refund module from version 2 to version 3, follow these steps:
