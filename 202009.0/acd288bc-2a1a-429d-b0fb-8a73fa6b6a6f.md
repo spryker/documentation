@@ -20,12 +20,14 @@ YOUR ADVANTAGES:
 
 To install Inxmail run the command in the console:
 ```php
- composer require spryker-eco/inxmail:1.0.0
+ composer require spryker-eco/inxmail:1.1.0
  ```
 
 ## Configuration
 
-To set up the Inxmail initial configuration, use the credentials you received from your Inxmail server. Space id, key id and secret you can get from Settings → API keys panel on Inxmail server:
+**Note:** The module supports only a subset of Inxmail REST API - transactional emails (events). 
+
+To set up the Inxmail initial configuration, use the credentials you received from your Inxmail server. Key ID and secret you can get from Settings → API keys panel on Inxmail server:
 ```php
  $config[InxmailConstants::API_EVENT_URL] = '';
  $config[InxmailConstants::KEY_ID] = '';
@@ -164,7 +166,7 @@ It sends the request via `&#xA0;\Generated\Shared\Transfer\InxmailRequestTransfe
  </transfers>
  ```
 
-The payload for customer loads from `&#xA0;\SprykerEco\Zed\Inxmail\Business\Mapper\Customer\AbstractCustomerMapper::getPayload` and for order from `&#xA0;\SprykerEco\Zed\Inxmail\Business\Mapper\Order\AbstractOrderMapper`. Abstract classes can be extended and changed in `&#xA0;\SprykerEco\Zed\Inxmail\Business\InxmailBusinessFactory.`
+The payload for customer loads from `\SprykerEco\Zed\Inxmail\Business\Mapper\Customer\AbstractCustomerMapper::getPayload` and for order from `\SprykerEco\Zed\Inxmail\Business\Mapper\Order\AbstractOrderMapper`. Abstract classes can be extended and changed in `\SprykerEco\Zed\Inxmail\Business\InxmailBusinessFactory.`
 
 For right URL's to images in the email body you should extend `\SprykerEco\Zed\Inxmail\Business\Mapper\Order\AbstractOrderMapper` and implement protected method `getImageItemLink(ArrayObject $images)`.
 
