@@ -1,3 +1,8 @@
+## Upgrading from Version 6.* to Version 6.3.0
+
+### Migrate to the New Saved Plugins: 
+Replace `\Spryker\Zed\Payment\Communication\Plugin\Checkout\PaymentOrderSaverPlugin` with `\Spryker\Zed\SalesPayment\Communication\Plugin\Checkout\SalesPaymentCheckoutDoSaveOrderPlugin` and `\Spryker\Zed\CheckoutExtension\Dependency\Plugin\CheckoutDoSaveOrderInterface`
+
 ## Upgrading from Version 4.* to Version 6.0.0
 
 @(Info)()(In order to dismantle the Horizontal Barrier and enable partial module updates on projects, a Technical Release took place. Public API of source and target major versions are equal. No migration efforts are required. Please [contact us](https://support.spryker.com/hc/en-us) if you have any questions.)
