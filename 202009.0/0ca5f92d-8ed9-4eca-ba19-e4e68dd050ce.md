@@ -1,7 +1,12 @@
 ## Upgrading from Version 6.* to Version 6.3.0
 
 ### Migrate to the New Saved Plugins: 
-Replace `\Spryker\Zed\Payment\Communication\Plugin\Checkout\PaymentOrderSaverPlugin` with `\Spryker\Zed\SalesPayment\Communication\Plugin\Checkout\SalesPaymentCheckoutDoSaveOrderPlugin` and `\Spryker\Zed\CheckoutExtension\Dependency\Plugin\CheckoutDoSaveOrderInterface`
+Replace `\Spryker\Zed\Payment\Communication\Plugin\Checkout\PaymentOrderSaverPlugin` with `\Spryker\Zed\SalesPayment\Communication\Plugin\Checkout\SalesPaymentCheckoutDoSaveOrderPlugin`
+Add `\Spryker\Zed\GiftCard\Communication\Plugin\Checkout\GiftCardCheckoutDoSaveOrderPlugin`
+
+### Migrate to the New Pre Condition Plugins: 
+Add `\Spryker\Zed\GiftCard\Communication\Plugin\Checkout\GiftCardCheckoutPreConditionPlugin`
+Add `\Spryker\Zed\Nopayment\Communication\Plugin\Checkout\NopaymentCheckoutPreConditionPlugin`
 
 ## Upgrading from Version 4.* to Version 6.0.0
 
