@@ -34,7 +34,7 @@ Note that if an index is created with the given settings, it won’t be changed 
 
 In the development environment, if you need to create new analyzers or change the index settings, you need to delete the index first and run the install process again.
 
-After running the second command, a helper class will be auto-generated for each and every index installed. You can find these classes under the `\Generated\Shared\Search` namespace. The name of the generated class starts with the name of the inex and is suffixed with `IndexMap`.
+After running the second command, a helper class will be auto-generated for each and every index installed. You can find these classes under the `\Generated\Shared\Search` namespace. The name of the generated class starts with the name of the index and is suffixed with `IndexMap`.
 
 For the default page index, the class is `\Generated\Shared\Search\PageIndexMap`.
 
