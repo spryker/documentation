@@ -14,11 +14,11 @@ Each configured store has its index installed automatically. The name of the ind
 You can define new indexes and mappings by creating new configuration files under the `Shared` namespace of any module.
 
 Example:
-`src/Shared/MyBundleName/Schema/myindex.json`
+`src/Shared/MyModuleName/Schema/myindex.json`
 
 You can extend or overwrite the existing configurations by creating a new file with the same name you wish to modify and provide only the differences compared to the original one.
 
-When the search installer runs, it first reads all the available configuration files and merges them by index name per each store. This might be handy if you have bundles that are not tightly coupled together, but both need to use the same index for some reason, or you just need to extend or override the default configuration provided on the Core level.
+When the search installer runs, it first reads all the available configuration files and merges them by index name per each store. This might be handy if you have modules that are not tightly coupled together, but both need to use the same index for some reason, or you just need to extend or override the default configuration provided on the Core level.
 
 It’s also possible to extend or modify indexes and mappings for specific stores. All you need to do is to create a new configuration file along with the name of the store (for example, `de_page.json`), and it will only be used for that store. For example, you might have a different analyzing strategy for your stores, so you’ll need to define it separately.
 
